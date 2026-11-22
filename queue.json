@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "id": "LmpEEPMpNLI_c1",
+  "source": "LmpEEPMpNLI.mp4",
+  "start": 335.4,
+  "end": 374.8,
+  "topic": "dinner before sunset, no water with meals",
+  "hook": "खाने के साथ पानी? रुकिए!",
+  "title": "डिनर कब करें और खाने के साथ पानी क्यों नहीं?",
+  "caption": "डिनर हल्का और सूरज ढलने से पहले 🌇\nआचार्य मनीष जी बताते हैं: खाने के साथ ढेर सारा पानी नहीं; प्यास लगे तो बीच में 1–2 घूंट, या गुनगुना पानी। आयुर्वेद में इसे पाचन अग्नि से जोड़ा गया है।\n\n📚 Research:\n• Gu et al., J Clin Endocrinol Metab 2020 (20 healthy adults, crossover): 10pm dinner vs 6pm → higher night-time glucose, lower fat oxidation\n• Water-with-meals 'enzyme dilution' पर मज़बूत modern evidence नहीं मिला\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #Dinacharya #EarlyDinner #Digestion #HealthyHabits #आयुर्वेद",
+  "research_short": "J Clin Endocrinol Metab 2020",
+  "research": [
+   {
+    "ref": "Gu C et al. Metabolic Effects of Late Dinner in Healthy Volunteers—A Randomized Crossover Clinical Trial. J Clin Endocrinol Metab 2020;105(8):2789-802. PMID 32525525",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32525525/",
+    "what_it_shows": "20 healthy young adults; dinner at 22:00 vs 18:00 (same food) led to higher post-meal glucose, delayed triglyceride peak and lower dietary fat oxidation overnight. Supports early dinner only; says nothing about water with meals."
+   }
+  ],
+  "status": "ready",
+  "file": "clips/LmpEEPMpNLI_c1.mp4",
+  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/LmpEEPMpNLI_c1.mp4"
+ },
+ {
+  "id": "NrQgIBqJlWs_c1",
+  "source": "NrQgIBqJlWs.mp4",
+  "start": 65.9,
+  "end": 93.2,
+  "topic": "small bites, chew 32 times",
+  "hook": "छोटी bite, 32 बार चबाओ",
+  "title": "खाना 32 बार क्यों चबाना चाहिए?",
+  "caption": "छोटी bite, 32 बार चबाओ 🍽️\nआचार्य मनीष जी: रोटी का छोटा टुकड़ा, सब्ज़ी-दाल ज़्यादा, रोटी कम, और हर कौर अच्छे से चबाओ। धीरे खाओगे तो अपने आप कम खाओगे।\n\n📚 Research:\n• Zhu & Hollis, J Acad Nutr Diet 2014 (45 adults, crossover): 1.5x–2x ज़्यादा चबाने से meal intake 9.5%–14.8% कम\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #MindfulEating #ChewYourFood #HealthyHabits #Digestion #आयुर्वेद",
+  "research_short": "J Acad Nutr Diet 2014",
+  "research": [
+   {
+    "ref": "Zhu Y, Hollis JH. Increasing the number of chews before swallowing reduces meal size in normal-weight, overweight, and obese adults. J Acad Nutr Diet 2014;114(6):926-31. PMID 24215801",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24215801/",
+    "what_it_shows": "Randomized crossover, n=45 adults eating pizza: chewing 150% and 200% of their usual chews reduced food intake by 9.5% and 14.8% and slowed eating rate. Single-meal lab study; no long-term weight data."
+   }
+  ],
+  "status": "ready",
+  "file": "clips/NrQgIBqJlWs_c1.mp4",
+  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/NrQgIBqJlWs_c1.mp4"
+ }
+]
