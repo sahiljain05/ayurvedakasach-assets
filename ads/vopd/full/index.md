@@ -24,7 +24,7 @@
 - Duration: 51.92 s total (Acharya Ji part 26.42 s + endplate vopd_endplate_L2_F.mp4), integrated loudness -16.3 LUFS, 10.4 MB
 - Contact sheet: sheet_L2_F.jpg
 - Transcript (Acharya Ji part): आयुर्वेद में भी चार सूत्र हैं। आहार, विहार, शमन और शोधन। और पांचवा विश्वास। तो बनती है मुट्ठी। लोग दवाई खाने को आयुर्वेद समझ रहे हैं। वो आयुर्वेद नहीं है। लोग डाइट ठीक करने को आयुर्वेद समझ रहे हैं, वो भी आयुर्वेद नहीं है। खाली पंचकर्म कराओ, वो भी आयुर्वेद नहीं है। और खाली लाइफस्टाइल ठीक करो, वो भी आयुर्वेद नहीं है। सारा कुछ एक साथ मुट्ठी बनेगा, तो मुक्का बनेगा।
-- Compliance: PASS: no cure/guarantee/"jad se khatm"/"theek kar denge" claim, no disease name, no hint to stop or change medicine, no Dr. Biswaroop footage or voice, no patient footage, no price/number/URL on screen, no footer.
+- Compliance: PASS: no cure/guarantee/"jad se khatm"/"theek kar denge" claim, no disease name, no hint to stop or change medicine, no Dr. Biswaroop footage or voice, no patient footage, no price/URL on screen, no footer. Note: the source's own Jeena Sikho logo (top-left) carries the tagline "120+ HOSPITALS & CLINICS" during the Acharya Ji part.
 
 ## vopd_full_L2_M.mp4
 
@@ -32,4 +32,4 @@
 - Duration: 51.92 s total (Acharya Ji part 26.42 s + endplate vopd_endplate_L2_M.mp4), integrated loudness -16.1 LUFS, 10.4 MB
 - Contact sheet: sheet_L2_M.jpg
 - Transcript (Acharya Ji part): आयुर्वेद में भी चार सूत्र हैं। आहार, विहार, शमन और शोधन। और पांचवा विश्वास। तो बनती है मुट्ठी। लोग दवाई खाने को आयुर्वेद समझ रहे हैं। वो आयुर्वेद नहीं है। लोग डाइट ठीक करने को आयुर्वेद समझ रहे हैं, वो भी आयुर्वेद नहीं है। खाली पंचकर्म कराओ, वो भी आयुर्वेद नहीं है। और खाली लाइफस्टाइल ठीक करो, वो भी आयुर्वेद नहीं है। सारा कुछ एक साथ मुट्ठी बनेगा, तो मुक्का बनेगा।
-- Compliance: PASS: no cure/guarantee/"jad se khatm"/"theek kar denge" claim, no disease name, no hint to stop or change medicine, no Dr. Biswaroop footage or voice, no patient footage, no price/number/URL on screen, no footer.
+- Compliance: PASS: no cure/guarantee/"jad se khatm"/"theek kar denge" claim, no disease name, no hint to stop or change medicine, no Dr. Biswaroop footage or voice, no patient footage, no price/URL on screen, no footer. Note: the source's own Jeena Sikho logo (top-left) carries the tagline "120+ HOSPITALS & CLINICS" during the Acharya Ji part.
