@@ -204,5 +204,29 @@
   "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/gtXL2qv-azg_c2.mp4",
   "status": "ready",
   "qc": "pass"
+ },
+ {
+  "id": "DmWr7zGSa84_c2",
+  "source": "DmWr7zGSa84_w1.mp4",
+  "start": 9.97,
+  "end": 38.0,
+  "topic": "night lights: zero-watt bulb instead of switching on all lights",
+  "hook": "रात को सारी लाइटें? बड़ी गलती!",
+  "title": "रात में नींद खुले तो सारी लाइटें मत जलाइए | जीरो वाट बल्ब",
+  "caption": "रात को नींद खुली और सारी लाइटें जला दीं? 💡\nआचार्य मनीष जी बताते हैं: हर कमरे, बाथरूम और रसोई में एक जीरो वाट (बहुत हल्की रोशनी वाला) बल्ब रखिए। रात में उठना पड़े तो वही जलाइए, ताकि शरीर को यह न लगे कि दिन हो गया और वह आराम करता रहे।\n\n📚 Research:\n• Gooley et al., J Clin Endocrinol Metab 2011 (116 healthy adults): सोने से पहले की सामान्य room light (<200 lux) ने dim light की तुलना में melatonin देर से शुरू कराया और उसकी अवधि लगभग 90 मिनट घटाई; नींद के समय room light में ज़्यादातर trials में melatonin 50% से ज़्यादा दबा\n• यह study liver/kidney पर असर नहीं मापती\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #Sleep #Dinacharya #NightRoutine #HealthyHabits #आयुर्वेद",
+  "research_short": "J Clin Endocrinol Metab 2011",
+  "research": [
+   {
+    "ref": "Gooley JJ et al. Exposure to room light before bedtime suppresses melatonin onset and shortens melatonin duration in humans. J Clin Endocrinol Metab 2011;96(3):E463-72. PMID 21193540, PMC3047226",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21193540/",
+    "what_it_shows": "Retrospective analysis, 116 healthy adults (18-30 y): room light (<200 lux) vs dim light (<3 lux) in the 8 h before bedtime delayed melatonin onset in 99% and shortened melatonin duration by ~90 min; room light during usual sleep hours suppressed melatonin >50% in 85% of trials. Supports dim light at night; does not test organ effects."
+   }
+  ],
+  "speaker": "Acharya Manish Ji",
+  "credit_line": "🎥 Clip: Acharya Manish Ji (official YouTube)",
+  "status": "ready",
+  "qc": "pass",
+  "file": "clips/DmWr7zGSa84_c2.mp4",
+  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/DmWr7zGSa84_c2.mp4"
  }
 ]
