@@ -1,89 +1,89 @@
 [
-  {
-    "id": "LmpEEPMpNLI_c1",
-    "source": "LmpEEPMpNLI.mp4",
-    "start": 335.4,
-    "end": 374.8,
-    "topic": "dinner before sunset, no water with meals",
-    "hook": "खाने के साथ पानी? रुकिए!",
-    "title": "डिनर कब करें और खाने के साथ पानी क्यों नहीं?",
-    "caption": "डिनर हल्का और सूरज ढलने से पहले 🌇\nआचार्य मनीष जी बताते हैं: खाने के साथ ढेर सारा पानी नहीं; प्यास लगे तो बीच में 1–2 घूंट, या गुनगुना पानी। आयुर्वेद में इसे पाचन अग्नि से जोड़ा गया है।\n\n📚 Research:\n• Gu et al., J Clin Endocrinol Metab 2020 (20 healthy adults, crossover): 10pm dinner vs 6pm → higher night-time glucose, lower fat oxidation\n• Water-with-meals 'enzyme dilution' पर मज़बूत modern evidence नहीं मिला\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #Dinacharya #EarlyDinner #Digestion #HealthyHabits #आयुर्वेद",
-    "research_short": "J Clin Endocrinol Metab 2020",
-    "research": [
-      {
-        "ref": "Gu C et al. Metabolic Effects of Late Dinner in Healthy Volunteers—A Randomized Crossover Clinical Trial. J Clin Endocrinol Metab 2020;105(8):2789-802. PMID 32525525",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/32525525/",
-        "what_it_shows": "20 healthy young adults; dinner at 22:00 vs 18:00 (same food) led to higher post-meal glucose, delayed triglyceride peak and lower dietary fat oxidation overnight. Supports early dinner only; says nothing about water with meals."
-      }
-    ],
-    "status": "ready",
-    "file": "clips/LmpEEPMpNLI_c1.mp4",
-    "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/LmpEEPMpNLI_c1.mp4",
-    "qc": "pass",
-    "qc_reason": "re-rendered 2026-11-23 with speaker-crop framing; QC pass; human review approved 2026-11-23"
-  },
-  {
-    "id": "NrQgIBqJlWs_c1",
-    "source": "NrQgIBqJlWs.mp4",
-    "start": 65.9,
-    "end": 93.2,
-    "topic": "small bites, chew 32 times",
-    "hook": "छोटी bite, 32 बार चबाओ",
-    "title": "खाना 32 बार क्यों चबाना चाहिए?",
-    "caption": "छोटी bite, 32 बार चबाओ 🍽️\nआचार्य मनीष जी: रोटी का छोटा टुकड़ा, सब्ज़ी-दाल ज़्यादा, रोटी कम, और हर कौर अच्छे से चबाओ। धीरे खाओगे तो अपने आप कम खाओगे।\n\n📚 Research:\n• Zhu & Hollis, J Acad Nutr Diet 2014 (45 adults, crossover): 1.5x–2x ज़्यादा चबाने से meal intake 9.5%–14.8% कम\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #MindfulEating #ChewYourFood #HealthyHabits #Digestion #आयुर्वेद",
-    "research_short": "J Acad Nutr Diet 2014",
-    "research": [
-      {
-        "ref": "Zhu Y, Hollis JH. Increasing the number of chews before swallowing reduces meal size in normal-weight, overweight, and obese adults. J Acad Nutr Diet 2014;114(6):926-31. PMID 24215801",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/24215801/",
-        "what_it_shows": "Randomized crossover, n=45 adults eating pizza: chewing 150% and 200% of their usual chews reduced food intake by 9.5% and 14.8% and slowed eating rate. Single-meal lab study; no long-term weight data."
-      }
-    ],
-    "status": "ready",
-    "file": "clips/NrQgIBqJlWs_c1.mp4",
-    "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/NrQgIBqJlWs_c1.mp4",
-    "qc": "pass"
-  },
-  {
-    "id": "aks001",
-    "source": "aks_test1.mp4",
-    "start": 7.93,
-    "end": 43,
-    "topic": "Doodh aur phal saath mein",
-    "hook": "दूध के साथ फल? रुकिए!",
-    "title": "दूध के साथ फल — आयुर्वेद क्या कहता है?",
-    "caption": "आयुर्वेद में दूध और फल को एक साथ लेना 'विरुद्ध आहार' माना गया है — ऐसा मेल जो पाचन पर भारी पड़ सकता है। इस बातचीत में Acharya Manish Ji बताते हैं कि फल लेना हो तो गाय-भैंस के दूध के साथ नहीं — नारियल, बादाम या मूंगफली के दूध के साथ लिया जा सकता है।",
-    "research_short": "Charaka Su.26 · Serafini 2009",
-    "research": [
-      {
-        "ref": "Charaka Samhita, Sutrasthana 26 (viruddha ahara); Sabnis M., AYU 2012 (PMC3665091)",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3665091/",
-        "what_it_shows": "classical concept of incompatible food combinations (review article)"
-      },
-      {
-        "ref": "Serafini M. et al., Free Radic Biol Med 2009 (PMID 19135520)",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/19135520/",
-        "what_it_shows": "small human study: taking blueberries with milk reduced the rise in blood antioxidant levels vs blueberries with water"
-      }
-    ],
-    "transcript": "aks_test1.chirp.json",
-    "broll": [
-      [
-        15.01,
-        17.15
-      ]
-    ],
-    "status": "posted_ig",
-    "qc": "pass",
-    "file": "clips/aks001_v4.mp4",
-    "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/aks001_v4.mp4",
-    "approved": "user approved v4 on 2026-11-23 for a one-off IG+FB post",
-    "source_note": "aks_test1.mp4 = LmpEEPMpNLI 190-235 s; Chirp 3 transcript",
-    "ig_media_id": "18323493172303346",
-    "posted_ig_at": "2026-11-23T03:02:25.420375+00:00",
-    "ig_permalink": "https://www.instagram.com/reel/DgEXe_Okj1X/",
-    "fb_video_id": "1909608663738364",
-    "posted_fb_at": "2026-11-23T03:04:45.336028+00:00",
-    "fb_permalink": "https://www.facebook.com/reel/1909608663738364/"
-  }
+ {
+  "id": "LmpEEPMpNLI_c1",
+  "source": "LmpEEPMpNLI.mp4",
+  "start": 335.4,
+  "end": 374.8,
+  "topic": "dinner before sunset, no water with meals",
+  "hook": "खाने के साथ पानी? रुकिए!",
+  "title": "डिनर कब करें और खाने के साथ पानी क्यों नहीं?",
+  "caption": "डिनर हल्का और सूरज ढलने से पहले 🌇\nआचार्य मनीष जी बताते हैं: खाने के साथ ढेर सारा पानी नहीं; प्यास लगे तो बीच में 1–2 घूंट, या गुनगुना पानी। आयुर्वेद में इसे पाचन अग्नि से जोड़ा गया है।\n\n📚 Research:\n• Gu et al., J Clin Endocrinol Metab 2020 (20 healthy adults, crossover): 10pm dinner vs 6pm → higher night-time glucose, lower fat oxidation\n• Water-with-meals 'enzyme dilution' पर मज़बूत modern evidence नहीं मिला\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #Dinacharya #EarlyDinner #Digestion #HealthyHabits #आयुर्वेद",
+  "research_short": "J Clin Endocrinol Metab 2020",
+  "research": [
+   {
+    "ref": "Gu C et al. Metabolic Effects of Late Dinner in Healthy Volunteers—A Randomized Crossover Clinical Trial. J Clin Endocrinol Metab 2020;105(8):2789-802. PMID 32525525",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32525525/",
+    "what_it_shows": "20 healthy young adults; dinner at 22:00 vs 18:00 (same food) led to higher post-meal glucose, delayed triglyceride peak and lower dietary fat oxidation overnight. Supports early dinner only; says nothing about water with meals."
+   }
+  ],
+  "status": "ready",
+  "file": "clips/LmpEEPMpNLI_c1.mp4",
+  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/LmpEEPMpNLI_c1.mp4",
+  "qc": "pass",
+  "qc_reason": "re-rendered 2026-11-23 with speaker-crop framing; QC pass; human review approved 2026-11-23"
+ },
+ {
+  "id": "NrQgIBqJlWs_c1",
+  "source": "NrQgIBqJlWs.mp4",
+  "start": 65.9,
+  "end": 93.2,
+  "topic": "small bites, chew 32 times",
+  "hook": "छोटी bite, 32 बार चबाओ",
+  "title": "खाना 32 बार क्यों चबाना चाहिए?",
+  "caption": "छोटी bite, 32 बार चबाओ 🍽️\nआचार्य मनीष जी: रोटी का छोटा टुकड़ा, सब्ज़ी-दाल ज़्यादा, रोटी कम, और हर कौर अच्छे से चबाओ। धीरे खाओगे तो अपने आप कम खाओगे।\n\n📚 Research:\n• Zhu & Hollis, J Acad Nutr Diet 2014 (45 adults, crossover): 1.5x–2x ज़्यादा चबाने से meal intake 9.5%–14.8% कम\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #MindfulEating #ChewYourFood #HealthyHabits #Digestion #आयुर्वेद",
+  "research_short": "J Acad Nutr Diet 2014",
+  "research": [
+   {
+    "ref": "Zhu Y, Hollis JH. Increasing the number of chews before swallowing reduces meal size in normal-weight, overweight, and obese adults. J Acad Nutr Diet 2014;114(6):926-31. PMID 24215801",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24215801/",
+    "what_it_shows": "Randomized crossover, n=45 adults eating pizza: chewing 150% and 200% of their usual chews reduced food intake by 9.5% and 14.8% and slowed eating rate. Single-meal lab study; no long-term weight data."
+   }
+  ],
+  "status": "ready",
+  "file": "clips/NrQgIBqJlWs_c1.mp4",
+  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/NrQgIBqJlWs_c1.mp4",
+  "qc": "pass"
+ },
+ {
+  "id": "aks001",
+  "source": "aks_test1.mp4",
+  "start": 7.93,
+  "end": 43,
+  "topic": "Doodh aur phal saath mein",
+  "hook": "दूध के साथ फल? रुकिए!",
+  "title": "दूध के साथ फल — आयुर्वेद क्या कहता है?",
+  "caption": "आयुर्वेद में दूध और फल को एक साथ लेना 'विरुद्ध आहार' माना गया है — ऐसा मेल जो पाचन पर भारी पड़ सकता है। इस बातचीत में Acharya Manish Ji बताते हैं कि फल लेना हो तो गाय-भैंस के दूध के साथ नहीं — नारियल, बादाम या मूंगफली के दूध के साथ लिया जा सकता है।",
+  "research_short": "Charaka Su.26 · Serafini 2009",
+  "research": [
+   {
+    "ref": "Charaka Samhita, Sutrasthana 26 (viruddha ahara); Sabnis M., AYU 2012 (PMC3665091)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3665091/",
+    "what_it_shows": "classical concept of incompatible food combinations (review article)"
+   },
+   {
+    "ref": "Serafini M. et al., Free Radic Biol Med 2009 (PMID 19135520)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/19135520/",
+    "what_it_shows": "small human study: taking blueberries with milk reduced the rise in blood antioxidant levels vs blueberries with water"
+   }
+  ],
+  "transcript": "aks_test1.chirp.json",
+  "broll": [
+   [
+    15.01,
+    17.15
+   ]
+  ],
+  "status": "posted_ig",
+  "qc": "pass",
+  "file": "clips/aks001_v4.mp4",
+  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/aks001_v4.mp4",
+  "approved": "user approved v4 on 2026-11-23 for a one-off IG+FB post",
+  "source_note": "aks_test1.mp4 = LmpEEPMpNLI 190-235 s; Chirp 3 transcript",
+  "ig_media_id": "18323493172303346",
+  "posted_ig_at": "2026-11-23T03:02:25.420375+00:00",
+  "ig_permalink": "https://www.instagram.com/reel/DgEXe_Okj1X/",
+  "fb_video_id": "1909608663738364",
+  "posted_fb_at": "2026-11-23T03:04:45.336028+00:00",
+  "fb_permalink": "https://www.facebook.com/reel/1909608663738364/"
+ }
 ]
