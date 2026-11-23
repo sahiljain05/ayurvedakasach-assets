@@ -73,11 +73,14 @@
     17.15
    ]
   ],
-  "status": "approved_manual",
+  "status": "posted_ig",
   "qc": "pass",
   "file": "clips/aks001_v4.mp4",
   "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/aks001_v4.mp4",
   "approved": "user approved v4 on 2026-11-23 for a one-off IG+FB post",
-  "source_note": "aks_test1.mp4 = LmpEEPMpNLI 190-235 s; Chirp 3 transcript"
+  "source_note": "aks_test1.mp4 = LmpEEPMpNLI 190-235 s; Chirp 3 transcript",
+  "ig_media_id": "18323493172303346",
+  "posted_ig_at": "2026-11-23T03:02:25.420375+00:00",
+  "ig_permalink": "https://www.instagram.com/reel/DgEXe_Okj1X/"
  }
 ]
