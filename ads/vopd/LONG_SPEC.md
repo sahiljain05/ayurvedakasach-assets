@@ -23,13 +23,16 @@ Total 5:00-6:30 min. Two renders of the same edit:
 - No before/after, no lab reports or prescriptions on screen, no phone numbers, no hospital/camp promotion audio from the source, no Dr. Biswaroop footage or voice.
 - Patient faces/names: only from testimonial videos already published on the official channel. List each patient clip (video id + timestamps) in index so Legal can confirm signed consent covers paid-ad use.
 
-## Voice-over endplate (Google Cloud TTS hi-IN Chirp 3 HD; render two versions: female and male; generic voice, never clone a real person)
-"आयुर्वेद में इलाज सिर्फ़ दवा नहीं, सही खान-पान, दिनचर्या और सही सलाह का साथ है।
-अब Jeena Sikho HiiMS की वर्चुअल ओपीडी में आप घर बैठे हमारे आयुर्वेद डॉक्टरों से वीडियो कॉल पर बात कर सकते हैं।
-अपनी समस्या बताइए, डॉक्टर आपकी दिनचर्या और खान-पान को समझेंगे और आपको सही मार्गदर्शन देंगे।
-नीचे दिए लिंक पर क्लिक करें और आज ही अपनी वीडियो कंसल्टेशन बुक करें।"
-(For TTS only, write "HiiMS" as "हिम्स" if mispronounced.)
-On-screen endplate: Jeena Sikho HiiMS · Virtual OPD / घर बैठे आयुर्वेद डॉक्टर से वीडियो पर सलाह / 👉 नीचे दिए लिंक पर अभी बुक करें (no footer).
+## Voice-over endplate (changed 23 Nov per ENDPLATE_VO.md part 3)
+The closing voice-over is L1 for the female version and L2 for the male version; reuse the WAVs from ENDPLATE_VO.md part 1 as is
+(Google Cloud TTS hi-IN Chirp 3 HD, generic synthetic voice, never a clone of a real person):
+- Female: ads/vopd/vo/L1_F.wav (hi-IN-Chirp3-HD-Pulcherrima)
+- Male: ads/vopd/vo/L2_M.wav (hi-IN-Chirp3-HD-Alnilam; 19.3 s, accepted as is by the user)
+L1 (natural healing): क्या आप अपनी सेहत के लिए आयुर्वेद और प्राकृतिक तरीकों को अपनाना चाहते हैं? अब जीना सीखो हिम्स की वर्चुअल ओपीडी में, घर बैठे, वीडियो कॉल पर हमारे आयुर्वेद डॉक्टरों से बात कीजिए। डॉक्टर आपकी बात ध्यान से सुनेंगे, आपकी दिनचर्या और खान-पान समझेंगे, और आयुर्वेद के नज़रिए से आपको मार्गदर्शन देंगे। नीचे दिए लिंक पर क्लिक करें और अपनी वीडियो कंसल्टेशन बुक करें।
+L2 (second opinion): अपनी सेहत को लेकर एक दूसरी राय चाहते हैं? जीना सीखो हिम्स की वर्चुअल ओपीडी में, आयुर्वेद डॉक्टर से घर बैठे वीडियो पर विस्तार से बात कीजिए। अपनी रिपोर्ट्स और अब तक का अनुभव साथ रखिए; डॉक्टर आपकी पूरी बात समझकर आयुर्वेद के अनुसार सलाह देंगे। नीचे दिए लिंक से आज ही अपनी वीडियो कंसल्टेशन बुक करें।
+(The old 4-sentence voice-over script is replaced.) The endplate length follows the VO (VO is never cut or sped up).
+On-screen endplate: Jeena Sikho HiiMS · Virtual OPD / घर बैठे आयुर्वेद डॉक्टर से वीडियो पर सलाह / Natural healing · Second opinion / 👉 नीचे दिए लिंक पर अभी बुक करें (no footer: removed per user decision 23 Nov, FULL_AD.md part 0).
+No "cure", "theek kar denge", "jad se khatm", disease names, or stop-medicine hints anywhere in endplates.
 
 ## Audio/visual
 - Burned-in Hindi captions (Chirp transcription, caption cleanup) in both formats; landscape captions bottom-centre.
