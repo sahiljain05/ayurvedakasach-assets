@@ -13,7 +13,9 @@
       {
         "ref": "Gu C et al. Metabolic Effects of Late Dinner in Healthy Volunteers—A Randomized Crossover Clinical Trial. J Clin Endocrinol Metab 2020;105(8):2789-802. PMID 32525525",
         "url": "https://pubmed.ncbi.nlm.nih.gov/32525525/",
-        "what_it_shows": "20 healthy young adults; dinner at 22:00 vs 18:00 (same food) led to higher post-meal glucose, delayed triglyceride peak and lower dietary fat oxidation overnight. Supports early dinner only; says nothing about water with meals."
+        "what_it_shows": "20 healthy young adults; dinner at 22:00 vs 18:00 (same food) led to higher post-meal glucose, delayed triglyceride peak and lower dietary fat oxidation overnight. Supports early dinner only; says nothing about water with meals.",
+        "cite": "Gu et al., J Clin Endocrinol Metab 2020",
+        "note_hi": "रात 10 बजे के मुकाबले शाम 6 बजे डिनर पर glucose बेहतर रहा"
       }
     ],
     "status": "posted_ig",
@@ -40,7 +42,9 @@
       {
         "ref": "Zhu Y, Hollis JH. Increasing the number of chews before swallowing reduces meal size in normal-weight, overweight, and obese adults. J Acad Nutr Diet 2014;114(6):926-31. PMID 24215801",
         "url": "https://pubmed.ncbi.nlm.nih.gov/24215801/",
-        "what_it_shows": "Randomized crossover, n=45 adults eating pizza: chewing 150% and 200% of their usual chews reduced food intake by 9.5% and 14.8% and slowed eating rate. Single-meal lab study; no long-term weight data."
+        "what_it_shows": "Randomized crossover, n=45 adults eating pizza: chewing 150% and 200% of their usual chews reduced food intake by 9.5% and 14.8% and slowed eating rate. Single-meal lab study; no long-term weight data.",
+        "cite": "Zhu & Hollis, J Acad Nutr Diet 2014",
+        "note_hi": "ज़्यादा चबाने से एक meal में 9.5–14.8% कम खाना खाया गया"
       }
     ],
     "status": "posted_ig",
@@ -66,12 +70,16 @@
       {
         "ref": "Charaka Samhita, Sutrasthana 26 (viruddha ahara); Sabnis M., AYU 2012 (PMC3665091)",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3665091/",
-        "what_it_shows": "classical concept of incompatible food combinations (review article)"
+        "what_it_shows": "classical concept of incompatible food combinations (review article)",
+        "cite": "चरक संहिता, सूत्रस्थान 26; Sabnis, AYU 2012",
+        "note_hi": "विरुद्ध आहार यानी पाचन पर भारी पड़ने वाले भोजन-मेल का वर्णन"
       },
       {
         "ref": "Serafini M. et al., Free Radic Biol Med 2009 (PMID 19135520)",
         "url": "https://pubmed.ncbi.nlm.nih.gov/19135520/",
-        "what_it_shows": "small human study: taking blueberries with milk reduced the rise in blood antioxidant levels vs blueberries with water"
+        "what_it_shows": "small human study: taking blueberries with milk reduced the rise in blood antioxidant levels vs blueberries with water",
+        "cite": "Serafini et al., Free Radic Biol Med 2009",
+        "note_hi": "ब्लूबेरी दूध के साथ लेने पर blood antioxidant कम बढ़े"
       }
     ],
     "transcript": "aks_test1.chirp.json",
@@ -108,7 +116,9 @@
       {
         "ref": "Ashtanga Hridaya, Sutrasthana 2.18 (Dinacharya): bathing is 'garhita' (not advised) for one who has just eaten (bhuktavat)",
         "url": "https://satyori.com/sacred-texts/ashtanga-hridayam/sutrasthana/2-18/",
-        "what_it_shows": "Classical daily-routine text lists 'just after a meal' among the conditions in which bathing is not advised. Classical guidance only; no modern trial on bath timing."
+        "what_it_shows": "Classical daily-routine text lists 'just after a meal' among the conditions in which bathing is not advised. Classical guidance only; no modern trial on bath timing.",
+        "cite": "अष्टांग हृदय, सूत्रस्थान 2.18",
+        "note_hi": "भोजन के तुरंत बाद स्नान उचित नहीं बताया गया"
       }
     ],
     "file": "clips/w5EpsKIMGIA_c1.mp4",
@@ -134,7 +144,9 @@
       {
         "ref": "Verger EO et al. Dietary Diversity Indicators and Their Associations with Dietary Adequacy and Health Outcomes: A Systematic Scoping Review. Adv Nutr 2021;12(5):1659-72. PMID 33684194",
         "url": "https://pubmed.ncbi.nlm.nih.gov/33684194/",
-        "what_it_shows": "Review of 161 studies: 50 studies found dietary-diversity scores track micronutrient adequacy; links to health outcomes (weight, NCDs) were inconsistent."
+        "what_it_shows": "Review of 161 studies: 50 studies found dietary-diversity scores track micronutrient adequacy; links to health outcomes (weight, NCDs) were inconsistent.",
+        "cite": "Verger et al., Adv Nutr 2021",
+        "note_hi": "विविध भोजन से micronutrients की बेहतर पूर्ति (161 studies की review)"
       }
     ],
     "file": "clips/w5EpsKIMGIA_c2.mp4",
@@ -154,18 +166,22 @@
     "topic": "angry or tense? eat light (fruit/salad)",
     "hook": "गुस्से में खाना? रुकिए!",
     "title": "गुस्से या टेंशन में खाना क्यों न खाएं?",
-    "caption": "गुस्से या टेंशन में भारी खाना? रुकिए 😤\nआचार्य मनीष जी: जिस दिन मूड खराब हो, गुस्सा या टेंशन हो, उस दिन भारी खाना नहीं; फल, नारियल पानी या हरी सब्ज़ी-सलाद। जैसे गर्म हुई मिक्सी को बंद कर देते हैं।\n\n📚 Research:\n• चरक संहिता, विमानस्थान 2.9: चिंता, शोक, भय, क्रोध में सही मात्रा का पथ्य भोजन भी ठीक से नहीं पचता\n• Lee et al., J Gastroenterol Hepatol 2013 (सिर्फ 8 लोग): stress में पेट खाली होने में ज़्यादा समय (131 vs 105 min)\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #MindfulEating #Stress #Digestion #GutHealth #आयुर्वेद",
+    "caption": "गुस्से या टेंशन में भारी खाना? रुकिए 😤\nआचार्य मनीष जी: जिस दिन मूड खराब हो, गुस्सा या टेंशन हो, उस दिन भारी खाना नहीं; फल, नारियल पानी या हरी सब्ज़ी-सलाद। जैसे गर्म हुई मिक्सी को बंद कर देते हैं।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #MindfulEating #Stress #Digestion #GutHealth #आयुर्वेद",
     "research_short": "Charaka Vi. 2.9 · JGH 2013",
     "research": [
       {
         "ref": "Charaka Samhita, Vimanasthana 2.9 (Trividhakukshiya Vimana)",
         "url": "https://carakasamhitaonline.com/index.php/Trividhakukshiya_Vimana",
-        "what_it_shows": "'Even wholesome food in the right quantity is not digested properly when the mind is troubled by worry, grief, fear, anger...' (classical text)."
+        "what_it_shows": "'Even wholesome food in the right quantity is not digested properly when the mind is troubled by worry, grief, fear, anger...' (classical text).",
+        "cite": "चरक संहिता, विमानस्थान 2.9",
+        "note_hi": "चिंता, शोक, भय, क्रोध में सही भोजन भी ठीक से नहीं पचता"
       },
       {
         "ref": "Lee HS et al. Effect of acute auditory stress on gastric motor responses to a meal in healthy volunteers. J Gastroenterol Hepatol 2013;28(11):1699-704. PMID 23800263",
         "url": "https://pubmed.ncbi.nlm.nih.gov/23800263/",
-        "what_it_shows": "Randomized crossover, only 8 healthy volunteers: under acute noise stress gastric half-emptying time was longer (130.8 vs 105.0 min) and post-meal fullness/discomfort higher. Very small study; other small studies were inconsistent."
+        "what_it_shows": "Randomized crossover, only 8 healthy volunteers: under acute noise stress gastric half-emptying time was longer (130.8 vs 105.0 min) and post-meal fullness/discomfort higher. Very small study; other small studies were inconsistent.",
+        "cite": "Lee et al., J Gastroenterol Hepatol 2013",
+        "note_hi": "stress में पेट खाली होने में ज़्यादा समय लगा"
       }
     ],
     "file": "clips/w5EpsKIMGIA_c3.mp4",
@@ -181,13 +197,15 @@
     "topic": "amla, the cheap vitamin C superfood",
     "hook": "सबसे सस्ता सुपरफूड: आंवला",
     "title": "आंवला: दुनिया का सबसे सस्ता सुपरफूड?",
-    "caption": "रोज इग्नोर होने वाला छोटा हरा फल 🟢\nआचार्य मनीष जी: आंवला सस्ता है और विटामिन C से भरपूर; साथ में एंटीऑक्सीडेंट, कैल्शियम, आयरन, विटामिन A, B1, E भी। मुरब्बा, अचार या ताज़ा, जैसे भी खाएं।\n\n📚 Research:\n• Gul et al., Antioxidants 2022 (review): ताज़े आंवले में विटामिन C 193–720 mg/100 g (किस्म के हिसाब से); 2–3 आंवले (~100 g) से रोज़ की ज़रूरत पूरी हो सकती है\n• '20 गुना' जैसी तुलना किस्म पर निर्भर है; कुछ studies में मापी गई मात्रा कम भी निकली\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #Amla #VitaminC #Superfood #HealthyHabits #आयुर्वेद",
+    "caption": "रोज इग्नोर होने वाला छोटा हरा फल 🟢\nआचार्य मनीष जी: आंवला सस्ता है और विटामिन C से भरपूर; साथ में एंटीऑक्सीडेंट, कैल्शियम, आयरन, विटामिन A, B1, E भी। मुरब्बा, अचार या ताज़ा, जैसे भी खाएं।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #Amla #VitaminC #Superfood #HealthyHabits #आयुर्वेद",
     "research_short": "Antioxidants 2022 (review)",
     "research": [
       {
         "ref": "Gul M et al. Functional and Nutraceutical Significance of Amla (Phyllanthus emblica L.): A Review. Antioxidants (Basel) 2022;11(5):816. PMID 35624683",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9137578/",
-        "what_it_shows": "Review: vitamin C values of 193–720 mg/100 g reported across amla varieties; also vitamins A, B1, E, calcium and iron; ~100 g fresh amla (2–3 fruits) can cover the daily vitamin C requirement. Composition review, no clinical outcome data. Note: a 2009 J Agric Food Chem paper (PMID 19063633) argues earlier ascorbic acid values may be overestimated."
+        "what_it_shows": "Review: vitamin C values of 193–720 mg/100 g reported across amla varieties; also vitamins A, B1, E, calcium and iron; ~100 g fresh amla (2–3 fruits) can cover the daily vitamin C requirement. Composition review, no clinical outcome data. Note: a 2009 J Agric Food Chem paper (PMID 19063633) argues earlier ascorbic acid values may be overestimated.",
+        "cite": "Gul et al., Antioxidants 2022",
+        "note_hi": "ताज़े आंवले में 193–720 mg/100 g विटामिन C, किस्म के अनुसार"
       }
     ],
     "file": "clips/ADZdpWvfBSs_c1.mp4",
@@ -203,13 +221,15 @@
     "topic": "warm veg soup at dinner, eat by sunset",
     "hook": "रात को सलाद? सूप पीजिए!",
     "title": "रात को सलाद नहीं, सूप क्यों? डिनर का सही समय",
-    "caption": "रात को सलाद नहीं, गर्म सूप 🍲\nआचार्य मनीष जी: डिनर में पहले गर्म वेजिटेबल सूप; शाम को खीरा-टमाटर-प्याज कई लोगों को सूट नहीं करते। आखिरी खाना सूरज डूबने के आसपास, 6–7 बजे, ज़्यादा से ज़्यादा 8 बजे तक; 9–10 बजे नहीं।\n\n📚 Research:\n• Gu et al., J Clin Endocrinol Metab 2020 (20 healthy adults, crossover): रात 10 बजे vs शाम 6 बजे डिनर → रात में ज़्यादा glucose, कम fat burning\n• सूप vs सलाद पर कोई direct study नहीं मिली\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #EarlyDinner #Dinacharya #Soup #HealthyHabits #आयुर्वेद",
+    "caption": "रात को सलाद नहीं, गर्म सूप 🍲\nआचार्य मनीष जी: डिनर में पहले गर्म वेजिटेबल सूप; शाम को खीरा-टमाटर-प्याज कई लोगों को सूट नहीं करते। आखिरी खाना सूरज डूबने के आसपास, 6–7 बजे, ज़्यादा से ज़्यादा 8 बजे तक; 9–10 बजे नहीं।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #EarlyDinner #Dinacharya #Soup #HealthyHabits #आयुर्वेद",
     "research_short": "J Clin Endocrinol Metab 2020",
     "research": [
       {
         "ref": "Gu C et al. Metabolic Effects of Late Dinner in Healthy Volunteers—A Randomized Crossover Clinical Trial. J Clin Endocrinol Metab 2020;105(8):2789-802. PMID 32525525",
         "url": "https://pubmed.ncbi.nlm.nih.gov/32525525/",
-        "what_it_shows": "20 healthy young adults; dinner at 22:00 vs 18:00 (same food) led to higher post-meal glucose and lower overnight fat oxidation. Supports an earlier dinner only; does not test soup vs salad."
+        "what_it_shows": "20 healthy young adults; dinner at 22:00 vs 18:00 (same food) led to higher post-meal glucose and lower overnight fat oxidation. Supports an earlier dinner only; does not test soup vs salad.",
+        "cite": "Gu et al., J Clin Endocrinol Metab 2020",
+        "note_hi": "रात 10 बजे के मुकाबले शाम 6 बजे डिनर पर glucose बेहतर रहा"
       }
     ],
     "file": "clips/gtXL2qv-azg_c2.mp4",
@@ -225,13 +245,15 @@
     "topic": "night lights: zero-watt bulb instead of switching on all lights",
     "hook": "रात को सारी लाइटें? बड़ी गलती!",
     "title": "रात में नींद खुले तो सारी लाइटें मत जलाइए | जीरो वाट बल्ब",
-    "caption": "रात को नींद खुली और सारी लाइटें जला दीं? 💡\nआचार्य मनीष जी बताते हैं: हर कमरे, बाथरूम और रसोई में एक जीरो वाट (बहुत हल्की रोशनी वाला) बल्ब रखिए। रात में उठना पड़े तो वही जलाइए, ताकि शरीर को यह न लगे कि दिन हो गया और वह आराम करता रहे।\n\n📚 Research:\n• Gooley et al., J Clin Endocrinol Metab 2011 (116 healthy adults): सोने से पहले की सामान्य room light (<200 lux) ने dim light की तुलना में melatonin देर से शुरू कराया और उसकी अवधि लगभग 90 मिनट घटाई; नींद के समय room light में ज़्यादातर trials में melatonin 50% से ज़्यादा दबा\n• यह study liver/kidney पर असर नहीं मापती\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #Sleep #Dinacharya #NightRoutine #HealthyHabits #आयुर्वेद",
+    "caption": "रात को नींद खुली और सारी लाइटें जला दीं? 💡\nआचार्य मनीष जी बताते हैं: हर कमरे, बाथरूम और रसोई में एक जीरो वाट (बहुत हल्की रोशनी वाला) बल्ब रखिए। रात में उठना पड़े तो वही जलाइए, ताकि शरीर को यह न लगे कि दिन हो गया और वह आराम करता रहे।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #Sleep #Dinacharya #NightRoutine #HealthyHabits #आयुर्वेद",
     "research_short": "J Clin Endocrinol Metab 2011",
     "research": [
       {
         "ref": "Gooley JJ et al. Exposure to room light before bedtime suppresses melatonin onset and shortens melatonin duration in humans. J Clin Endocrinol Metab 2011;96(3):E463-72. PMID 21193540, PMC3047226",
         "url": "https://pubmed.ncbi.nlm.nih.gov/21193540/",
-        "what_it_shows": "Retrospective analysis, 116 healthy adults (18-30 y): room light (<200 lux) vs dim light (<3 lux) in the 8 h before bedtime delayed melatonin onset in 99% and shortened melatonin duration by ~90 min; room light during usual sleep hours suppressed melatonin >50% in 85% of trials. Supports dim light at night; does not test organ effects."
+        "what_it_shows": "Retrospective analysis, 116 healthy adults (18-30 y): room light (<200 lux) vs dim light (<3 lux) in the 8 h before bedtime delayed melatonin onset in 99% and shortened melatonin duration by ~90 min; room light during usual sleep hours suppressed melatonin >50% in 85% of trials. Supports dim light at night; does not test organ effects.",
+        "cite": "Gooley et al., J Clin Endocrinol Metab 2011",
+        "note_hi": "सोने से पहले room light से melatonin देर से शुरू, ~90 मिनट कम"
       }
     ],
     "speaker": "Acharya Manish Ji",
