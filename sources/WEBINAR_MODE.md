@@ -1,7 +1,7 @@
 # Webinar mode (approved by user 23 Nov 2026)
 
 Goal: repurpose long live/webinar recordings on the official @acharyamanishji channel into reels.
-Guest doctors: all doctors on the channel are allowed (user decision), with name credit, EXCEPT Dr. Biswaroop Roy Chowdhury (BRC): never use any segment where he speaks or is featured (user decision 23 Nov). The compliance filter still applies to every clip, unchanged.
+Guest doctors: all doctors on the channel are allowed (user decision), with name credit, EXCEPT Dr. Biswaroop Roy Chowdhury (BRC): never use any segment where he is on screen or his voice is heard (user decision 23 Nov). Acharya Ji or another doctor talking ABOUT Dr. Biswaroop or the DIP diet is fine. The compliance filter still applies to every clip, unchanged.
 
 ## Flow per webinar (one at a time, foreground)
 1. Caption-first scan: fetch YouTube captions with vidiq_video_transcript (5 credits). Do NOT import or transcribe the whole video yet.
@@ -13,7 +13,7 @@ Guest doctors: all doctors on the channel are allowed (user decision), with name
 3. Import the video via vidIQ. If the import fails for a long video, log it in sources/webinar_log.md and skip it.
 4. Cut ONLY the shortlisted windows (+/-10 s padding) and transcribe just those with Chirp 3 (Groq fallback). Never send the full webinar to Chirp.
 5. Normal pipeline after that: caption cleanup, research step, render with face/speaker-crop, framing QC, compliance re-check, contact sheet.
-6. Excluded speaker: if Dr. Biswaroop Roy Chowdhury (BRC) is speaking or featured in a window, drop that window.
+6. Excluded speaker: if Dr. Biswaroop Roy Chowdhury (BRC) is on screen or speaking in a window, drop that window. Mentions of him or the DIP diet by other speakers are allowed.
 7. Speaker credit: identify who is speaking. If it is not Acharya Manish Ji, the caption must name the doctor ("Dr. <name>, Acharya Manish Ji के official channel पर") and the end card line "🎥 Clip: Acharya Manish Ji (official YouTube)" becomes "🎥 Clip: Dr. <name> · Acharya Manish Ji official YouTube". If the speaker cannot be identified with confidence, set needs_review.
 8. Spread clips: at most 2 clips from the same webinar per day in the queue order.
 9. Delete the full webinar file after its clips are rendered (disk).
