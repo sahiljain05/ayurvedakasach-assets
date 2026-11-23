@@ -1,282 +1,284 @@
 [
- {
-  "id": "LmpEEPMpNLI_c1",
-  "source": "LmpEEPMpNLI.mp4",
-  "start": 335.4,
-  "end": 374.8,
-  "topic": "dinner before sunset, no water with meals",
-  "hook": "खाने के साथ पानी? रुकिए!",
-  "title": "डिनर कब करें और खाने के साथ पानी क्यों नहीं?",
-  "caption": "डिनर हल्का और सूरज ढलने से पहले 🌇\nआचार्य मनीष जी बताते हैं: खाने के साथ ढेर सारा पानी नहीं; प्यास लगे तो बीच में 1–2 घूंट, या गुनगुना पानी। आयुर्वेद में इसे पाचन अग्नि से जोड़ा गया है।\n\n📚 Research:\n• Gu et al., J Clin Endocrinol Metab 2020 (20 healthy adults, crossover): 10pm dinner vs 6pm → higher night-time glucose, lower fat oxidation\n• Water-with-meals 'enzyme dilution' पर मज़बूत modern evidence नहीं मिला\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #Dinacharya #EarlyDinner #Digestion #HealthyHabits #आयुर्वेद",
-  "research_short": "J Clin Endocrinol Metab 2020",
-  "research": [
-   {
-    "ref": "Gu C et al. Metabolic Effects of Late Dinner in Healthy Volunteers—A Randomized Crossover Clinical Trial. J Clin Endocrinol Metab 2020;105(8):2789-802. PMID 32525525",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/32525525/",
-    "what_it_shows": "20 healthy young adults; dinner at 22:00 vs 18:00 (same food) led to higher post-meal glucose, delayed triglyceride peak and lower dietary fat oxidation overnight. Supports early dinner only; says nothing about water with meals."
-   }
-  ],
-  "status": "ready",
-  "file": "clips/LmpEEPMpNLI_c1.mp4",
-  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/LmpEEPMpNLI_c1.mp4",
-  "qc": "pass",
-  "qc_reason": "re-rendered 2026-11-23 with speaker-crop framing; QC pass; approved by user 2026-11-23"
- },
- {
-  "id": "NrQgIBqJlWs_c1",
-  "source": "NrQgIBqJlWs.mp4",
-  "start": 65.9,
-  "end": 93.2,
-  "topic": "small bites, chew 32 times",
-  "hook": "छोटी bite, 32 बार चबाओ",
-  "title": "खाना 32 बार क्यों चबाना चाहिए?",
-  "caption": "छोटी bite, 32 बार चबाओ 🍽️\nआचार्य मनीष जी: रोटी का छोटा टुकड़ा, सब्ज़ी-दाल ज़्यादा, रोटी कम, और हर कौर अच्छे से चबाओ। धीरे खाओगे तो अपने आप कम खाओगे।\n\n📚 Research:\n• Zhu & Hollis, J Acad Nutr Diet 2014 (45 adults, crossover): 1.5x–2x ज़्यादा चबाने से meal intake 9.5%–14.8% कम\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #MindfulEating #ChewYourFood #HealthyHabits #Digestion #आयुर्वेद",
-  "research_short": "J Acad Nutr Diet 2014",
-  "research": [
-   {
-    "ref": "Zhu Y, Hollis JH. Increasing the number of chews before swallowing reduces meal size in normal-weight, overweight, and obese adults. J Acad Nutr Diet 2014;114(6):926-31. PMID 24215801",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/24215801/",
-    "what_it_shows": "Randomized crossover, n=45 adults eating pizza: chewing 150% and 200% of their usual chews reduced food intake by 9.5% and 14.8% and slowed eating rate. Single-meal lab study; no long-term weight data."
-   }
-  ],
-  "status": "ready",
-  "file": "clips/NrQgIBqJlWs_c1.mp4",
-  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/NrQgIBqJlWs_c1.mp4",
-  "qc": "pass"
- },
- {
-  "id": "aks001",
-  "source": "aks_test1.mp4",
-  "start": 7.93,
-  "end": 43,
-  "topic": "Doodh aur phal saath mein",
-  "hook": "दूध के साथ फल? रुकिए!",
-  "title": "दूध के साथ फल — आयुर्वेद क्या कहता है?",
-  "caption": "आयुर्वेद में दूध और फल को एक साथ लेना 'विरुद्ध आहार' माना गया है — ऐसा मेल जो पाचन पर भारी पड़ सकता है। इस बातचीत में Acharya Manish Ji बताते हैं कि फल लेना हो तो गाय-भैंस के दूध के साथ नहीं — नारियल, बादाम या मूंगफली के दूध के साथ लिया जा सकता है।",
-  "research_short": "Charaka Su.26 · Serafini 2009",
-  "research": [
-   {
-    "ref": "Charaka Samhita, Sutrasthana 26 (viruddha ahara); Sabnis M., AYU 2012 (PMC3665091)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3665091/",
-    "what_it_shows": "classical concept of incompatible food combinations (review article)"
-   },
-   {
-    "ref": "Serafini M. et al., Free Radic Biol Med 2009 (PMID 19135520)",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/19135520/",
-    "what_it_shows": "small human study: taking blueberries with milk reduced the rise in blood antioxidant levels vs blueberries with water"
-   }
-  ],
-  "transcript": "aks_test1.chirp.json",
-  "broll": [
-   [
-    15.01,
-    17.15
-   ]
-  ],
-  "status": "posted_ig",
-  "qc": "pass",
-  "file": "clips/aks001_v4.mp4",
-  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/aks001_v4.mp4",
-  "approved": "user approved v4 on 2026-11-23 for a one-off IG+FB post",
-  "source_note": "aks_test1.mp4 = LmpEEPMpNLI 190-235 s; Chirp 3 transcript",
-  "ig_media_id": "18323493172303346",
-  "posted_ig_at": "2026-11-23T03:02:25.420375+00:00",
-  "ig_permalink": "https://www.instagram.com/reel/DgEXe_Okj1X/",
-  "fb_video_id": "1909608663738364",
-  "posted_fb_at": "2026-11-23T03:04:45.336028+00:00",
-  "fb_permalink": "https://www.facebook.com/reel/1909608663738364/"
- },
- {
-  "id": "w5EpsKIMGIA_c1",
-  "source": "w5EpsKIMGIA.mp4",
-  "start": 37.77,
-  "end": 75.04,
-  "topic": "bath before breakfast, breakfast before 9",
-  "hook": "पहले नहाना या पहले नाश्ता?",
-  "title": "पहले नहाएं या पहले नाश्ता? आयुर्वेद का नियम",
-  "caption": "पहले नहाना, फिर नाश्ता 🚿🍎\nआचार्य मनीष जी: खाना खाकर तुरंत नहाने की आदत ठीक नहीं; पहले स्नान, फिर नाश्ता, और नाश्ता सुबह 9 बजे से पहले, उठने के करीब डेढ़ घंटे के अंदर।\n\n📚 Research:\n• अष्टांग हृदय, सूत्रस्थान 2.18: भोजन के तुरंत बाद स्नान 'गर्हित' (उचित नहीं) बताया गया है\n• Bath timing पर कोई modern trial नहीं मिला; यह classical दिनचर्या का नियम है\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #Dinacharya #MorningRoutine #HealthyHabits #Breakfast #आयुर्वेद",
-  "research_short": "Ashtanga Hridaya Su. 2.18",
-  "research": [
-   {
-    "ref": "Ashtanga Hridaya, Sutrasthana 2.18 (Dinacharya): bathing is 'garhita' (not advised) for one who has just eaten (bhuktavat)",
-    "url": "https://satyori.com/sacred-texts/ashtanga-hridayam/sutrasthana/2-18/",
-    "what_it_shows": "Classical daily-routine text lists 'just after a meal' among the conditions in which bathing is not advised. Classical guidance only; no modern trial on bath timing."
-   }
-  ],
-  "file": "clips/w5EpsKIMGIA_c1.mp4",
-  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/w5EpsKIMGIA_c1.mp4",
-  "status": "ready",
-  "qc": "pass"
- },
- {
-  "id": "w5EpsKIMGIA_c2",
-  "source": "w5EpsKIMGIA.mp4",
-  "start": 107.57,
-  "end": 145.96,
-  "topic": "varied breakfast, fruit plate first, chew well",
-  "hook": "रोज एक ही नाश्ता? बदलिए!",
-  "title": "रोज एक ही नाश्ता? शरीर को वैरायटी चाहिए",
-  "caption": "रोज वही पराठा? नाश्ता बदलिए 🍽️\nआचार्य मनीष जी: जैसे रोज नए कपड़े पहनते हैं, वैसे नाश्ता भी बदलिए। पहले 4–5 तरह के फलों की प्लेट, फिर जो मन हो, और हर कौर चबा-चबाकर।\n\n📚 Research:\n• Verger et al., Adv Nutr 2021 (161 studies की review): ज़्यादा विविध भोजन = micronutrients की बेहतर पूर्ति (50 studies); बीमारियों से link अभी साफ़ नहीं\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #HealthyBreakfast #FruitsFirst #BalancedDiet #HealthyHabits #आयुर्वेद",
-  "research_short": "Adv Nutr 2021 (review)",
-  "research": [
-   {
-    "ref": "Verger EO et al. Dietary Diversity Indicators and Their Associations with Dietary Adequacy and Health Outcomes: A Systematic Scoping Review. Adv Nutr 2021;12(5):1659-72. PMID 33684194",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/33684194/",
-    "what_it_shows": "Review of 161 studies: 50 studies found dietary-diversity scores track micronutrient adequacy; links to health outcomes (weight, NCDs) were inconsistent."
-   }
-  ],
-  "file": "clips/w5EpsKIMGIA_c2.mp4",
-  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/w5EpsKIMGIA_c2.mp4",
-  "status": "ready",
-  "qc": "pass"
- },
- {
-  "id": "w5EpsKIMGIA_c3",
-  "source": "w5EpsKIMGIA.mp4",
-  "start": 148.85,
-  "end": 201.32,
-  "topic": "angry or tense? eat light (fruit/salad)",
-  "hook": "गुस्से में खाना? रुकिए!",
-  "title": "गुस्से या टेंशन में खाना क्यों न खाएं?",
-  "caption": "गुस्से या टेंशन में भारी खाना? रुकिए 😤\nआचार्य मनीष जी: जिस दिन मूड खराब हो, गुस्सा या टेंशन हो, उस दिन भारी खाना नहीं; फल, नारियल पानी या हरी सब्ज़ी-सलाद। जैसे गर्म हुई मिक्सी को बंद कर देते हैं।\n\n📚 Research:\n• चरक संहिता, विमानस्थान 2.9: चिंता, शोक, भय, क्रोध में सही मात्रा का पथ्य भोजन भी ठीक से नहीं पचता\n• Lee et al., J Gastroenterol Hepatol 2013 (सिर्फ 8 लोग): stress में पेट खाली होने में ज़्यादा समय (131 vs 105 min)\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #MindfulEating #Stress #Digestion #GutHealth #आयुर्वेद",
-  "research_short": "Charaka Vi. 2.9 · JGH 2013",
-  "research": [
-   {
-    "ref": "Charaka Samhita, Vimanasthana 2.9 (Trividhakukshiya Vimana)",
-    "url": "https://carakasamhitaonline.com/index.php/Trividhakukshiya_Vimana",
-    "what_it_shows": "'Even wholesome food in the right quantity is not digested properly when the mind is troubled by worry, grief, fear, anger...' (classical text)."
-   },
-   {
-    "ref": "Lee HS et al. Effect of acute auditory stress on gastric motor responses to a meal in healthy volunteers. J Gastroenterol Hepatol 2013;28(11):1699-704. PMID 23800263",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/23800263/",
-    "what_it_shows": "Randomized crossover, only 8 healthy volunteers: under acute noise stress gastric half-emptying time was longer (130.8 vs 105.0 min) and post-meal fullness/discomfort higher. Very small study; other small studies were inconsistent."
-   }
-  ],
-  "file": "clips/w5EpsKIMGIA_c3.mp4",
-  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/w5EpsKIMGIA_c3.mp4",
-  "status": "ready",
-  "qc": "pass"
- },
- {
-  "id": "ADZdpWvfBSs_c1",
-  "source": "ADZdpWvfBSs.mp4",
-  "start": 46.33,
-  "end": 86.96,
-  "topic": "amla, the cheap vitamin C superfood",
-  "hook": "सबसे सस्ता सुपरफूड: आंवला",
-  "title": "आंवला: दुनिया का सबसे सस्ता सुपरफूड?",
-  "caption": "रोज इग्नोर होने वाला छोटा हरा फल 🟢\nआचार्य मनीष जी: आंवला सस्ता है और विटामिन C से भरपूर; साथ में एंटीऑक्सीडेंट, कैल्शियम, आयरन, विटामिन A, B1, E भी। मुरब्बा, अचार या ताज़ा, जैसे भी खाएं।\n\n📚 Research:\n• Gul et al., Antioxidants 2022 (review): ताज़े आंवले में विटामिन C 193–720 mg/100 g (किस्म के हिसाब से); 2–3 आंवले (~100 g) से रोज़ की ज़रूरत पूरी हो सकती है\n• '20 गुना' जैसी तुलना किस्म पर निर्भर है; कुछ studies में मापी गई मात्रा कम भी निकली\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #Amla #VitaminC #Superfood #HealthyHabits #आयुर्वेद",
-  "research_short": "Antioxidants 2022 (review)",
-  "research": [
-   {
-    "ref": "Gul M et al. Functional and Nutraceutical Significance of Amla (Phyllanthus emblica L.): A Review. Antioxidants (Basel) 2022;11(5):816. PMID 35624683",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9137578/",
-    "what_it_shows": "Review: vitamin C values of 193–720 mg/100 g reported across amla varieties; also vitamins A, B1, E, calcium and iron; ~100 g fresh amla (2–3 fruits) can cover the daily vitamin C requirement. Composition review, no clinical outcome data. Note: a 2009 J Agric Food Chem paper (PMID 19063633) argues earlier ascorbic acid values may be overestimated."
-   }
-  ],
-  "file": "clips/ADZdpWvfBSs_c1.mp4",
-  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/ADZdpWvfBSs_c1.mp4",
-  "status": "ready",
-  "qc": "pass"
- },
- {
-  "id": "gtXL2qv-azg_c1",
-  "source": "gtXL2qv-azg.mp4",
-  "start": 87.21,
-  "end": 115.08,
-  "topic": "squat posture for morning motion, warm water",
-  "hook": "इंग्लिश टॉयलेट या उकड़ू?",
-  "title": "सुबह पेट साफ: उकड़ू बैठने का देसी तरीका",
-  "caption": "सुबह पेट साफ नहीं होता? बैठने का तरीका देखिए 🚽\nआचार्य मनीष जी: इंडियन टॉयलेट नहीं है तो बॉडी को उकड़ू वाला एंगल दें; उकड़ू बैठकर अदरक, हल्दी, कड़ी पत्ता चबाएं और ऊपर से गर्म पानी; चबा न सकें तो इनका काढ़ा।\n\n📚 Research:\n• Sikirov, Dig Dis Sci 2003 (28 healthy लोग): उकड़ू बैठने पर बैठकर जाने की तुलना में कम ज़ोर और कम समय लगा\n• 'Detox' वाले दावे पर कोई study नहीं मिली\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #Dinacharya #MorningRoutine #GutHealth #Squat #आयुर्वेद",
-  "research_short": "Dig Dis Sci 2003",
-  "research": [
-   {
-    "ref": "Sikirov D. Comparison of straining during defecation in three positions: results and implications for human health. Dig Dis Sci 2003;48(7):1201-5. PMID 12870773",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/12870773/",
-    "what_it_shows": "28 healthy volunteers, 6 bowel movements per position: squatting needed less time and less self-rated straining than sitting on a standard or low toilet seat. Small, self-recorded study; says nothing about 'detox' or about ginger/turmeric/curry leaves."
-   }
-  ],
-  "status": "needs_review",
-  "qc": "pass",
-  "qc_reason": "framing: wrong speaker 13.5–14.5 s (crop on interviewer while Acharya Ji says \"तो इसीलिए इंडियन टॉयलेट\") and 26.5–26.9 s; split-screen podcast source",
-  "file": "clips/gtXL2qv-azg_c1.mp4",
-  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/gtXL2qv-azg_c1.mp4"
- },
- {
-  "id": "gtXL2qv-azg_c2",
-  "source": "gtXL2qv-azg.mp4",
-  "start": 193.0,
-  "end": 222.12,
-  "topic": "warm veg soup at dinner, eat by sunset",
-  "hook": "रात को सलाद? सूप पीजिए!",
-  "title": "रात को सलाद नहीं, सूप क्यों? डिनर का सही समय",
-  "caption": "रात को सलाद नहीं, गर्म सूप 🍲\nआचार्य मनीष जी: डिनर में पहले गर्म वेजिटेबल सूप; शाम को खीरा-टमाटर-प्याज कई लोगों को सूट नहीं करते। आखिरी खाना सूरज डूबने के आसपास, 6–7 बजे, ज़्यादा से ज़्यादा 8 बजे तक; 9–10 बजे नहीं।\n\n📚 Research:\n• Gu et al., J Clin Endocrinol Metab 2020 (20 healthy adults, crossover): रात 10 बजे vs शाम 6 बजे डिनर → रात में ज़्यादा glucose, कम fat burning\n• सूप vs सलाद पर कोई direct study नहीं मिली\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #EarlyDinner #Dinacharya #Soup #HealthyHabits #आयुर्वेद",
-  "research_short": "J Clin Endocrinol Metab 2020",
-  "research": [
-   {
-    "ref": "Gu C et al. Metabolic Effects of Late Dinner in Healthy Volunteers—A Randomized Crossover Clinical Trial. J Clin Endocrinol Metab 2020;105(8):2789-802. PMID 32525525",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/32525525/",
-    "what_it_shows": "20 healthy young adults; dinner at 22:00 vs 18:00 (same food) led to higher post-meal glucose and lower overnight fat oxidation. Supports an earlier dinner only; does not test soup vs salad."
-   }
-  ],
-  "file": "clips/gtXL2qv-azg_c2.mp4",
-  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/gtXL2qv-azg_c2.mp4",
-  "status": "ready",
-  "qc": "pass"
- },
- {
-  "id": "E3q5jo_LgAg_c1",
-  "source": "E3q5jo_LgAg_w2.mp4",
-  "start": 13.61,
-  "end": 55.8,
-  "topic": "grain rotation, aged & weekly-milled flour (tradition)",
-  "hook": "दादी पूरा साल गेहूं नहीं खाती थीं",
-  "title": "पहले लोग पूरा साल गेहूं क्यों नहीं खाते थे?",
-  "caption": "दादी-नानी से पूछिए: पूरा साल गेहूं? 🌾\nआचार्य मनीष जी: पहले कभी मक्की, कभी बाजरा, कभी रागी, कभी गेहूं; नया अनाज तुरंत नहीं खाते थे, पहले पुराना करते थे, फिर भिगोकर, सुखाकर, सिर्फ एक हफ्ते का आटा पिसवाते थे।\n\n📚 Research:\n• चरक संहिता, सूत्रस्थान 27 (अन्नपान विधि): एक साल पुराना अनाज और दालें बेहतर; नया अनाज आम तौर पर भारी (classical text)\n• Verger et al., Adv Nutr 2021 (161 studies की review): विविध भोजन = micronutrients की बेहतर पूर्ति\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #Millets #DesiKhana #Tradition #HealthyHabits #आयुर्वेद",
-  "research_short": "Charaka Su. 27",
-  "speaker": "Acharya Manish Ji",
-  "credit_line": "🎥 Clip: Acharya Manish Ji (official YouTube)",
-  "research": [
-   {
-    "ref": "Charaka Samhita, Sutrasthana 27 (Annapana-vidhi), verse 309 in the wisdomlib English translation",
-    "url": "https://www.wisdomlib.org/hinduism/book/charaka-samhita-english/d/doc627537.html",
-    "what_it_shows": "'Corn and pulses that are one year old are recommended. The old grain is generally dry and the new generally heavy.' Classical dietetics; no modern trial on grain ageing."
-   },
-   {
-    "ref": "Verger EO et al. Dietary Diversity Indicators and Their Associations with Dietary Adequacy and Health Outcomes: A Systematic Scoping Review. Adv Nutr 2021;12(5):1659-72. PMID 33684194",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/33684194/",
-    "what_it_shows": "50 studies found dietary-diversity scores track micronutrient adequacy; links to disease outcomes inconsistent. Supports rotating foods/grains for variety only."
-   }
-  ],
-  "status": "needs_review",
-  "qc": "pass",
-  "qc_reason": "framing: wrong speaker 20.6–21.6 s and 31.1–32.8 s (speaker-crop on hosts while Acharya Ji speaks); note: Jeena Sikho \"120 Ayurveda Clinics & Hospitals\" logo visible in wide shots",
-  "file": "clips/E3q5jo_LgAg_c1.mp4",
-  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/E3q5jo_LgAg_c1.mp4"
- },
- {
-  "id": "E3q5jo_LgAg_c2",
-  "source": "E3q5jo_LgAg_w1.mp4",
-  "start": 10.41,
-  "end": 44.84,
-  "topic": "roti and rice in the same meal? one grain at a time",
-  "hook": "रोटी और चावल एक साथ?",
-  "title": "रोटी और चावल एक साथ खाने चाहिए या नहीं?",
-  "caption": "थाली में दाल, सब्ज़ी, रोटी और चावल, सब एक साथ? 🍛\nआचार्य मनीष जी: एक समय पर एक अनाज, या गेहूं या चावल। उनके अनुसार दोनों को पचने में अलग समय लगता है और दोनों का glycemic index अलग है।\n\n📚 Research:\n• Atkinson et al., Am J Clin Nutr 2021: 4000+ foods की international GI tables; चावल और गेहूं के GI किस्म और पकाने के तरीके के हिसाब से काफी बदलते हैं\n• रोटी-चावल साथ vs अलग खाने पर कोई direct study नहीं मिली; यह पारंपरिक सलाह है\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #FoodCombining #Roti #Rice #HealthyHabits #आयुर्वेद",
-  "research_short": "Am J Clin Nutr 2021 (GI tables)",
-  "speaker": "Acharya Manish Ji",
-  "credit_line": "🎥 Clip: Acharya Manish Ji (official YouTube)",
-  "research": [
-   {
-    "ref": "Atkinson FS et al. International tables of glycemic index and glycemic load values 2021: a systematic review. Am J Clin Nutr 2021;114(5):1625-32. PMID 34258626",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/34258626/",
-    "what_it_shows": "Reference tables of GI/GL for >4000 foods; values differ by food type, variety and preparation. Supports only that foods differ in GI; no study found testing roti and rice eaten together vs separately."
-   }
-  ],
-  "status": "needs_review",
-  "qc": "pass",
-  "qc_reason": "framing: wrong speaker 13.2–14.6 s and 25.3–31.0 s (speaker-crop on hosts while Acharya Ji speaks); note: Jeena Sikho \"120 Ayurveda Clinics & Hospitals\" logo visible in wide shots",
-  "file": "clips/E3q5jo_LgAg_c2.mp4",
-  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/E3q5jo_LgAg_c2.mp4"
- }
+  {
+    "id": "LmpEEPMpNLI_c1",
+    "source": "LmpEEPMpNLI.mp4",
+    "start": 335.4,
+    "end": 374.8,
+    "topic": "dinner before sunset, no water with meals",
+    "hook": "खाने के साथ पानी? रुकिए!",
+    "title": "डिनर कब करें और खाने के साथ पानी क्यों नहीं?",
+    "caption": "डिनर हल्का और सूरज ढलने से पहले 🌇\nआचार्य मनीष जी बताते हैं: खाने के साथ ढेर सारा पानी नहीं; प्यास लगे तो बीच में 1–2 घूंट, या गुनगुना पानी। आयुर्वेद में इसे पाचन अग्नि से जोड़ा गया है।\n\n📚 Research:\n• Gu et al., J Clin Endocrinol Metab 2020 (20 healthy adults, crossover): 10pm dinner vs 6pm → higher night-time glucose, lower fat oxidation\n• Water-with-meals 'enzyme dilution' पर मज़बूत modern evidence नहीं मिला\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #Dinacharya #EarlyDinner #Digestion #HealthyHabits #आयुर्वेद",
+    "research_short": "J Clin Endocrinol Metab 2020",
+    "research": [
+      {
+        "ref": "Gu C et al. Metabolic Effects of Late Dinner in Healthy Volunteers—A Randomized Crossover Clinical Trial. J Clin Endocrinol Metab 2020;105(8):2789-802. PMID 32525525",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32525525/",
+        "what_it_shows": "20 healthy young adults; dinner at 22:00 vs 18:00 (same food) led to higher post-meal glucose, delayed triglyceride peak and lower dietary fat oxidation overnight. Supports early dinner only; says nothing about water with meals."
+      }
+    ],
+    "status": "posted_ig",
+    "file": "clips/LmpEEPMpNLI_c1.mp4",
+    "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/LmpEEPMpNLI_c1.mp4",
+    "qc": "pass",
+    "qc_reason": "re-rendered 2026-11-23 with speaker-crop framing; QC pass; approved by user 2026-11-23",
+    "ig_media_id": "17939992482406513",
+    "posted_ig_at": "2026-11-23T05:01:01.324082+00:00"
+  },
+  {
+    "id": "NrQgIBqJlWs_c1",
+    "source": "NrQgIBqJlWs.mp4",
+    "start": 65.9,
+    "end": 93.2,
+    "topic": "small bites, chew 32 times",
+    "hook": "छोटी bite, 32 बार चबाओ",
+    "title": "खाना 32 बार क्यों चबाना चाहिए?",
+    "caption": "छोटी bite, 32 बार चबाओ 🍽️\nआचार्य मनीष जी: रोटी का छोटा टुकड़ा, सब्ज़ी-दाल ज़्यादा, रोटी कम, और हर कौर अच्छे से चबाओ। धीरे खाओगे तो अपने आप कम खाओगे।\n\n📚 Research:\n• Zhu & Hollis, J Acad Nutr Diet 2014 (45 adults, crossover): 1.5x–2x ज़्यादा चबाने से meal intake 9.5%–14.8% कम\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #MindfulEating #ChewYourFood #HealthyHabits #Digestion #आयुर्वेद",
+    "research_short": "J Acad Nutr Diet 2014",
+    "research": [
+      {
+        "ref": "Zhu Y, Hollis JH. Increasing the number of chews before swallowing reduces meal size in normal-weight, overweight, and obese adults. J Acad Nutr Diet 2014;114(6):926-31. PMID 24215801",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24215801/",
+        "what_it_shows": "Randomized crossover, n=45 adults eating pizza: chewing 150% and 200% of their usual chews reduced food intake by 9.5% and 14.8% and slowed eating rate. Single-meal lab study; no long-term weight data."
+      }
+    ],
+    "status": "ready",
+    "file": "clips/NrQgIBqJlWs_c1.mp4",
+    "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/NrQgIBqJlWs_c1.mp4",
+    "qc": "pass"
+  },
+  {
+    "id": "aks001",
+    "source": "aks_test1.mp4",
+    "start": 7.93,
+    "end": 43,
+    "topic": "Doodh aur phal saath mein",
+    "hook": "दूध के साथ फल? रुकिए!",
+    "title": "दूध के साथ फल — आयुर्वेद क्या कहता है?",
+    "caption": "आयुर्वेद में दूध और फल को एक साथ लेना 'विरुद्ध आहार' माना गया है — ऐसा मेल जो पाचन पर भारी पड़ सकता है। इस बातचीत में Acharya Manish Ji बताते हैं कि फल लेना हो तो गाय-भैंस के दूध के साथ नहीं — नारियल, बादाम या मूंगफली के दूध के साथ लिया जा सकता है।",
+    "research_short": "Charaka Su.26 · Serafini 2009",
+    "research": [
+      {
+        "ref": "Charaka Samhita, Sutrasthana 26 (viruddha ahara); Sabnis M., AYU 2012 (PMC3665091)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3665091/",
+        "what_it_shows": "classical concept of incompatible food combinations (review article)"
+      },
+      {
+        "ref": "Serafini M. et al., Free Radic Biol Med 2009 (PMID 19135520)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19135520/",
+        "what_it_shows": "small human study: taking blueberries with milk reduced the rise in blood antioxidant levels vs blueberries with water"
+      }
+    ],
+    "transcript": "aks_test1.chirp.json",
+    "broll": [
+      [
+        15.01,
+        17.15
+      ]
+    ],
+    "status": "posted_ig",
+    "qc": "pass",
+    "file": "clips/aks001_v4.mp4",
+    "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/aks001_v4.mp4",
+    "approved": "user approved v4 on 2026-11-23 for a one-off IG+FB post",
+    "source_note": "aks_test1.mp4 = LmpEEPMpNLI 190-235 s; Chirp 3 transcript",
+    "ig_media_id": "18323493172303346",
+    "posted_ig_at": "2026-11-23T03:02:25.420375+00:00",
+    "ig_permalink": "https://www.instagram.com/reel/DgEXe_Okj1X/",
+    "fb_video_id": "1909608663738364",
+    "posted_fb_at": "2026-11-23T03:04:45.336028+00:00",
+    "fb_permalink": "https://www.facebook.com/reel/1909608663738364/"
+  },
+  {
+    "id": "w5EpsKIMGIA_c1",
+    "source": "w5EpsKIMGIA.mp4",
+    "start": 37.77,
+    "end": 75.04,
+    "topic": "bath before breakfast, breakfast before 9",
+    "hook": "पहले नहाना या पहले नाश्ता?",
+    "title": "पहले नहाएं या पहले नाश्ता? आयुर्वेद का नियम",
+    "caption": "पहले नहाना, फिर नाश्ता 🚿🍎\nआचार्य मनीष जी: खाना खाकर तुरंत नहाने की आदत ठीक नहीं; पहले स्नान, फिर नाश्ता, और नाश्ता सुबह 9 बजे से पहले, उठने के करीब डेढ़ घंटे के अंदर।\n\n📚 Research:\n• अष्टांग हृदय, सूत्रस्थान 2.18: भोजन के तुरंत बाद स्नान 'गर्हित' (उचित नहीं) बताया गया है\n• Bath timing पर कोई modern trial नहीं मिला; यह classical दिनचर्या का नियम है\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #Dinacharya #MorningRoutine #HealthyHabits #Breakfast #आयुर्वेद",
+    "research_short": "Ashtanga Hridaya Su. 2.18",
+    "research": [
+      {
+        "ref": "Ashtanga Hridaya, Sutrasthana 2.18 (Dinacharya): bathing is 'garhita' (not advised) for one who has just eaten (bhuktavat)",
+        "url": "https://satyori.com/sacred-texts/ashtanga-hridayam/sutrasthana/2-18/",
+        "what_it_shows": "Classical daily-routine text lists 'just after a meal' among the conditions in which bathing is not advised. Classical guidance only; no modern trial on bath timing."
+      }
+    ],
+    "file": "clips/w5EpsKIMGIA_c1.mp4",
+    "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/w5EpsKIMGIA_c1.mp4",
+    "status": "ready",
+    "qc": "pass"
+  },
+  {
+    "id": "w5EpsKIMGIA_c2",
+    "source": "w5EpsKIMGIA.mp4",
+    "start": 107.57,
+    "end": 145.96,
+    "topic": "varied breakfast, fruit plate first, chew well",
+    "hook": "रोज एक ही नाश्ता? बदलिए!",
+    "title": "रोज एक ही नाश्ता? शरीर को वैरायटी चाहिए",
+    "caption": "रोज वही पराठा? नाश्ता बदलिए 🍽️\nआचार्य मनीष जी: जैसे रोज नए कपड़े पहनते हैं, वैसे नाश्ता भी बदलिए। पहले 4–5 तरह के फलों की प्लेट, फिर जो मन हो, और हर कौर चबा-चबाकर।\n\n📚 Research:\n• Verger et al., Adv Nutr 2021 (161 studies की review): ज़्यादा विविध भोजन = micronutrients की बेहतर पूर्ति (50 studies); बीमारियों से link अभी साफ़ नहीं\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #HealthyBreakfast #FruitsFirst #BalancedDiet #HealthyHabits #आयुर्वेद",
+    "research_short": "Adv Nutr 2021 (review)",
+    "research": [
+      {
+        "ref": "Verger EO et al. Dietary Diversity Indicators and Their Associations with Dietary Adequacy and Health Outcomes: A Systematic Scoping Review. Adv Nutr 2021;12(5):1659-72. PMID 33684194",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33684194/",
+        "what_it_shows": "Review of 161 studies: 50 studies found dietary-diversity scores track micronutrient adequacy; links to health outcomes (weight, NCDs) were inconsistent."
+      }
+    ],
+    "file": "clips/w5EpsKIMGIA_c2.mp4",
+    "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/w5EpsKIMGIA_c2.mp4",
+    "status": "ready",
+    "qc": "pass"
+  },
+  {
+    "id": "w5EpsKIMGIA_c3",
+    "source": "w5EpsKIMGIA.mp4",
+    "start": 148.85,
+    "end": 201.32,
+    "topic": "angry or tense? eat light (fruit/salad)",
+    "hook": "गुस्से में खाना? रुकिए!",
+    "title": "गुस्से या टेंशन में खाना क्यों न खाएं?",
+    "caption": "गुस्से या टेंशन में भारी खाना? रुकिए 😤\nआचार्य मनीष जी: जिस दिन मूड खराब हो, गुस्सा या टेंशन हो, उस दिन भारी खाना नहीं; फल, नारियल पानी या हरी सब्ज़ी-सलाद। जैसे गर्म हुई मिक्सी को बंद कर देते हैं।\n\n📚 Research:\n• चरक संहिता, विमानस्थान 2.9: चिंता, शोक, भय, क्रोध में सही मात्रा का पथ्य भोजन भी ठीक से नहीं पचता\n• Lee et al., J Gastroenterol Hepatol 2013 (सिर्फ 8 लोग): stress में पेट खाली होने में ज़्यादा समय (131 vs 105 min)\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #MindfulEating #Stress #Digestion #GutHealth #आयुर्वेद",
+    "research_short": "Charaka Vi. 2.9 · JGH 2013",
+    "research": [
+      {
+        "ref": "Charaka Samhita, Vimanasthana 2.9 (Trividhakukshiya Vimana)",
+        "url": "https://carakasamhitaonline.com/index.php/Trividhakukshiya_Vimana",
+        "what_it_shows": "'Even wholesome food in the right quantity is not digested properly when the mind is troubled by worry, grief, fear, anger...' (classical text)."
+      },
+      {
+        "ref": "Lee HS et al. Effect of acute auditory stress on gastric motor responses to a meal in healthy volunteers. J Gastroenterol Hepatol 2013;28(11):1699-704. PMID 23800263",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23800263/",
+        "what_it_shows": "Randomized crossover, only 8 healthy volunteers: under acute noise stress gastric half-emptying time was longer (130.8 vs 105.0 min) and post-meal fullness/discomfort higher. Very small study; other small studies were inconsistent."
+      }
+    ],
+    "file": "clips/w5EpsKIMGIA_c3.mp4",
+    "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/w5EpsKIMGIA_c3.mp4",
+    "status": "ready",
+    "qc": "pass"
+  },
+  {
+    "id": "ADZdpWvfBSs_c1",
+    "source": "ADZdpWvfBSs.mp4",
+    "start": 46.33,
+    "end": 86.96,
+    "topic": "amla, the cheap vitamin C superfood",
+    "hook": "सबसे सस्ता सुपरफूड: आंवला",
+    "title": "आंवला: दुनिया का सबसे सस्ता सुपरफूड?",
+    "caption": "रोज इग्नोर होने वाला छोटा हरा फल 🟢\nआचार्य मनीष जी: आंवला सस्ता है और विटामिन C से भरपूर; साथ में एंटीऑक्सीडेंट, कैल्शियम, आयरन, विटामिन A, B1, E भी। मुरब्बा, अचार या ताज़ा, जैसे भी खाएं।\n\n📚 Research:\n• Gul et al., Antioxidants 2022 (review): ताज़े आंवले में विटामिन C 193–720 mg/100 g (किस्म के हिसाब से); 2–3 आंवले (~100 g) से रोज़ की ज़रूरत पूरी हो सकती है\n• '20 गुना' जैसी तुलना किस्म पर निर्भर है; कुछ studies में मापी गई मात्रा कम भी निकली\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #Amla #VitaminC #Superfood #HealthyHabits #आयुर्वेद",
+    "research_short": "Antioxidants 2022 (review)",
+    "research": [
+      {
+        "ref": "Gul M et al. Functional and Nutraceutical Significance of Amla (Phyllanthus emblica L.): A Review. Antioxidants (Basel) 2022;11(5):816. PMID 35624683",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9137578/",
+        "what_it_shows": "Review: vitamin C values of 193–720 mg/100 g reported across amla varieties; also vitamins A, B1, E, calcium and iron; ~100 g fresh amla (2–3 fruits) can cover the daily vitamin C requirement. Composition review, no clinical outcome data. Note: a 2009 J Agric Food Chem paper (PMID 19063633) argues earlier ascorbic acid values may be overestimated."
+      }
+    ],
+    "file": "clips/ADZdpWvfBSs_c1.mp4",
+    "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/ADZdpWvfBSs_c1.mp4",
+    "status": "ready",
+    "qc": "pass"
+  },
+  {
+    "id": "gtXL2qv-azg_c1",
+    "source": "gtXL2qv-azg.mp4",
+    "start": 87.21,
+    "end": 115.08,
+    "topic": "squat posture for morning motion, warm water",
+    "hook": "इंग्लिश टॉयलेट या उकड़ू?",
+    "title": "सुबह पेट साफ: उकड़ू बैठने का देसी तरीका",
+    "caption": "सुबह पेट साफ नहीं होता? बैठने का तरीका देखिए 🚽\nआचार्य मनीष जी: इंडियन टॉयलेट नहीं है तो बॉडी को उकड़ू वाला एंगल दें; उकड़ू बैठकर अदरक, हल्दी, कड़ी पत्ता चबाएं और ऊपर से गर्म पानी; चबा न सकें तो इनका काढ़ा।\n\n📚 Research:\n• Sikirov, Dig Dis Sci 2003 (28 healthy लोग): उकड़ू बैठने पर बैठकर जाने की तुलना में कम ज़ोर और कम समय लगा\n• 'Detox' वाले दावे पर कोई study नहीं मिली\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #Dinacharya #MorningRoutine #GutHealth #Squat #आयुर्वेद",
+    "research_short": "Dig Dis Sci 2003",
+    "research": [
+      {
+        "ref": "Sikirov D. Comparison of straining during defecation in three positions: results and implications for human health. Dig Dis Sci 2003;48(7):1201-5. PMID 12870773",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12870773/",
+        "what_it_shows": "28 healthy volunteers, 6 bowel movements per position: squatting needed less time and less self-rated straining than sitting on a standard or low toilet seat. Small, self-recorded study; says nothing about 'detox' or about ginger/turmeric/curry leaves."
+      }
+    ],
+    "status": "needs_review",
+    "qc": "pass",
+    "qc_reason": "framing: wrong speaker 13.5–14.5 s (crop on interviewer while Acharya Ji says \"तो इसीलिए इंडियन टॉयलेट\") and 26.5–26.9 s; split-screen podcast source",
+    "file": "clips/gtXL2qv-azg_c1.mp4",
+    "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/gtXL2qv-azg_c1.mp4"
+  },
+  {
+    "id": "gtXL2qv-azg_c2",
+    "source": "gtXL2qv-azg.mp4",
+    "start": 193.0,
+    "end": 222.12,
+    "topic": "warm veg soup at dinner, eat by sunset",
+    "hook": "रात को सलाद? सूप पीजिए!",
+    "title": "रात को सलाद नहीं, सूप क्यों? डिनर का सही समय",
+    "caption": "रात को सलाद नहीं, गर्म सूप 🍲\nआचार्य मनीष जी: डिनर में पहले गर्म वेजिटेबल सूप; शाम को खीरा-टमाटर-प्याज कई लोगों को सूट नहीं करते। आखिरी खाना सूरज डूबने के आसपास, 6–7 बजे, ज़्यादा से ज़्यादा 8 बजे तक; 9–10 बजे नहीं।\n\n📚 Research:\n• Gu et al., J Clin Endocrinol Metab 2020 (20 healthy adults, crossover): रात 10 बजे vs शाम 6 बजे डिनर → रात में ज़्यादा glucose, कम fat burning\n• सूप vs सलाद पर कोई direct study नहीं मिली\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #EarlyDinner #Dinacharya #Soup #HealthyHabits #आयुर्वेद",
+    "research_short": "J Clin Endocrinol Metab 2020",
+    "research": [
+      {
+        "ref": "Gu C et al. Metabolic Effects of Late Dinner in Healthy Volunteers—A Randomized Crossover Clinical Trial. J Clin Endocrinol Metab 2020;105(8):2789-802. PMID 32525525",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32525525/",
+        "what_it_shows": "20 healthy young adults; dinner at 22:00 vs 18:00 (same food) led to higher post-meal glucose and lower overnight fat oxidation. Supports an earlier dinner only; does not test soup vs salad."
+      }
+    ],
+    "file": "clips/gtXL2qv-azg_c2.mp4",
+    "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/gtXL2qv-azg_c2.mp4",
+    "status": "ready",
+    "qc": "pass"
+  },
+  {
+    "id": "E3q5jo_LgAg_c1",
+    "source": "E3q5jo_LgAg_w2.mp4",
+    "start": 13.61,
+    "end": 55.8,
+    "topic": "grain rotation, aged & weekly-milled flour (tradition)",
+    "hook": "दादी पूरा साल गेहूं नहीं खाती थीं",
+    "title": "पहले लोग पूरा साल गेहूं क्यों नहीं खाते थे?",
+    "caption": "दादी-नानी से पूछिए: पूरा साल गेहूं? 🌾\nआचार्य मनीष जी: पहले कभी मक्की, कभी बाजरा, कभी रागी, कभी गेहूं; नया अनाज तुरंत नहीं खाते थे, पहले पुराना करते थे, फिर भिगोकर, सुखाकर, सिर्फ एक हफ्ते का आटा पिसवाते थे।\n\n📚 Research:\n• चरक संहिता, सूत्रस्थान 27 (अन्नपान विधि): एक साल पुराना अनाज और दालें बेहतर; नया अनाज आम तौर पर भारी (classical text)\n• Verger et al., Adv Nutr 2021 (161 studies की review): विविध भोजन = micronutrients की बेहतर पूर्ति\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #Millets #DesiKhana #Tradition #HealthyHabits #आयुर्वेद",
+    "research_short": "Charaka Su. 27",
+    "speaker": "Acharya Manish Ji",
+    "credit_line": "🎥 Clip: Acharya Manish Ji (official YouTube)",
+    "research": [
+      {
+        "ref": "Charaka Samhita, Sutrasthana 27 (Annapana-vidhi), verse 309 in the wisdomlib English translation",
+        "url": "https://www.wisdomlib.org/hinduism/book/charaka-samhita-english/d/doc627537.html",
+        "what_it_shows": "'Corn and pulses that are one year old are recommended. The old grain is generally dry and the new generally heavy.' Classical dietetics; no modern trial on grain ageing."
+      },
+      {
+        "ref": "Verger EO et al. Dietary Diversity Indicators and Their Associations with Dietary Adequacy and Health Outcomes: A Systematic Scoping Review. Adv Nutr 2021;12(5):1659-72. PMID 33684194",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33684194/",
+        "what_it_shows": "50 studies found dietary-diversity scores track micronutrient adequacy; links to disease outcomes inconsistent. Supports rotating foods/grains for variety only."
+      }
+    ],
+    "status": "needs_review",
+    "qc": "pass",
+    "qc_reason": "framing: wrong speaker 20.6–21.6 s and 31.1–32.8 s (speaker-crop on hosts while Acharya Ji speaks); note: Jeena Sikho \"120 Ayurveda Clinics & Hospitals\" logo visible in wide shots",
+    "file": "clips/E3q5jo_LgAg_c1.mp4",
+    "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/E3q5jo_LgAg_c1.mp4"
+  },
+  {
+    "id": "E3q5jo_LgAg_c2",
+    "source": "E3q5jo_LgAg_w1.mp4",
+    "start": 10.41,
+    "end": 44.84,
+    "topic": "roti and rice in the same meal? one grain at a time",
+    "hook": "रोटी और चावल एक साथ?",
+    "title": "रोटी और चावल एक साथ खाने चाहिए या नहीं?",
+    "caption": "थाली में दाल, सब्ज़ी, रोटी और चावल, सब एक साथ? 🍛\nआचार्य मनीष जी: एक समय पर एक अनाज, या गेहूं या चावल। उनके अनुसार दोनों को पचने में अलग समय लगता है और दोनों का glycemic index अलग है।\n\n📚 Research:\n• Atkinson et al., Am J Clin Nutr 2021: 4000+ foods की international GI tables; चावल और गेहूं के GI किस्म और पकाने के तरीके के हिसाब से काफी बदलते हैं\n• रोटी-चावल साथ vs अलग खाने पर कोई direct study नहीं मिली; यह पारंपरिक सलाह है\n\n⚠️ यह जानकारी educational है। किसी भी health condition में अपने डॉक्टर से सलाह लें।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #FoodCombining #Roti #Rice #HealthyHabits #आयुर्वेद",
+    "research_short": "Am J Clin Nutr 2021 (GI tables)",
+    "speaker": "Acharya Manish Ji",
+    "credit_line": "🎥 Clip: Acharya Manish Ji (official YouTube)",
+    "research": [
+      {
+        "ref": "Atkinson FS et al. International tables of glycemic index and glycemic load values 2021: a systematic review. Am J Clin Nutr 2021;114(5):1625-32. PMID 34258626",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34258626/",
+        "what_it_shows": "Reference tables of GI/GL for >4000 foods; values differ by food type, variety and preparation. Supports only that foods differ in GI; no study found testing roti and rice eaten together vs separately."
+      }
+    ],
+    "status": "needs_review",
+    "qc": "pass",
+    "qc_reason": "framing: wrong speaker 13.2–14.6 s and 25.3–31.0 s (speaker-crop on hosts while Acharya Ji speaks); note: Jeena Sikho \"120 Ayurveda Clinics & Hospitals\" logo visible in wide shots",
+    "file": "clips/E3q5jo_LgAg_c2.mp4",
+    "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/E3q5jo_LgAg_c2.mp4"
+  }
 ]
