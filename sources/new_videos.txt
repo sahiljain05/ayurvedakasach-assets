@@ -1,0 +1,18 @@
+# Candidate source videos (official @acharyamanishji long-form), picked 23 Nov 2026 for lifestyle topics.
+# VM: append IDs not already in /opt/aks/app/videos.txt. Compliance screen still applies to every clip.
+2JR1K2_Kdps  # naahane ka sahi tarika, malasan, pet saaf (5:56)
+w5EpsKIMGIA  # best breakfast (4:37)
+K2y8YJQBRYc  # eye care tips (4:21)
+mA6Tqc4f7UM  # yaaddasht / memory (3:41)
+ADZdpWvfBSs  # amla benefits (6:04)
+_WZZQUfeUHM  # kabz, pet saaf karne ke upay (7:52)
+sHF2pkh-FcA  # DIP diet (6:06)
+gtXL2qv-azg  # diet chart, pH balance diet (3:56)
+TNr3pVRS_U4  # non-veg sahi ya galat (5:55)
+qvJZDmgRLT0  # roti chawal chhodna, weight (5:08)
+dMBr4TEmRAE  # weight loss tips, podcast (3:03)
+7EJdIaosqSY  # detox, panchakarma (4:20)
+12cRi_Dqpe0  # jodon ka dard, haldi-chuna (10:34)
+s0BbVcK9bW4  # yog ke fayde, ashtang yog, pranayam (30:32)
+KUfMsK_yM0w  # mann shant, dhyan (34:31)
+E6kWBDSq2O0  # yoga & meditation guide (29:41)
