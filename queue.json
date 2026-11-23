@@ -19,8 +19,8 @@
   "status": "needs_review",
   "file": "clips/LmpEEPMpNLI_c1.mp4",
   "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/LmpEEPMpNLI_c1.mp4",
-  "qc": "fail",
-  "qc_reason": "framing: no face 28.2–31.8 s"
+  "qc": "pass",
+  "qc_reason": "re-rendered 2026-11-23 with speaker-crop framing; QC pass; awaiting human review before ready"
  },
  {
   "id": "NrQgIBqJlWs_c1",
