@@ -8,9 +8,11 @@ turned on: reels posted to IG from then on are "daily" (cron slots, priority); o
   post_yt.py --backfill   backfill (sources/YT_ENABLE.md 3): oldest-first upload of pre-enable IG reels, only as many
                           as the remaining daily quota allows after reserving the rest of today's daily slots; removes
                           its own cron line once the backlog is empty.
-Quota: ~1,600 units per upload, 10,000/day, resets at midnight Pacific. Every attempt is charged in LEDGER.
+Quota (sources/YT_QUOTA_FIX.md): videos.insert uses its own "Video Uploads per day" bucket (100/day, 1 per upload);
+other calls (videos.update, thumbnails.set, playlistItems.insert = 50, list = 1) use the 10,000 units/day bucket.
+Safety margins: max 90 uploads/day, max 8,000 units/day. Both reset at midnight Pacific. Every attempt is charged in LEDGER.
 On quotaExceeded / uploadLimitExceeded: stop, leave the clip untouched, retry next run."""
-import json, os, re, subprocess, sys, urllib.error, urllib.parse, urllib.request
+import json, os, re, subprocess, sys, time, urllib.error, urllib.parse, urllib.request
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 sys.path.insert(0, "/opt/aks/app")
@@ -19,8 +21,9 @@ import post_ig as P
 ENABLED_FLAG = "/opt/aks/.yt_enabled"
 TOKEN_URL = "https://oauth2.googleapis.com/token"
 UPLOAD_URL = "https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status"
-QUOTA, COST = 10000, 1600
-LEDGER = "/opt/aks/logs/yt_quota.log"            # "<iso utc> <units> <clip id> <result>"
+MAX_UPLOADS, MAX_UNITS = 90, 8000              # safety margins under 100 uploads/day and 10,000 units/day
+UPLOAD_GAP = 150                               # seconds between backfill uploads (per-minute limits)
+LEDGER = "/opt/aks/logs/yt_quota.log"            # "<iso utc> <bucket: uploads|units> <amount> <clip id> <result>"
 PT = ZoneInfo("America/Los_Angeles")
 DAILY_SLOTS_UTC = [(2, 50), (5, 20), (7, 20), (12, 50), (15, 20), (16, 50)]  # daily post_yt.py cron lines
 CORRECTIONS = "/opt/aks/assets/sources/ig_caption_corrections.md"
@@ -71,20 +74,21 @@ def pt_day_bounds(now):
     return start.astimezone(timezone.utc), (start + timedelta(days=1)).astimezone(timezone.utc)
 
 
-def used_today(now):
+def used_today(now, bucket="uploads"):
     start, _ = pt_day_bounds(now)
     used = 0
     if os.path.exists(LEDGER):
         for line in open(LEDGER):
             f = line.split()
-            if len(f) >= 2 and datetime.fromisoformat(f[0]) >= start:
-                used += int(f[1])
+            if len(f) >= 3 and f[1] == bucket and datetime.fromisoformat(f[0]) >= start:
+                used += int(f[2])
     return used
 
 
-def charge(clip_id, result):
+def charge(clip_id, result, bucket="uploads", amount=1):
+    """uploads: 1 per videos.insert attempt. units: 50 per update/thumbnail/playlist call, 1 per list call."""
     with open(LEDGER, "a") as f:
-        f.write(f"{datetime.now(timezone.utc).isoformat()} {COST} {clip_id} {result}\n")
+        f.write(f"{datetime.now(timezone.utc).isoformat()} {bucket} {amount} {clip_id} {result}\n")
 
 
 def daily_slots_left(now):
@@ -163,8 +167,8 @@ def daily():
     if not clip:
         print("No clip for YouTube."); return
     now = datetime.now(timezone.utc)
-    if used_today(now) + COST > QUOTA:
-        print("YT quota for today used up; retry next run.", clip["id"]); return
+    if used_today(now) + 1 > MAX_UPLOADS:
+        print("YT upload budget for today used up; retry next run.", clip["id"]); return
     desc = P.build_caption(clip)
     if any(re.search(p, desc, re.I) for p in P.BANNED):
         clip["status"] = "needs_review"; print("Compliance block:", clip["id"])
@@ -195,13 +199,13 @@ def backfill():
     if not todo:
         remove_backfill_cron(); return
     now = datetime.now(timezone.utc)
-    slots = daily_slots_left(now)
-    pending = sum(1 for c in q if is_daily(c, since))
-    reserve = slots if os.path.exists("/opt/aks/.autopost") else min(slots, pending)  # new daily reels first
-    allowed = max(0, (QUOTA - used_today(now) - reserve * COST) // COST)
-    print(f"YT backfill: backlog {len(todo)}, used today {used_today(now)}, reserved {reserve} daily, allowed {allowed}")
+    reserve = daily_slots_left(now)  # keep room for today's remaining daily reels
+    allowed = max(0, MAX_UPLOADS - used_today(now) - reserve)
+    print(f"YT backfill: backlog {len(todo)}, uploads today {used_today(now)}, reserved {reserve} daily, allowed {allowed}")
     fixed, tok = corrected_captions(), None
-    for clip in todo[:allowed]:
+    for i, clip in enumerate(todo[:allowed]):
+        if i:
+            time.sleep(UPLOAD_GAP)
         cap = fixed.get(clip.get("title", "").strip()) or P.build_caption(clip)
         title, desc = yt_format(cap)
         if P.caption_problems(desc) or P.caption_problems(title):
