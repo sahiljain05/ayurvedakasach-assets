@@ -43,5 +43,41 @@
   "file": "clips/NrQgIBqJlWs_c1.mp4",
   "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/NrQgIBqJlWs_c1.mp4",
   "qc": "pass"
+ },
+ {
+  "id": "aks001",
+  "source": "aks_test1.mp4",
+  "start": 7.93,
+  "end": 43,
+  "topic": "Doodh aur phal saath mein",
+  "hook": "दूध के साथ फल? रुकिए!",
+  "title": "दूध के साथ फल — आयुर्वेद क्या कहता है?",
+  "caption": "आयुर्वेद में दूध और फल को एक साथ लेना 'विरुद्ध आहार' माना गया है — ऐसा मेल जो पाचन पर भारी पड़ सकता है। इस बातचीत में Acharya Manish Ji बताते हैं कि फल लेना हो तो गाय-भैंस के दूध के साथ नहीं — नारियल, बादाम या मूंगफली के दूध के साथ लिया जा सकता है।",
+  "research_short": "Charaka Su.26 · Serafini 2009",
+  "research": [
+   {
+    "ref": "Charaka Samhita, Sutrasthana 26 (viruddha ahara); Sabnis M., AYU 2012 (PMC3665091)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3665091/",
+    "what_it_shows": "classical concept of incompatible food combinations (review article)"
+   },
+   {
+    "ref": "Serafini M. et al., Free Radic Biol Med 2009 (PMID 19135520)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/19135520/",
+    "what_it_shows": "small human study: taking blueberries with milk reduced the rise in blood antioxidant levels vs blueberries with water"
+   }
+  ],
+  "transcript": "aks_test1.chirp.json",
+  "broll": [
+   [
+    15.01,
+    17.15
+   ]
+  ],
+  "status": "approved_manual",
+  "qc": "pass",
+  "file": "clips/aks001_v4.mp4",
+  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/aks001_v4.mp4",
+  "approved": "user approved v4 on 2026-11-23 for a one-off IG+FB post",
+  "source_note": "aks_test1.mp4 = LmpEEPMpNLI 190-235 s; Chirp 3 transcript"
  }
 ]
