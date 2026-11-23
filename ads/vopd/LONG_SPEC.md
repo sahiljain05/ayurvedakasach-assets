@@ -15,7 +15,7 @@ Total 5:00-6:30 min. Two renders of the same edit:
 3. 2:45-4:45 Patient experience: 2-3 short clips from official testimonial videos on the channel (search the channel for "Patient Experience", "Patient Feedback", "True Patient Feedback" titles). Keep only lines about the EXPERIENCE: being heard by the doctor, the diet and routine guidance, the convenience, how they feel about the care. Lower-third: "मरीज़ का अनुभव · हर व्यक्ति का अनुभव अलग हो सकता है".
 4. 4:45-5:20 Acharya Ji line that encourages consulting a doctor and following guidance (and, if available, "doctor से पूछे बिना कोई दवा बंद न करें").
 5. Endplate 25-35 s (voice-over, see script), branded card over blurred last frame.
-Persistent small footer from 0:12 to the end: "Individual experiences vary · This is not a claim of cure · Consult your doctor".
+(No disclaimer footer on any VOPD output: removed per user decision 23 Nov, FULL_AD.md part 0.)
 
 ## Hard compliance rules (Drugs & Magic Remedies Act, ASCI healthcare + testimonial guidelines, Meta health ads, DPDP)
 - REMOVE every line, word or on-screen text that states or implies treatment/cure/reversal/"theek ho gaya"/"dawai band ho gayi"/report numbers (sugar, creatinine, HbA1c, BP readings)/dialysis stopped/surgery avoided/"guarantee"/time-bound results, for ANY disease. If a testimonial clip can't be cut without these, drop the clip.
@@ -29,7 +29,7 @@ Persistent small footer from 0:12 to the end: "Individual experiences vary · Th
 अपनी समस्या बताइए, डॉक्टर आपकी दिनचर्या और खान-पान को समझेंगे और आपको सही मार्गदर्शन देंगे।
 नीचे दिए लिंक पर क्लिक करें और आज ही अपनी वीडियो कंसल्टेशन बुक करें।"
 (For TTS only, write "HiiMS" as "हिम्स" if mispronounced.)
-On-screen endplate: Jeena Sikho HiiMS · Virtual OPD / घर बैठे आयुर्वेद डॉक्टर से वीडियो पर सलाह / 👉 नीचे दिए लिंक पर अभी बुक करें / footer: AI voice · Individual experiences vary · Not a claim of cure.
+On-screen endplate: Jeena Sikho HiiMS · Virtual OPD / घर बैठे आयुर्वेद डॉक्टर से वीडियो पर सलाह / 👉 नीचे दिए लिंक पर अभी बुक करें (no footer).
 
 ## Audio/visual
 - Burned-in Hindi captions (Chirp transcription, caption cleanup) in both formats; landscape captions bottom-centre.

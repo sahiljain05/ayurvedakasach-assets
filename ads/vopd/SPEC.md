@@ -9,7 +9,7 @@ Do NOT add these to queue.json, do NOT post them anywhere, do NOT touch .autopos
   Line 1 (large): Jeena Sikho HiiMS
   Line 2: Virtual OPD · घर बैठे डॉक्टर से वीडियो पर सलाह
   Line 3: 👉 नीचे दिए लिंक पर अभी बुक करें
-  Footer (small): AI voice · Educational content, not a cure claim
+  (No disclaimer footer on any VOPD output: removed per user decision 23 Nov, FULL_AD.md part 0.)
   (No price, no phone number, no URL burned in: the ad's CTA button carries the landing-page link.)
 - Endplate voice-over: Google Cloud Text-to-Speech, language hi-IN, Chirp 3 HD voices (list available hi-IN Chirp3-HD voices first and pick ONE natural male and ONE natural female). Use the VM metadata token (cloud-platform scope; API already enabled). This is a generic synthetic voice: never clone or imitate Acharya Ji or any real person.
   Duck the clip audio under the voice-over; voice-over must fit within the 5 s endplate (speakingRate up to 1.1 if needed).

@@ -1,11 +1,12 @@
 #!/opt/aks/venv/bin/python
-"""VOPD endplate videos (ads/vopd/ENDPLATE_VO.md, part 2): b-roll + voice-over + compliance footer.
-Usage: vopd_broll_mux.py [L1_F L1_M L2_F L2_M]   (default: all four)
+"""VOPD endplate videos (ads/vopd/ENDPLATE_VO.md, part 2): b-roll + voice-over.
+Usage: vopd_broll_mux.py [--footer] [L1_F L1_M L2_F L2_M]   (default: all four, no footer)
+Footer removed by user decision 23 Nov (FULL_AD.md part 0); --footer only re-creates the old ENDPLATE_VO.md version.
 - b-roll: ads/vopd/broll/broll_16x9.mp4 (1920x1080, silent, last 4 s = title card)
 - VO starts at 0.4 s. If 0.4 + VO + 0.8 > b-roll length: hold the last frame (tpad clone) to VO end + 0.8 s;
   never speed up or cut the VO. Else: pad the audio with silence to the b-roll length.
 - Audio: loudnorm -16 LUFS (two-pass), AAC 192k 48 kHz mono.
-- Footer for the whole video (libass, shaping=complex, Noto Sans 26 px, #F6EEDC on a 55% dark bar, 24 px from bottom).
+- Optional (--footer) footer for the whole video (libass, shaping=complex, Noto Sans 26 px, #F6EEDC on a 55% dark bar, 24 px from bottom).
 - H.264 crf 20 veryfast yuv420p +faststart. Contact sheet with 6 frames per output."""
 import json, pathlib, re, subprocess, sys, tempfile
 
@@ -16,6 +17,7 @@ FOOTER = ("Consultation and guidance only · Do not stop or change ongoing treat
 START, TAIL = 0.4, 0.8
 W, H = 1920, 1080
 BOX = 8  # ASS box padding (Outline with BorderStyle 3); bar bottom edge = MarginV - BOX = 24 px
+USE_FOOTER = False
 NICE = ["nice", "-n", "15", "ionice", "-c3"]
 
 
@@ -78,8 +80,10 @@ def make(name):
     vf = f"tpad=stop_mode=clone:stop_duration={need - bl:.3f}," if need > bl else ""
     with tempfile.TemporaryDirectory() as d:
         ass = pathlib.Path(d) / "footer.ass"
-        ass_file(ass, length)
-        vf += f"ass={ass}:shaping=complex,format=yuv420p"
+        if USE_FOOTER:
+            ass_file(ass, length)
+            vf += f"ass={ass}:shaping=complex,"
+        vf += "format=yuv420p"
         af = (f"{loudnorm_args(vo)},aresample=48000,aformat=channel_layouts=mono,"
               f"adelay={int(START * 1000)}:all=1,apad=whole_dur={length:.3f},atrim=0:{length:.3f}")
         subprocess.run([*NICE, "ffmpeg", "-y", "-loglevel", "error", "-i", str(BROLL), "-i", str(vo),
@@ -99,5 +103,6 @@ def make(name):
 
 if __name__ == "__main__":
     OUT.mkdir(parents=True, exist_ok=True)
-    for n in sys.argv[1:] or ["L1_F", "L1_M", "L2_F", "L2_M"]:
+    USE_FOOTER = "--footer" in sys.argv
+    for n in [a for a in sys.argv[1:] if a != "--footer"] or ["L1_F", "L1_M", "L2_F", "L2_M"]:
         make(n)
