@@ -16,9 +16,11 @@
     "what_it_shows": "20 healthy young adults; dinner at 22:00 vs 18:00 (same food) led to higher post-meal glucose, delayed triglyceride peak and lower dietary fat oxidation overnight. Supports early dinner only; says nothing about water with meals."
    }
   ],
-  "status": "ready",
+  "status": "needs_review",
   "file": "clips/LmpEEPMpNLI_c1.mp4",
-  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/LmpEEPMpNLI_c1.mp4"
+  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/LmpEEPMpNLI_c1.mp4",
+  "qc": "fail",
+  "qc_reason": "framing: no face 28.2–31.8 s"
  },
  {
   "id": "NrQgIBqJlWs_c1",
@@ -39,6 +41,7 @@
   ],
   "status": "ready",
   "file": "clips/NrQgIBqJlWs_c1.mp4",
-  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/NrQgIBqJlWs_c1.mp4"
+  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/NrQgIBqJlWs_c1.mp4",
+  "qc": "pass"
  }
 ]
