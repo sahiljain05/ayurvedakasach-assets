@@ -1,0 +1,176 @@
+{
+  "_note": "YT_SEO.md: SEO metadata for the 6 videos uploaded before YT SEO was on. Primary/secondary phrases validated with YouTube autocomplete (hl=hi, gl=IN) on 2026-11-23. Applied by tools/post_yt.py --seo-update.",
+  "aks001": {
+    "video_id": "QYcWlTrNwhM",
+    "source_url": "https://www.youtube.com/watch?v=LmpEEPMpNLI",
+    "primary": "दूध के साथ फल",
+    "primary_hinglish": "dudh ke sath fal khana chahie ki nahin",
+    "secondary": [
+      "dudh ke sath kaun sa fal khana chahie",
+      "dudh ke sath kya nahi khana chahiye",
+      "विरुद्ध आहार",
+      "milk with fruits ayurveda"
+    ],
+    "title": "दूध के साथ फल खाना सही या गलत? | Acharya Manish Ji",
+    "lead": "दूध के साथ फल खाना चाहिए या नहीं? आचार्य मनीष जी बताते हैं कि आयुर्वेद में दूध और फल के मेल को विरुद्ध आहार क्यों कहा गया है।",
+    "points": [
+      "• आयुर्वेद के अनुसार गाय-भैंस के दूध के साथ फल का कॉम्बिनेशन नहीं करना चाहिए",
+      "• मैंगो शेक, बनाना शेक, चीकू शेक जैसे दूध वाले फल-शेक भी इसी में आते हैं",
+      "• फल लेना हो तो नारियल, बादाम या मूंगफली का दूध ले सकते हैं"
+    ],
+    "hashtags": [
+      "#आयुर्वेद",
+      "#ViruddhAahar",
+      "#AyurvedaDiet"
+    ],
+    "playlist": "diet",
+    "en_title": "Fruit with milk: right or wrong? Ayurveda | Acharya Manish Ji",
+    "en_description": "Acharya Manish Ji explains why Ayurveda calls milk with fruit an incompatible food combination (viruddha ahara).",
+    "comment": "आप दूध के साथ कौन सा फल खाते हैं? 👇"
+  },
+  "LmpEEPMpNLI_c1": {
+    "video_id": "WoC8Xr3cvSI",
+    "source_url": "https://www.youtube.com/watch?v=LmpEEPMpNLI",
+    "primary": "खाने के साथ पानी",
+    "primary_hinglish": "khane ke sath pani pina chahiye ya nahi",
+    "secondary": [
+      "khana khane ke baad pani kab pina chahiye",
+      "dinner kab karna chahiye",
+      "raat ka khana kitne baje khana chahie",
+      "khane ke sath pani kyon nahin pina chahie"
+    ],
+    "title": "खाने के साथ पानी पीना चाहिए या नहीं? डिनर का सही समय",
+    "lead": "खाने के साथ पानी पीना चाहिए या नहीं, और डिनर कब करें? आचार्य मनीष जी से जानिए आयुर्वेद का सीधा नियम।",
+    "points": [
+      "• डिनर हल्का रखें और कोशिश करें कि सूरज ढलने से पहले खा लें",
+      "• खाने के साथ ढेर सारा पानी नहीं; पानी आधा घंटा पहले या 40 मिनट बाद",
+      "• प्यास लगे तो बीच में 1–2 घूंट, या गुनगुना पानी",
+      "• आयुर्वेद में इसे पाचन अग्नि और पाचक रस से जोड़ा गया है"
+    ],
+    "hashtags": [
+      "#आयुर्वेद",
+      "#DinnerTime",
+      "#Digestion"
+    ],
+    "playlist": "water",
+    "en_title": "Should you drink water with meals? Best dinner time | Ayurveda",
+    "en_description": "Acharya Manish Ji on eating a light dinner before sunset and why Ayurveda advises against drinking a lot of water with meals.",
+    "comment": "आप खाना खाने के कितनी देर बाद पानी पीते हैं? 👇"
+  },
+  "NrQgIBqJlWs_c1": {
+    "video_id": "hi06U8_xo30",
+    "source_url": "https://www.youtube.com/watch?v=NrQgIBqJlWs",
+    "primary": "खाना चबा-चबाकर खाना",
+    "primary_hinglish": "khana chaba kar khane ke fayde",
+    "secondary": [
+      "32 bar chabana",
+      "khana chaba kar khana chahie",
+      "khana chaba chaba kar khane ke fayde",
+      "khana chaba kar khane se kya hota hai"
+    ],
+    "title": "खाना चबा-चबाकर क्यों खाएं? 32 बार चबाने का नियम",
+    "lead": "खाना चबा-चबाकर क्यों खाना चाहिए? आचार्य मनीष जी बताते हैं छोटी bite और 32 बार चबाने का आसान नियम।",
+    "points": [
+      "• रोटी का छोटा टुकड़ा लें और उसे सब्ज़ी के साथ खाएं",
+      "• सब्ज़ी-दाल ज़्यादा, रोटी कम",
+      "• हर कौर 32 बार चबाएं",
+      "• धीरे खाएंगे तो आधी रोटी में ही 15 मिनट लगेंगे, और 6-8 रोटी खाने की आदत अपने आप छूट जाएगी"
+    ],
+    "hashtags": [
+      "#आयुर्वेद",
+      "#MindfulEating",
+      "#HealthyHabits"
+    ],
+    "playlist": "digestion",
+    "en_title": "Why chew your food 32 times? Ayurveda eating rule",
+    "en_description": "Acharya Manish Ji on small bites, more vegetables and dal, and chewing every bite 32 times.",
+    "comment": "आप एक कौर को कितनी बार चबाते हैं? 👇"
+  },
+  "w5EpsKIMGIA_c1": {
+    "video_id": "V6aIo19JxZ4",
+    "source_url": "https://www.youtube.com/watch?v=w5EpsKIMGIA",
+    "primary": "खाना खाने के बाद नहाना",
+    "primary_hinglish": "khana khane ke baad nahana chahie ya nahin",
+    "secondary": [
+      "nahane se pahle khana chahiye ya nahi",
+      "subah nashta kitne baje karna chahie",
+      "subah ka nasta kab karna chahiye",
+      "dinacharya"
+    ],
+    "title": "खाना खाने के बाद नहाना सही है? पहले स्नान, फिर नाश्ता",
+    "lead": "खाना खाने के बाद नहाना चाहिए या नहीं? आचार्य मनीष जी बताते हैं कि पहले स्नान और फिर नाश्ता क्यों, और नाश्ता कितने बजे तक करें।",
+    "points": [
+      "• भोजन हमेशा नहाने के बाद करें, खाकर तुरंत न नहाएं",
+      "• नाश्ता ऐसा हो जो दिन भर ऊर्जा दे",
+      "• नाश्ता सुबह 9 बजे से पहले, उठने के करीब डेढ़ घंटे के अंदर",
+      "• आचार्य जी के अनुसार सुबह के इस समय शरीर में एंजाइम्स का लेवल सबसे अच्छा होता है"
+    ],
+    "hashtags": [
+      "#आयुर्वेद",
+      "#Dinacharya",
+      "#MorningRoutine"
+    ],
+    "playlist": "routine",
+    "en_title": "Bath after eating? Bath first, then breakfast | Ayurveda",
+    "en_description": "Acharya Manish Ji on bathing before breakfast and eating breakfast before 9 am, within about 1.5 hours of waking.",
+    "comment": "आप पहले नहाते हैं या पहले नाश्ता करते हैं? 👇"
+  },
+  "w5EpsKIMGIA_c2": {
+    "video_id": "iBdXOBozl40",
+    "source_url": "https://www.youtube.com/watch?v=w5EpsKIMGIA",
+    "primary": "सुबह का नाश्ता",
+    "primary_hinglish": "breakfast me kya khana chahiye",
+    "secondary": [
+      "subah ka nashta",
+      "subah nashta kya karen",
+      "healthy nashta kya karen",
+      "breakfast ideas ayurveda"
+    ],
+    "title": "सुबह का नाश्ता कैसा हो? रोज़ वैरायटी और पहले फल",
+    "lead": "सुबह का नाश्ता कैसा होना चाहिए? आचार्य मनीष जी बताते हैं कि रोज़ एक ही नाश्ता क्यों नहीं, और प्लेट में पहले फल क्यों।",
+    "points": [
+      "• जैसे रोज़ नए कपड़े पहनते हैं, वैसे नाश्ता भी रोज़ बदलें",
+      "• शरीर को वैरायटी चाहिए, अलग-अलग चीज़ों से अलग पोषण मिलता है",
+      "• पहले 4–5 तरह के फलों की प्लेट, फिर बिना गैप के जो मन हो",
+      "• जो भी खाएं, चबा-चबाकर खाएं"
+    ],
+    "hashtags": [
+      "#आयुर्वेद",
+      "#HealthyBreakfast",
+      "#AyurvedaDiet"
+    ],
+    "playlist": "diet",
+    "en_title": "What to eat for breakfast? Variety and fruit first | Ayurveda",
+    "en_description": "Acharya Manish Ji on changing your breakfast every day and starting with a plate of 4-5 kinds of fruit.",
+    "comment": "आज आपने नाश्ते में क्या खाया? 👇"
+  },
+  "w5EpsKIMGIA_c3": {
+    "video_id": "dXtD4qgLJVE",
+    "source_url": "https://www.youtube.com/watch?v=w5EpsKIMGIA",
+    "primary": "टेंशन में क्या खाना चाहिए",
+    "primary_hinglish": "tension me kya khana chahiye",
+    "secondary": [
+      "stress me kya khana chahiye",
+      "gusse me khana",
+      "mood kharab ho to kya khaye",
+      "mindful eating"
+    ],
+    "title": "टेंशन में क्या खाना चाहिए? गुस्से में खाने पर आयुर्वेद",
+    "lead": "टेंशन या गुस्से में क्या खाना चाहिए? आचार्य मनीष जी बताते हैं कि ऐसे दिन भारी खाने की जगह हल्का क्यों खाएं।",
+    "points": [
+      "• जिस दिन मूड खराब हो, गुस्सा, झगड़ा या टेंशन हो, उस दिन भारी खाना नहीं",
+      "• उस दिन फल, नारियल पानी या हरी सब्ज़ी-सलाद लें",
+      "• जैसे गर्म हुई मिक्सी को बंद कर देते हैं, वैसे ही शरीर को आराम दें",
+      "• आचार्य जी के अनुसार ऐसे समय खाना ठीक से हज़म नहीं होता"
+    ],
+    "hashtags": [
+      "#आयुर्वेद",
+      "#MindfulEating",
+      "#AyurvedaTips"
+    ],
+    "playlist": "digestion",
+    "en_title": "What to eat when stressed or angry? Ayurveda advice",
+    "en_description": "Acharya Manish Ji on eating light (fruit, coconut water, salad) on days of anger or tension.",
+    "comment": "टेंशन वाले दिन आप क्या खाते हैं? 👇"
+  }
+}
