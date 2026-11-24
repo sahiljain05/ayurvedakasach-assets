@@ -608,7 +608,59 @@
     "ig_media_id": "17975374620184917",
     "posted_ig_at": "2026-11-24T05:00:41.545871+00:00",
     "fb_video_id": "1531084382189335",
-    "posted_fb_at": "2026-11-24T05:10:11.576818+00:00"
+    "posted_fb_at": "2026-11-24T05:10:11.576818+00:00",
+    "yt_seo": {
+      "primary": "रात को सलाद खाना चाहिए या नहीं",
+      "primary_hinglish": "raat ko salad khana chahiye ya nahi",
+      "secondary": [
+        "raat ka khana kab khana chahiye",
+        "dinner kitne baje karna chahiye",
+        "raat ko soup peene ke fayde",
+        "raat ko kya khana chahiye",
+        "raat ko salad mein khira khana chahie ya nahin"
+      ],
+      "title": "रात को सलाद खाना चाहिए या नहीं? सूप और डिनर का सही समय",
+      "lead": "रात को सलाद खाना चाहिए या नहीं? इस वीडियो में आचार्य मनीष जी बताते हैं कि शाम को सलाद की जगह गर्म वेजिटेबल सूप क्यों लें और रात का आखिरी खाना किस समय तक खा लेना चाहिए।",
+      "points": [
+        "• डिनर की शुरुआत गर्म-गर्म वेजिटेबल सूप से करें, शाम को सलाद न खाएं",
+        "• शाम के समय खीरा, ककड़ी, टमाटर और प्याज कई लोगों को सूट नहीं करते",
+        "• दिन का आखिरी खाना सूरज डूबने के आसपास, यानी 6 से 7 बजे तक खा लें",
+        "• काम की वजह से दिक्कत हो तो ज़्यादा से ज़्यादा 7:30 या 8 बजे तक खा लें",
+        "• 8 बजे के बाद, यानी 9 या 10 बजे रात का खाना न खाएं"
+      ],
+      "hashtags": [
+        "#आयुर्वेद",
+        "#डिनर",
+        "#वेजिटेबलसूप"
+      ],
+      "playlist": "diet",
+      "en_title": "Should you eat salad at night? Soup and the right time for dinner",
+      "en_description": "Acharya Manish Ji explains why to start dinner with warm vegetable soup instead of salad and to finish your last meal around sunset, by 8 pm at the latest.",
+      "comment": "आप रात का खाना आमतौर पर कितने बजे खाते हैं? 👇",
+      "source_url": "https://www.youtube.com/watch?v=gtXL2qv-azg"
+    },
+    "yt_title": "रात को सलाद खाना चाहिए या नहीं? सूप और डिनर का सही समय",
+    "yt_tags": [
+      "रात को सलाद खाना चाहिए या नहीं",
+      "raat ko salad khana chahiye ya nahi",
+      "raat ka khana kab khana chahiye",
+      "dinner kitne baje karna chahiye",
+      "raat ko soup peene ke fayde",
+      "raat ko kya khana chahiye",
+      "raat ko salad mein khira khana chahie ya nahin",
+      "Acharya Manish Ji",
+      "आचार्य मनीष जी",
+      "Ayurveda Ka Sach",
+      "आयुर्वेद"
+    ],
+    "yt_seo_steps": [
+      "captions",
+      "playlist",
+      "comment"
+    ],
+    "yt_seo_done": [],
+    "yt_video_id": "WpkUtZ7Kaj0",
+    "posted_yt_at": "2026-11-24T05:20:33.650796+00:00"
   },
   {
     "id": "DmWr7zGSa84_c2",
