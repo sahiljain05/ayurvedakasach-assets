@@ -361,11 +361,16 @@
       "playlist",
       "comment"
     ],
-    "yt_seo_done": [],
+    "yt_seo_done": [
+      "update",
+      "captions",
+      "playlist",
+      "comment"
+    ],
     "yt_seo_errors": {
       "update": "403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Forbidden\",\n    \"errors\": [\n      {\n        \"message\": \"Forbidden\",\n        \"domain\": \"youtube.video\",\n        \"reason\": \"forbidden\"\n      }\n    ]\n  }\n}\n"
     },
-    "yt_seo_status": "partial: "
+    "yt_seo_status": "done"
   },
   {
     "id": "w5EpsKIMGIA_c2",
