@@ -3,11 +3,11 @@
 # status: todo | in_progress | done (<n> clips, <date>) | skipped (<reason>)
 # The pipeline processes the first "todo"/"in_progress" line top-down, one live at a time, and updates status here.
 # Mantra/havan broadcasts (महामृत्युंजय पाठ/हवन) are not listed: rejected by WEBINAR_MODE.md.
-pET8b5mZhCw | Jeena Sikho HiiMS Delhi/NCR Meerut से Acharya Manish Ji Live | 2:46:15 | 2026-11-21 | todo
-oAUTKUqdZzU | Jeena Sikho HiiMS Delhi/NCR Meerut से Acharya Manish Ji Live | 2:29:14 | 2026-11-20 | todo
-nU2PjgftoNk | Jeena Sikho HiiMS Delhi/NCR Meerut से Acharya Manish Ji Live | 2:55:52 | 2026-11-20 | todo
-8CImGfdXc5s | Jeena Sikho HiiMS Delhi/NCR Meerut से Acharya Manish Ji Live | 2:59:00 | 2026-11-19 | todo
-ab5GeF8IBM4 | Navi Mumbai Health Camp 17–18 November | Meet Acharya Manish Ji | 2:48:46 | 2026-11-17 | todo
+pET8b5mZhCw | Jeena Sikho HiiMS Delhi/NCR Meerut से Acharya Manish Ji Live | 2:46:15 | 2026-11-21 | done (1 clips, 2026-11-24)
+oAUTKUqdZzU | Jeena Sikho HiiMS Delhi/NCR Meerut से Acharya Manish Ji Live | 2:29:14 | 2026-11-20 | done (0 clips, 2026-11-24)
+nU2PjgftoNk | Jeena Sikho HiiMS Delhi/NCR Meerut से Acharya Manish Ji Live | 2:55:52 | 2026-11-20 | done (1 clips, 2026-11-24)
+8CImGfdXc5s | Jeena Sikho HiiMS Delhi/NCR Meerut से Acharya Manish Ji Live | 2:59:00 | 2026-11-19 | done (1 clips, 2026-11-24)
+ab5GeF8IBM4 | Navi Mumbai Health Camp 17–18 November | Meet Acharya Manish Ji | 2:48:46 | 2026-11-17 | done (0 clips, 2026-11-24; burned-in promo ticker with phone number)
 ojYoAQfyj60 | All Disease Webinar LIVE | Acharya Manish Ji | 1:59:49 | 2026-11-16 | todo
 HqdnG2TSE5o | Cancer, Liver Failure, CKD और अन्य Health Problems पर Special Webinar | 2:12:22 | 2026-11-10 | todo
 66vdFPtAx8M | Kidney Health पर Special Webinar | Acharya Manish Ji LIVE | 2:47:06 | 2026-11-10 | todo
