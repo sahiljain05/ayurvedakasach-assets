@@ -199,7 +199,7 @@ def daily():
         else:
             clip["yt_seo_status"] = "fallback (generation failed)"
         try:
-            v = upload(access_token(e), path, title, desc, S.snippet(seo, clip) if seo else None,
+            v = upload(access_token(e), path, title, S.with_long_link(desc, clip), S.snippet(seo, clip) if seo else None,
                        S.localizations(seo) if seo else None, notify=True)
             charge(clip["id"], "ok " + v["id"])
             clip["yt_video_id"] = v["id"]

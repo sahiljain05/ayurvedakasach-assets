@@ -261,8 +261,17 @@ def _req(Y, tok, method, url, body=None, headers=None, data=None):
     return json.load(Y._open(urllib.request.Request(url, data=data, method=method, headers=h), 120))
 
 
+def with_long_link(desc, c):
+    """YT_LONG.md 4: the next 3 Shorts on a long video's topic carry "पूरा वीडियो: <url>" (after the first paragraph)."""
+    url = c.get("yt_long_url")
+    if not url or url in desc:
+        return desc
+    head, sep, rest = desc.partition("\n\n")
+    return f"{head}\n\nपूरा वीडियो: {url}" + (f"\n\n{rest}" if sep else "")
+
+
 def snippet(seo, c):
-    return {"title": seo["title"], "description": description(c, seo), "tags": tags(seo), "categoryId": "27",
+    return {"title": seo["title"], "description": with_long_link(description(c, seo), c), "tags": tags(seo), "categoryId": "27",
             "defaultLanguage": "hi", "defaultAudioLanguage": "hi"}
 
 
