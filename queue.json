@@ -528,7 +528,59 @@
     "ig_media_id": "18097167230674037",
     "posted_ig_at": "2026-11-24T02:31:07.773083+00:00",
     "fb_video_id": "1939672920717598",
-    "posted_fb_at": "2026-11-24T02:40:12.329829+00:00"
+    "posted_fb_at": "2026-11-24T02:40:12.329829+00:00",
+    "yt_seo": {
+      "primary": "आंवला के फायदे",
+      "primary_hinglish": "amla ke fayde",
+      "secondary": [
+        "amla khane ke fayde",
+        "आंवला खाने के फायदे",
+        "amla vitamin c",
+        "amla superfood",
+        "amla vs orange vitamin c"
+      ],
+      "title": "आंवला के फायदे: दुनिया का सबसे सस्ता सुपरफूड? | Acharya Manish Ji",
+      "lead": "आंवला के फायदे जानिए आचार्य मनीष जी से। वे उस छोटे हरे फल को दुनिया का सबसे सस्ता सुपरफूड कहते हैं, जिसे हम रोज इग्नोर कर देते हैं। इस शॉर्ट में जानिए कि आंवले में कौन-कौन से पोषक तत्व होते हैं।",
+      "points": [
+        "• आचार्य जी के अनुसार आंवला विटामिन C का 'बॉम्ब' है",
+        "• उनके मुताबिक इसका विटामिन C संतरे से 20 गुना ज़्यादा पावरफुल है",
+        "• आंवला एक छोटी-सी लैबोरेटरी है, जिसमें एंटीऑक्सीडेंट, कैल्शियम, फास्फोरस और आयरन हैं",
+        "• इसमें विटामिन A, E, C और B1 भी मौजूद हैं",
+        "• इतना सस्ता और आम फल होने के बावजूद हम इसे रोज नज़रअंदाज़ कर देते हैं"
+      ],
+      "hashtags": [
+        "#आयुर्वेद",
+        "#आंवला",
+        "#AmlaKeFayde"
+      ],
+      "playlist": "diet",
+      "en_title": "Benefits of Amla: The World's Cheapest Superfood? | Acharya Manish Ji",
+      "en_description": "Acharya Manish Ji calls amla the world's cheapest superfood: a vitamin C powerhouse he says is 20 times more powerful than orange, with antioxidants, calcium, phosphorus, iron and vitamins A, E and B1.",
+      "comment": "आप आंवला किस रूप में खाना पसंद करते हैं? 👇",
+      "source_url": "https://www.youtube.com/watch?v=ADZdpWvfBSs"
+    },
+    "yt_title": "आंवला के फायदे: दुनिया का सबसे सस्ता सुपरफूड? | Acharya Manish Ji",
+    "yt_tags": [
+      "आंवला के फायदे",
+      "amla ke fayde",
+      "amla khane ke fayde",
+      "आंवला खाने के फायदे",
+      "amla vitamin c",
+      "amla superfood",
+      "amla vs orange vitamin c",
+      "Acharya Manish Ji",
+      "आचार्य मनीष जी",
+      "Ayurveda Ka Sach",
+      "आयुर्वेद"
+    ],
+    "yt_seo_steps": [
+      "captions",
+      "playlist",
+      "comment"
+    ],
+    "yt_seo_done": [],
+    "yt_video_id": "yjz9PAoWc1E",
+    "posted_yt_at": "2026-11-24T02:50:34.081863+00:00"
   },
   {
     "id": "gtXL2qv-azg_c2",
@@ -623,5 +675,42 @@
     "qc": "pass",
     "file": "clips/rnadgXr6N54_c1.mp4",
     "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/rnadgXr6N54_c1.mp4"
+  },
+  {
+    "id": "-e4MAVCp1PU_c1",
+    "source": "-e4MAVCp1PU.mp4",
+    "start": 22.53,
+    "end": 57.28,
+    "topic": "morning warm water, sipped while sitting in ukdu (squat) position",
+    "hook": "सुबह पानी कैसे पीना है?",
+    "title": "सुबह गुनगुना पानी उकड़ू बैठकर क्यों पिएं? | आचार्य जी",
+    "caption": "सुबह उठते ही पानी… पर किस तरह? 🥛\nआचार्य मनीष जी बताते हैं: उठते ही सबसे पहले गुनगुना पानी, उकड़ू बैठकर (इंडियन टॉयलेट सीट वाले स्टाइल में) पिएं। एक-एक घूंट मुंह में घुमाकर धीरे-धीरे अंदर लें। चाहें तो सादे गरम पानी की जगह ग्रीन टी या हर्बल टी भी ले सकते हैं।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #MorningRoutine #WarmWater #Dinacharya #HealthyHabits #आयुर्वेद",
+    "research_short": "",
+    "research": [],
+    "speaker": "Acharya Manish Ji",
+    "credit_line": "🎥 Clip: Acharya Manish Ji (official YouTube)",
+    "status": "ready",
+    "qc": "pass",
+    "file": "clips/-e4MAVCp1PU_c1.mp4",
+    "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/-e4MAVCp1PU_c1.mp4"
+  },
+  {
+    "id": "8GW9_AoIS6M_c1",
+    "source": "8GW9_AoIS6M.mp4",
+    "transcript": "8GW9_AoIS6M.chirp.json",
+    "start": 23.49,
+    "end": 62.88,
+    "topic": "homemade coconut + almond curd (set with green-chili stems in a clay pot)",
+    "hook": "नारियल-बादाम की दही घर पर",
+    "title": "नारियल और बादाम की दही घर पर कैसे जमाएं? | आचार्य जी",
+    "caption": "दूध नहीं, नारियल और बादाम की दही! 🥥\nआचार्य मनीष जी का घरेलू तरीका: नारियल और बादाम को मिक्सी में पीसकर, पानी डालकर, कपड़े से तीन-तीन बार निचोड़कर दूध निकालिए। हल्का गर्म करके ठंडा होने दीजिए, हरी मिर्च की चार डंडियां डालिए और मिट्टी के कसोरे में रात भर रख दीजिए, सुबह तक दही जम जाती है।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #CoconutCurd #PlantBased #KitchenTips #HomeRemedies #आयुर्वेद",
+    "research_short": "",
+    "research": [],
+    "speaker": "Acharya Manish Ji",
+    "credit_line": "🎥 Clip: Acharya Manish Ji (official YouTube)",
+    "status": "ready",
+    "qc": "pass",
+    "file": "clips/8GW9_AoIS6M_c1.mp4",
+    "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/8GW9_AoIS6M_c1.mp4"
   }
 ]
