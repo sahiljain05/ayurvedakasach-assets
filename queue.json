@@ -526,7 +526,9 @@
     "status": "posted_ig",
     "qc": "pass",
     "ig_media_id": "18097167230674037",
-    "posted_ig_at": "2026-11-24T02:31:07.773083+00:00"
+    "posted_ig_at": "2026-11-24T02:31:07.773083+00:00",
+    "fb_video_id": "1939672920717598",
+    "posted_fb_at": "2026-11-24T02:40:12.329829+00:00"
   },
   {
     "id": "gtXL2qv-azg_c2",
@@ -577,5 +579,49 @@
     "qc": "pass",
     "file": "clips/DmWr7zGSa84_c2.mp4",
     "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/DmWr7zGSa84_c2.mp4"
+  },
+  {
+    "id": "rnadgXr6N54_c1",
+    "source": "rnadgXr6N54.mp4",
+    "start": 53.05,
+    "end": 95.68,
+    "topic": "soak dal 4 h, chana 8 h, almonds overnight; whole dal",
+    "hook": "दाल सिर्फ आधा घंटा भिगोते हैं?",
+    "title": "दाल कितनी देर भिगोएं? आचार्य जी का नियम",
+    "caption": "दाल सिर्फ आधा-पौना घंटा भिगोते हैं? 🫘\nआचार्य मनीष जी बताते हैं: दालें कम से कम 4 घंटे और चने (काले-सफेद) कम से कम 8 घंटे भिगोइए, बादाम रात भर। उनके अनुसार हर बीज रूपी चीज़ भिगोकर खाने से वह आसानी से पचने वाले रूप में आती है, और धुली की जगह साबुत दाल खाइए।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #Dal #SoakedAlmonds #HealthyEating #KitchenTips #आयुर्वेद",
+    "research_short": "Food Res Int 2018",
+    "research": [
+      {
+        "ref": "Shi L, Arntfield SD, Nickerson M. Changes in levels of phytic acid, lectins and oxalates during soaking and cooking of Canadian pulses. Food Res Int. 2018;107:660-668. doi:10.1016/j.foodres.2018.02.056. PMID 29580532",
+        "cite": "Shi et al., Food Res Int 2018",
+        "note_hi": "मटर, मसूर, चना भिगोने से lectin और oxalate कम हुए",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29580532/",
+        "what_it_shows": "Lab study of peas, lentils, chickpeas, fava and common beans (+soybean): soaking in distilled water significantly lowered lectins (0.1-5%), total oxalate (17-52%) and soluble oxalate (27-56%) but did NOT change phytic acid; cooking reduced antinutrients more than soaking. Does not test almonds, soaking duration, or human digestion."
+      }
+    ],
+    "speaker": "Acharya Manish Ji",
+    "credit_line": "🎥 Clip: Acharya Manish Ji (official YouTube)",
+    "broll": [
+      [
+        63.25,
+        67.65
+      ],
+      [
+        79.04,
+        81.52
+      ],
+      [
+        84.45,
+        86.64
+      ],
+      [
+        92.24,
+        95.68
+      ]
+    ],
+    "status": "ready",
+    "qc": "pass",
+    "file": "clips/rnadgXr6N54_c1.mp4",
+    "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/rnadgXr6N54_c1.mp4"
   }
 ]
