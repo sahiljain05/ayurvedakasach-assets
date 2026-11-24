@@ -776,7 +776,13 @@
     ],
     "yt_seo_done": [],
     "yt_video_id": "aGn0UkZdU8Y",
-    "posted_yt_at": "2026-11-24T07:20:32.691638+00:00"
+    "posted_yt_at": "2026-11-24T07:20:32.691638+00:00",
+    "yt_seo_errors": {
+      "captions": "403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The permissions associated with the request are not sufficient to upload the caption track. The request might not be properly authorized.\",\n    \"errors\": [\n      {\n        \"message\": \"The permissions associated with the request are not sufficient t",
+      "playlist": "404 {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"Channel not found.\",\n    \"errors\": [\n      {\n        \"message\": \"Channel not found.\",\n        \"domain\": \"youtube.playlist\",\n        \"reason\": \"channelNotFound\",\n        \"location\": \"channelId\",\n        \"locationType\": \"parameter\"\n      }\n    ]\n  }\n",
+      "comment": "403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The caller's YouTube account is not connected to Google+.\",\n    \"errors\": [\n      {\n        \"message\": \"The caller's YouTube account is not connected to Google+.\",\n        \"domain\": \"youtube.commentThread\",\n        \"reason\": \"ineligibleAccount\",\n  "
+    },
+    "yt_seo_status": "partial: "
   },
   {
     "id": "rnadgXr6N54_c1",
