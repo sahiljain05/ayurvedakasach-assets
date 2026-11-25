@@ -999,7 +999,9 @@
       "playlist",
       "comment"
     ],
-    "yt_seo_done": [],
+    "yt_seo_done": [
+      "captions"
+    ],
     "yt_video_id": "RFsZw9f5raU",
     "posted_yt_at": "2026-11-25T05:20:31.613932+00:00"
   },
