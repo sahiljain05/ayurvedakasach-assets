@@ -1187,7 +1187,57 @@
     "fb_video_id": "1160859343164279",
     "posted_fb_at": "2026-11-25T05:10:11.444642+00:00",
     "ig_media_id": "18124954342944067",
-    "posted_ig_at": "2026-11-25T15:01:04.250297+00:00"
+    "posted_ig_at": "2026-11-25T15:01:04.250297+00:00",
+    "yt_seo": {
+      "primary": "सुनना भी भोजन है",
+      "primary_hinglish": "sunna bhi bhojan hai",
+      "secondary": [
+        "मन का भोजन",
+        "mann ka bhojan kya hai",
+        "सोच भी भोजन है आयुर्वेद",
+        "dimag ka khana kya hai"
+      ],
+      "title": "सुनना भी भोजन है? शरीर के लिए हर इनपुट खाना | Acharya Manish Ji",
+      "lead": "सुनना भी भोजन है — आचार्य मनीष जी बताते हैं कि शरीर के लिए सिर्फ थाली का खाना ही भोजन नहीं, बल्कि हर इनपुट भोजन है। इस क्लिप में समझिए कि जो आप सुनते, देखते और सोचते हैं, उसका असर मन पर कैसे पड़ता है।",
+      "points": [
+        "• पानी और हवा भी शरीर के लिए खाना हैं",
+        "• सुनना, देखना और सोचना भी एक तरह का भोजन है",
+        "• शरीर के लिए हर इनपुट भोजन है, सिर्फ थाली का खाना नहीं",
+        "• किसी ने किसी के बारे में बुरा बोल दिया, तो अगली बार उसे देखते ही मन में वही बातें चलने लगती हैं",
+        "• इसलिए ध्यान रखें कि कानों, आँखों और मन में क्या जा रहा है"
+      ],
+      "hashtags": [
+        "#आयुर्वेद",
+        "#मनकाभोजन",
+        "#सुननाभीभोजनहै"
+      ],
+      "playlist": "general",
+      "en_title": "Is Listening Also Food? Every Input Is Food for the Body | Acharya Manish Ji",
+      "en_description": "Acharya Manish Ji explains that water, air, and everything we hear, see, and think is food for the body, and shows how negative words we hear shape what goes on in our mind.",
+      "comment": "क्या आपके साथ भी ऐसा हुआ है कि किसी के बारे में बुरा सुनने के बाद उसे देखते ही वही बातें याद आने लगीं? 👇",
+      "source_url": "https://www.youtube.com/watch?v=nU2PjgftoNk"
+    },
+    "yt_title": "सुनना भी भोजन है? शरीर के लिए हर इनपुट खाना | Acharya Manish Ji",
+    "yt_tags": [
+      "सुनना भी भोजन है",
+      "sunna bhi bhojan hai",
+      "मन का भोजन",
+      "mann ka bhojan kya hai",
+      "सोच भी भोजन है आयुर्वेद",
+      "dimag ka khana kya hai",
+      "Acharya Manish Ji",
+      "आचार्य मनीष जी",
+      "Ayurveda Ka Sach",
+      "आयुर्वेद"
+    ],
+    "yt_seo_steps": [
+      "captions",
+      "playlist",
+      "comment"
+    ],
+    "yt_seo_done": [],
+    "yt_video_id": "7mcTBFrDRjk",
+    "posted_yt_at": "2026-11-25T15:20:30.784908+00:00"
   },
   {
     "id": "8CImGfdXc5s_c1",
