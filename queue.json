@@ -1266,6 +1266,58 @@
     "fb_video_id": "971770372401832",
     "posted_fb_at": "2026-11-25T07:10:12.214969+00:00",
     "ig_media_id": "17974505847193148",
-    "posted_ig_at": "2026-11-25T16:30:52.888517+00:00"
+    "posted_ig_at": "2026-11-25T16:30:52.888517+00:00",
+    "yt_seo": {
+      "primary": "नहाने का सही तरीका",
+      "primary_hinglish": "nahane ka sahi tarika",
+      "secondary": [
+        "nahate samay nabhi par pani dalne se kya hota hai",
+        "nahate samay nabhi par pani dalne ke fayde",
+        "nahane ka sahi tarika kya hai",
+        "नहाने का सही तरीका क्या है",
+        "garam pani se nahana chahiye ya nahi"
+      ],
+      "title": "नहाने का सही तरीका: पहला पानी नाभि पर क्यों? | आचार्य मनीष जी",
+      "lead": "नहाने का सही तरीका क्या है? इस छोटे वीडियो में आचार्य मनीष जी बताते हैं कि नहाते समय पहला डिब्बा पानी कहां डालना चाहिए और सिर पर कैसा पानी डालें।",
+      "points": [
+        "• जब भी नहाएं, पहला डिब्बा पानी नाभि पर डालें",
+        "• पहले दो-चार डिब्बे आराम-आराम से नाभि पर डालते रहें, ताकि पेट में शरीर का तापमान सेट हो जाए",
+        "• ऐसा करने से शरीर पहले से नहाने के लिए तैयार हो जाता है",
+        "• कोशिश करें कि बहुत गरम पानी से न नहाएं",
+        "• गरम पानी से नहाना हो तो उसे सिर पर न डालें, सिर पर हल्का गुनगुना पानी ही डालें"
+      ],
+      "hashtags": [
+        "#आयुर्वेद",
+        "#नहानेकासहीतरीका",
+        "#दिनचर्या"
+      ],
+      "playlist": "routine",
+      "en_title": "The right way to bathe: why pour the first water on the navel? | Acharya Manish Ji",
+      "en_description": "Acharya Manish Ji explains that the first few mugs of bath water should be poured slowly on the navel, and that hot water should not be poured on the head, only lukewarm water.",
+      "comment": "आप नहाते समय पहला डिब्बा पानी कहां डालते हैं? 👇",
+      "source_url": "https://www.youtube.com/watch?v=8CImGfdXc5s"
+    },
+    "yt_title": "नहाने का सही तरीका: पहला पानी नाभि पर क्यों? | आचार्य मनीष जी",
+    "yt_tags": [
+      "नहाने का सही तरीका",
+      "nahane ka sahi tarika",
+      "nahate samay nabhi par pani dalne se kya hota hai",
+      "nahate samay nabhi par pani dalne ke fayde",
+      "nahane ka sahi tarika kya hai",
+      "नहाने का सही तरीका क्या है",
+      "garam pani se nahana chahiye ya nahi",
+      "Acharya Manish Ji",
+      "आचार्य मनीष जी",
+      "Ayurveda Ka Sach",
+      "आयुर्वेद"
+    ],
+    "yt_seo_steps": [
+      "captions",
+      "playlist",
+      "comment"
+    ],
+    "yt_seo_done": [],
+    "yt_video_id": "bxASiiFUobU",
+    "posted_yt_at": "2026-11-25T16:50:32.918969+00:00"
   }
 ]
