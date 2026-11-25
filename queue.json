@@ -1259,11 +1259,13 @@
     "credit_line": "🎥 Clip: Acharya Manish Ji (official YouTube) · https://www.youtube.com/watch?v=8CImGfdXc5s",
     "live_id": "8CImGfdXc5s",
     "live_offset": 9465,
-    "status": "ready",
+    "status": "posted_ig",
     "qc": "pass",
     "file": "clips/8CImGfdXc5s_c1.mp4",
     "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/8CImGfdXc5s_c1.mp4",
     "fb_video_id": "971770372401832",
-    "posted_fb_at": "2026-11-25T07:10:12.214969+00:00"
+    "posted_fb_at": "2026-11-25T07:10:12.214969+00:00",
+    "ig_media_id": "17974505847193148",
+    "posted_ig_at": "2026-11-25T16:30:52.888517+00:00"
   }
 ]
