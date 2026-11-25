@@ -1000,10 +1000,13 @@
       "comment"
     ],
     "yt_seo_done": [
-      "captions"
+      "captions",
+      "playlist",
+      "comment"
     ],
     "yt_video_id": "RFsZw9f5raU",
-    "posted_yt_at": "2026-11-25T05:20:31.613932+00:00"
+    "posted_yt_at": "2026-11-25T05:20:31.613932+00:00",
+    "yt_seo_status": "done"
   },
   {
     "id": "8GW9_AoIS6M_c1",
