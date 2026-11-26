@@ -1394,8 +1394,13 @@
       "playlist",
       "comment"
     ],
-    "yt_seo_done": [],
+    "yt_seo_done": [
+      "captions",
+      "playlist",
+      "comment"
+    ],
     "yt_video_id": "FfG5jtVxf78",
-    "posted_yt_at": "2026-11-26T02:50:31.530299+00:00"
+    "posted_yt_at": "2026-11-26T02:50:31.530299+00:00",
+    "yt_seo_status": "done"
   }
 ]
