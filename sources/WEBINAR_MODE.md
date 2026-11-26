@@ -1,5 +1,7 @@
 # Webinar mode (approved by user 23 Nov 2026)
 
+> **Clip rules v2 (26 Nov 2026 23:02 IST):** sources/RULES_V2.md replaces the stricter compliance parts of this spec (disease diet/routine guidance, general prevention talk, anonymised patient-question answers, bold hooks and 30-180 s reels are now allowed; the 3 hard lines stay). Where this file says otherwise, RULES_V2.md wins.
+
 Goal: repurpose long live/webinar recordings on the official @acharyamanishji channel into reels.
 Guest doctors: all doctors on the channel are allowed (user decision), with name credit, EXCEPT Dr. Biswaroop Roy Chowdhury (BRC): never use any segment where he is on screen or his voice is heard (user decision 23 Nov). Acharya Ji or another doctor talking ABOUT Dr. Biswaroop or the DIP diet is fine. The compliance filter still applies to every clip, unchanged.
 

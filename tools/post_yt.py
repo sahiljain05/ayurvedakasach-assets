@@ -149,7 +149,7 @@ def corrected_captions():
 
 
 def yt_format(cap):
-    """title <= 100 chars (Hindi title line); description = caption body + 🎥 credit + hashtags + #Shorts."""
+    """title <= 100 chars (Hindi title line); description = caption body + 🎥 credit + ⚠️ disclaimer + hashtags + #Shorts."""
     lines = cap.strip().splitlines()
     title = re.sub(r"[<>]", "", lines[0].strip())[:100]
     ci = next(i for i, l in enumerate(lines) if l.strip().startswith("🎥"))
@@ -157,7 +157,9 @@ def yt_format(cap):
     tags = next((l.strip() for l in reversed(lines) if l.strip().startswith("#")), "")
     if "#shorts" not in tags.lower():
         tags = (tags + " #Shorts").strip()
-    return title, f"{body}\n\n{lines[ci].strip()}\n\n{tags}"
+    # RULES_V2 4 (26 Nov 2026): keep the ⚠️ disclaimer line in YT descriptions too
+    disc = next((l.strip() for l in lines[ci + 1:] if l.strip().startswith("⚠️")), P.DISCLAIMER)
+    return title, f"{body}\n\n{lines[ci].strip()}\n{disc}\n\n{tags}"
 
 
 def save(q, msg):

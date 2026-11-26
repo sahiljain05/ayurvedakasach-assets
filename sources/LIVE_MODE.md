@@ -1,5 +1,7 @@
 # Live-stream + large-video sourcing (user approved, 25 Nov 01:10 IST)
 
+> **Clip rules v2 (26 Nov 2026 23:02 IST):** sources/RULES_V2.md replaces the stricter compliance parts of this spec (disease diet/routine guidance, general prevention talk, anonymised patient-question answers, bold hooks and 30-180 s reels are now allowed; the 3 hard lines stay). Where this file says otherwise, RULES_V2.md wins.
+
 Problem: the source pool is running dry (23 Nov nightly run added 0 clips; batch-2 videos are 1-3 min, ~1 clip each; 6 big webinars blocked by vidIQ's 299 MB import limit). Fix: use Acharya Manish Ji's long official LIVE streams and big webinars, fetched with yt-dlp in parts.
 
 ## 1. Sources

@@ -4,21 +4,22 @@
 # Only 87 of 1088 in-range uploads qualified (target was top 150). Ranked by view_count.
 # Format: id | title | length | views | date | status
 # status: todo | in_progress | done (<n> clips, <date>) | skipped (<reason>). Process top-down (same rules as live_videos.txt).
-U_IBoo6v3GE | How to Make Living Water at Home / Keep Yourself Healthy / Acharya Manish Ji / HiiMS | 12:47 | 102000 | 2022-11-27 | in_progress
-lEj9rsDMmN4 | योग है स्वास्थ्य के लिए क्रांति नियमित योग से जीवन मे हो / Acharya Manish /Aacharya Manish ji | 30:06 | 88000 | 2016-11-27 | todo
-4DJTYD7Rr-g | Best Way for Detoxification / DIP Diet Benefits / Acharya Manish Ji / HiiMS | 6:02 | 68000 | 2023-11-27 | todo
-4doMaMRmgSs | Gut Health Tips / What Happens When You Overeat / Acharya Manish ji / HiiMS | 5:06 | 63000 | 2023-11-27 | todo
-Bu0riJUVLqc | Mental Health Tips / Ayurvedic Insights on Eating / Acharya Manish Ji / HiiMS | 4:01 | 61000 | 2021-11-27 | todo
-oO2ibYGK8x4 | How to Balance Vata, Pitta & Kapha Naturally? / Acharya Manish Ji / HiiMS | 10:06 | 54000 | 2021-11-27 | todo
-kJHQk2Yx1a4 | How to Stay Healthy? / Ayurvedic Care / Acharya Manish Ji / HiiMS | 7:08 | 54000 | 2023-11-27 | todo
-gkjet_UUqw0 | Improve Gut Health Tips / Why You Should Avoid Non-Veg / Acharya Manish Ji / HiiMS | 4:11 | 53000 | 2021-11-27 | todo
-o-n_ol-pq4Q | Ayurveda Routine For Healthy Life / Disease Prevention Tips / Acharya Manish Ji / Neelima Vishwas | 16:14 | 40000 | 2026-02-27 | todo
-njH87q9d0gc | बीमारियों से बचने का उपाय / इम्युनिटी बढ़ाने का तरीका / How To Boost Your Immunity Power / HiiMS | 5:29 | 40000 | 2025-11-27 | todo
-GlEQ7FJY79Y | Change Your Habits Change Your Life / Acharya Manish / Aacharya Manish ji | 16:31 | 32000 | 2018-11-27 | todo
-rZVscBUM26E | रोगप्रतिरोधक क्षमता बढ़ाने के उपाय / How to Boost Immunity / Acharya Manish / Aacharya Manish ji | 13:58 | 31000 | 2018-11-27 | todo
-D1Pb3qGcTE0 | Natural Detox / Benefits of Fasting / Acharya Manish Ji / HiiMS | 6:21 | 28000 | 2023-11-27 | todo
-sXp-2F2Q4uQ | Indian Wrestler Sangram Singh का Fitness Routine और Healthy Diet Secrets / Acharya Manish Ji | 5:04 | 26000 | 2026-05-27 | todo
-vMWC2NNxiAc | Brain Exercise Tips / Clapping Benefits You Didn’t Know / Acharya Manish Ji / HiiMS | 5:22 | 25000 | 2023-11-27 | todo
+# RULES V2 (26 Nov 2026 23:02 IST): from the next video on, re-read /opt/aks/assets/sources/RULES_V2.md and /opt/aks/app/select_prompt.md before picking windows (30-180 s clips, disease diet/routine guidance allowed, 3 hard lines), and run /opt/aks/app/tighten.py on spec.json right before every render.py (see daily_prompt CLIP RULES V2).
+U_IBoo6v3GE | How to Make Living Water at Home / Keep Yourself Healthy / Acharya Manish Ji / HiiMS | 12:47 | 102000 | 2022-11-27 | skipped (low resolution source 360x640 via vidIQ import, 2026-11-26)
+lEj9rsDMmN4 | योग है स्वास्थ्य के लिए क्रांति नियमित योग से जीवन मे हो / Acharya Manish /Aacharya Manish ji | 30:06 | 88000 | 2016-11-27 | skipped (low resolution source 186x144 via vidIQ import, 2026-11-26)
+4DJTYD7Rr-g | Best Way for Detoxification / DIP Diet Benefits / Acharya Manish Ji / HiiMS | 6:02 | 68000 | 2023-11-27 | done (1 clips, 2026-11-26)
+4doMaMRmgSs | Gut Health Tips / What Happens When You Overeat / Acharya Manish ji / HiiMS | 5:06 | 63000 | 2023-11-27 | done (2 clips, 2026-11-26)
+Bu0riJUVLqc | Mental Health Tips / Ayurvedic Insights on Eating / Acharya Manish Ji / HiiMS | 4:01 | 61000 | 2021-11-27 | done (0 clips: patient Q&A, cure claims, 2026-11-26)
+oO2ibYGK8x4 | How to Balance Vata, Pitta & Kapha Naturally? / Acharya Manish Ji / HiiMS | 10:06 | 54000 | 2021-11-27 | skipped (phone number burned in, stock b-roll, 2026-11-26)
+kJHQk2Yx1a4 | How to Stay Healthy? / Ayurvedic Care / Acharya Manish Ji / HiiMS | 7:08 | 54000 | 2023-11-27 | done (0 clips: course launch, cure banners, disease-prevention claims, 2026-11-26)
+gkjet_UUqw0 | Improve Gut Health Tips / Why You Should Avoid Non-Veg / Acharya Manish Ji / HiiMS | 4:11 | 53000 | 2021-11-27 | skipped (stock-footage voice-over, no speaker on screen, product logo, 2026-11-26)
+o-n_ol-pq4Q | Ayurveda Routine For Healthy Life / Disease Prevention Tips / Acharya Manish Ji / Neelima Vishwas | 16:14 | 40000 | 2026-02-27 | skipped (low resolution source 640x360 via vidIQ import, 2026-11-26)
+njH87q9d0gc | बीमारियों से बचने का उपाय / इम्युनिटी बढ़ाने का तरीका / How To Boost Your Immunity Power / HiiMS | 5:29 | 40000 | 2025-11-27 | done (0 clips: product pitch, disease claims, 2026-11-26)
+GlEQ7FJY79Y | Change Your Habits Change Your Life / Acharya Manish / Aacharya Manish ji | 16:31 | 32000 | 2018-11-27 | skipped (low resolution source 640x360 via vidIQ import, 2026-11-26)
+rZVscBUM26E | रोगप्रतिरोधक क्षमता बढ़ाने के उपाय / How to Boost Immunity / Acharya Manish / Aacharya Manish ji | 13:58 | 31000 | 2018-11-27 | skipped (TV show, phone numbers + prices in ticker, 2026-11-26)
+D1Pb3qGcTE0 | Natural Detox / Benefits of Fasting / Acharya Manish Ji / HiiMS | 6:21 | 28000 | 2023-11-27 | done (0 clips: disease-prevention claim, patient Q&A, 2026-11-26)
+sXp-2F2Q4uQ | Indian Wrestler Sangram Singh का Fitness Routine और Healthy Diet Secrets / Acharya Manish Ji | 5:04 | 26000 | 2026-05-27 | done (1 clips, 2026-11-26)
+vMWC2NNxiAc | Brain Exercise Tips / Clapping Benefits You Didn’t Know / Acharya Manish Ji / HiiMS | 5:22 | 25000 | 2023-11-27 | in_progress
 MiFfumi0UzE | Weight Loss Secrets Revealed ! Lose weight fast with Acharya Manish / Aacharya Manish ji | 6:01 | 25000 | 2018-11-27 | todo
 A1yzd2XwwIw | Winter Health Tips / Top Superfoods for Winter / Acharya Manish Ji / HiiMS | 6:16 | 24000 | 2022-11-27 | todo
 zkoqida7faw | How to Improve Gut Health / Best Drinks To Cleanse Your Gut / Acharya Manish Ji / HiiMS | 10:42 | 23000 | 2022-11-27 | todo

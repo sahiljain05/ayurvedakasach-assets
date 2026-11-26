@@ -1,5 +1,7 @@
 # Bigger source pool from the official channel (user approved, 26 Nov)
 
+> **Clip rules v2 (26 Nov 2026 23:02 IST):** sources/RULES_V2.md replaces the stricter compliance parts of this spec (disease diet/routine guidance, general prevention talk, anonymised patient-question answers, bold hooks and 30-180 s reels are now allowed; the 3 hard lines stay). Where this file says otherwise, RULES_V2.md wins.
+
 Problem: 26 Nov only 1 reel posted; queue is empty. LIVE_MODE gave 4 clips from 17 lives/webinars (most were disease/patient/promo webinars, phone-number tickers, or Acharya Ji not speaking). Same compliance rules stay; we need many more clean lifestyle sources.
 
 ## 1. Build the pool (no vidIQ)
