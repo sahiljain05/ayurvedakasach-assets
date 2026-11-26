@@ -1532,5 +1532,30 @@
   "qc": "pass",
   "file": "clips/4doMaMRmgSs_c2.mp4",
   "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/4doMaMRmgSs_c2.mp4"
+ },
+ {
+  "id": "eA-JbXcO7ik_c1",
+  "source": "eA-JbXcO7ik.mp4",
+  "start": 207.37,
+  "end": 247.8,
+  "broll": [
+   [
+    222.8,
+    228.95
+   ]
+  ],
+  "topic": "fruits and salads are not 'raw food': they are ripened by the sun; we pick the best vegetables and then cook them to death",
+  "hook": "सलाद कच्चा भोजन? बिल्कुल नहीं!",
+  "title": "फल-सलाद कच्चा भोजन नहीं, सूरज में पका है | आचार्य मनीष जी",
+  "caption": "फल और सलाद को 'कच्चा भोजन' कहते हैं? 🥗☀️\nआचार्य मनीष जी कहते हैं: ये कच्चे नहीं, सूरज की रोशनी में धरती पर पके हुए हैं, और हम इन्हें ही सबसे कम खाते हैं।\nबाज़ार से एक-एक टमाटर, भिंडी, करेला छांट-छांटकर लाते हैं, और घर लाकर सबको आग पर चढ़ा देते हैं।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #RawFood #Salad #FruitsFirst #आयुर्वेद",
+  "research_short": "",
+  "research": [],
+  "speaker": "Acharya Manish Ji",
+  "credit_line": "🎥 Clip: Acharya Manish Ji (official YouTube) · https://www.youtube.com/watch?v=eA-JbXcO7ik",
+  "pool_id": "eA-JbXcO7ik",
+  "status": "ready",
+  "qc": "pass",
+  "file": "clips/eA-JbXcO7ik_c1.mp4",
+  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/eA-JbXcO7ik_c1.mp4"
  }
 ]
