@@ -1,0 +1,93 @@
+# SOURCE_POOL.md pool: official @acharyamanishji regular uploads (/videos tab), built 2026-11-26 with yt-dlp --flat-playlist (dates approximate).
+# 4-45 min, lifestyle/diet/dincharya/yoga/mind/seasonal/kitchen/Ayurveda-concept/podcast titles; named disease, cure, testimonial/patient story,
+# hospital/centre/package, product, mantra/havan, Dr. BRC titles dropped; IDs already in new_videos/live_videos/webinar_log/queue.json/videos.txt/done skipped.
+# Only 87 of 1088 in-range uploads qualified (target was top 150). Ranked by view_count.
+# Format: id | title | length | views | date | status
+# status: todo | in_progress | done (<n> clips, <date>) | skipped (<reason>). Process top-down (same rules as live_videos.txt).
+U_IBoo6v3GE | How to Make Living Water at Home / Keep Yourself Healthy / Acharya Manish Ji / HiiMS | 12:47 | 102000 | 2022-11-27 | todo
+lEj9rsDMmN4 | योग है स्वास्थ्य के लिए क्रांति नियमित योग से जीवन मे हो / Acharya Manish /Aacharya Manish ji | 30:06 | 88000 | 2016-11-27 | todo
+4DJTYD7Rr-g | Best Way for Detoxification / DIP Diet Benefits / Acharya Manish Ji / HiiMS | 6:02 | 68000 | 2023-11-27 | todo
+4doMaMRmgSs | Gut Health Tips / What Happens When You Overeat / Acharya Manish ji / HiiMS | 5:06 | 63000 | 2023-11-27 | todo
+Bu0riJUVLqc | Mental Health Tips / Ayurvedic Insights on Eating / Acharya Manish Ji / HiiMS | 4:01 | 61000 | 2021-11-27 | todo
+oO2ibYGK8x4 | How to Balance Vata, Pitta & Kapha Naturally? / Acharya Manish Ji / HiiMS | 10:06 | 54000 | 2021-11-27 | todo
+kJHQk2Yx1a4 | How to Stay Healthy? / Ayurvedic Care / Acharya Manish Ji / HiiMS | 7:08 | 54000 | 2023-11-27 | todo
+gkjet_UUqw0 | Improve Gut Health Tips / Why You Should Avoid Non-Veg / Acharya Manish Ji / HiiMS | 4:11 | 53000 | 2021-11-27 | todo
+o-n_ol-pq4Q | Ayurveda Routine For Healthy Life / Disease Prevention Tips / Acharya Manish Ji / Neelima Vishwas | 16:14 | 40000 | 2026-02-27 | todo
+njH87q9d0gc | बीमारियों से बचने का उपाय / इम्युनिटी बढ़ाने का तरीका / How To Boost Your Immunity Power / HiiMS | 5:29 | 40000 | 2025-11-27 | todo
+GlEQ7FJY79Y | Change Your Habits Change Your Life / Acharya Manish / Aacharya Manish ji | 16:31 | 32000 | 2018-11-27 | todo
+rZVscBUM26E | रोगप्रतिरोधक क्षमता बढ़ाने के उपाय / How to Boost Immunity / Acharya Manish / Aacharya Manish ji | 13:58 | 31000 | 2018-11-27 | todo
+D1Pb3qGcTE0 | Natural Detox / Benefits of Fasting / Acharya Manish Ji / HiiMS | 6:21 | 28000 | 2023-11-27 | todo
+sXp-2F2Q4uQ | Indian Wrestler Sangram Singh का Fitness Routine और Healthy Diet Secrets / Acharya Manish Ji | 5:04 | 26000 | 2026-05-27 | todo
+vMWC2NNxiAc | Brain Exercise Tips / Clapping Benefits You Didn’t Know / Acharya Manish Ji / HiiMS | 5:22 | 25000 | 2023-11-27 | todo
+MiFfumi0UzE | Weight Loss Secrets Revealed ! Lose weight fast with Acharya Manish / Aacharya Manish ji | 6:01 | 25000 | 2018-11-27 | todo
+A1yzd2XwwIw | Winter Health Tips / Top Superfoods for Winter / Acharya Manish Ji / HiiMS | 6:16 | 24000 | 2022-11-27 | todo
+zkoqida7faw | How to Improve Gut Health / Best Drinks To Cleanse Your Gut / Acharya Manish Ji / HiiMS | 10:42 | 23000 | 2022-11-27 | todo
+xLM6tccLTPg | Disease Prevention / Importance of Yoga Explained / Acharya Manish Ji / HiiMS | 29:56 | 23000 | 2023-11-27 | todo
+uLwl6iW1D04 | The Secret to a Long and Healthy Life / Acharya Manish | 10:57 | 22000 | 2018-11-27 | todo
+Wd2ia1AycRY | Daily Routine for Gut Health and Immunity / PH Balanced Diet / Acharya Manish Ji / Tushar Kaushik | 4:57 | 22000 | 2026-02-27 | todo
+eA-JbXcO7ik | How to Improve Digestion? / Panchakarma Therapies / Acharya Manish Ji | 7:24 | 21000 | 2025-11-27 | todo
+7C7jG6kmwZY | Amazing Health Benefits of Yoga / Malasna Benefits / Acharya Manish Ji / HiiMS | 8:54 | 20000 | 2023-11-27 | todo
+X8-o8U7c3M0 | आओ जीना सीखें / Stop Worrying And Start Living / Acharya Manish / Aacharya Manish ji | 12:39 | 19000 | 2018-11-27 | todo
+nvLzzrazM7M | If you care for your health - You can't miss this video of Acharya Manish Ji - Ayurveda Guru | 30:03 | 18000 | 2019-11-27 | todo
+wBqnfkV8AxA | How to Improve Immunity in Winter? / Acharya Manish Ji / HiiMS | 13:11 | 17000 | 2022-11-27 | todo
+0J9_8hkRePo | रोगों से बचाव के आयुर्वेदिक नियम / आचार्य मनीष जी से जानें चरक संहिता के सिद्धांत | 17:52 | 17000 | 2026-04-27 | todo
+NTAf2tPXpDg | ध्यान कैसे लगाएं? / मैडिटेशन करने का सही तरीका / मैडिटेशन के फायदे / Acharya Manish ji | 35:14 | 16000 | 2026-09-27 | todo
+tY7xuUfddKY | Key to Success / Life / Business / Motivational / Stories / Speech / Speaker / Acharya Manish Ji | 5:42 | 15000 | 2019-11-27 | todo
+KWCfzdHmTUk | Keys to Success / Mind Control / Body / Challenge / Motive / Aim / Meditation / Business / Motivation | 4:57 | 15000 | 2019-11-27 | todo
+WSGxnjI7hgo | करें स्वस्थ आहार का सेवन, श्रेष्ठ आरोग्य रहे हर क्षण Acharya Manish / Aacharya Manish ji | 30:06 | 12000 | 2017-11-27 | todo
+7nbr2nXbb_Y | Gut Health Tips / Weekly Fasting Benefits Explained / Acharya Manish Ji | 5:48 | 12000 | 2022-11-27 | todo
+x35csNZKqYE | Disease Prevention Tips / Amazing Health Benefits of Millets / Acharya Manish Ji / HiiMS | 7:47 | 11000 | 2023-11-27 | todo
+uMUTu_ROhwk | Make Coconut Milk at Home / Coconut Milk and Curd Recipe / Acharya Manish Ji / HiiMS | 31:22 | 11000 | 2022-11-27 | todo
+my5EkRMB9e8 | Gut Health Tips / Ambali Recipe Explained / Acharya Manish Ji / HiiMS | 8:21 | 11000 | 2022-11-27 | todo
+6xHf3VG2mwE | Lifestyle Disorders Preventions / How to Balance, Vat, Pitta & Kapha? / Acharya Manish Ji / HiiMS | 9:18 | 11000 | 2022-11-27 | todo
+EAzGPLpHgNg | Haldi Ki Ganth के असली Guru से मिले Sidharth Sagar 😂 / Acharya Manish Ji / What Nonsense Podcast | 25:50 | 9400 | 2026-06-27 | todo
+6eTsDlqX54s | जानिए कुछ अमूल्य Health Tips - Ayurveda Guru आचार्य मनीष जी से | 28:04 | 8100 | 2019-11-27 | todo
+JY8TSvbsrpc | Eye Health Tips / How to Boost Vision Naturally / Acharya Manish Ji / HiiMS | 6:29 | 8000 | 2022-11-27 | todo
+hyRFr5NeW7g | Aim / Change / Life / Motivation / Healthy / Wealthy / Happiness / Divinity / Body / Mind / Diet | 6:28 | 7700 | 2019-11-27 | todo
+X-UjqGTHQU8 | Healthy Weight Loss Tips / Dieting Pros & Cons / Acharya Manish Ji / HiiMS | 28:51 | 7100 | 2022-11-27 | todo
+crpsIKdfbyk | Improve Gut Health / Right Way to Eat Chapati / Acharya Manish Ji / HiiMS | 4:37 | 6900 | 2022-11-27 | todo
+3vBv22AZIDM | Healthy Millets Khichdi Recipe / Mrs. Mona Grover / Acharya Manish Ji / HiiMS | 4:39 | 6600 | 2022-11-27 | todo
+I-Ayh9XxAsc | Disease Prevention Tips / Self Healing Power Of Human Body / Acharya Manish Ji / HiiMS | 27:08 | 6400 | 2025-11-27 | todo
+UazbQTQrePA | स्वस्थ्य रहने का प्राकृतिक तरीका / Natural Way To Stay Healthy / Acharya Manish / Aacharya Manish ji | 13:23 | 5900 | 2018-11-27 | todo
+9NkWKxAMWP8 | Improve Your Immunity Naturally / Benefits of Fasting / Acharya Manish Ji / HiiMS | 8:14 | 5900 | 2020-11-27 | todo
+90rTHaPS2fc | Gut Health Tips / The Right Way to Eat Grains / Acharya Manish Ji / HiiMS | 4:31 | 5800 | 2022-11-27 | todo
+e8Gn8Ko426I | Nutritious Millets Dalia Recipe / Mrs. Mona Grover / Acharya Manish Ji / HiiMS | 5:43 | 5700 | 2022-11-27 | todo
+HCe8eYCJIOI | Metabolism कम होने के संकेत / पाचन कमजोर होने के कारण / Body Detox कैसे करें? / Acharya Manish Ji | 11:37 | 5300 | 2026-07-27 | todo
+1rRSE7l_Z08 | How to Be Healthy? / 5 Things to Avoid in Your Daily Routine / Acharya Manish Ji / HiiMS | 7:29 | 4900 | 2023-11-27 | todo
+G6JhVkJuUPg | How to Improve Your Focus? / Motivational Speech by Acharya Manish Ji / HiiMS | 5:30 | 4600 | 2022-11-27 | todo
+j0_3lMIPReY | Easy Millet Chapati at Home / Cooking Tips with Mrs. Mona Grover / Acharya Manish Ji / HiiMS | 7:26 | 4500 | 2022-11-27 | todo
+hsYULEzmcjs | Gut Health Tips / Importance of Fasting / Dr. Awadhesh Pandey / Acharya Manish Ji / HiiMS | 23:54 | 3900 | 2022-11-27 | todo
+FBLYhQA2xrU | Disease Prevention Tips / Balance Vata Pitta Kapha / Acharya Manish Ji | 4:13 | 3900 | 2025-11-27 | todo
+-ujtjxItB70 | Stress & Anxiety Management / Ayurvedic & Natural Ways / Acharya Manish Ji | 5:04 | 3600 | 2025-11-27 | todo
+9oaZlTnbeIE | How to Reduce Weight? / Natural Ways / Acharya Manish Ji / HiiMS Experts | 21:12 | 3400 | 2022-11-27 | todo
+agubslaqhzQ | बाहर का खाना कितना Safe है? / Restaurant Food Reality Explained / Acharya Manish Ji | 9:26 | 2900 | 2026-05-27 | todo
+TVPOlicTZcE | Bodybuilding Tips / Protein Myths vs Facts / Dr Awadhesh Pandey / Acharya Manish Ji | 5:51 | 2800 | 2022-11-27 | todo
+xvZGpriG7Fo | Gut Health Tips / Fermented Barnyard Millets Recipe / Acharya Manish Ji / HiiMS | 6:22 | 2300 | 2022-11-27 | todo
+d4KNM0AaLVs | Stress और Anxiety का शरीर पर क्या असर पड़ता है? / बीमारियों की असली वजह क्या है? / Acharya Manish Ji | 6:19 | 2200 | 2026-08-27 | todo
+Q_fj8tjEcWI | आंतों की सफाई कैसे करें / Detox Digestive System / पेट की गंदगी बाहर / Acharya Manish Ji | 5:47 | 2200 | 2026-06-27 | todo
+qlO2bZW9MTs | Why Ayurveda Is Vital for Your Health / Importance of Ayurveda / Acharya Manish ji | 16:46 | 2100 | 2023-11-27 | todo
+RktPszQ55Uk | Goals Achieve Nahi Ho Rahe? / 5 Powerful Success Steps Explained / Acharya Manish Ji | 8:24 | 2000 | 2026-05-27 | todo
+e8YMwRUlkYY | Improve Gut Health / Right Way to Chew Food / Acharya Manish Ji / HiiMS | 4:26 | 1900 | 2022-11-27 | todo
+IhayFeGFp8c | Bhagavad Gita for Focus & Discipline / Overthinking, Distractions & Focus Tips / Acharya Manish Ji | 9:30 | 1800 | 2026-05-27 | todo
+2SohgBNXKbo | Reconnect with Earth / Benefits of Walking Barefoot Explained / Acharya Manish Ji / HiiMS | 5:08 | 1800 | 2022-11-27 | todo
+vabp6TV2s-I | अंडे खाने के नुकसान / Side Effects of Eating Eggs / नारियल के दही के फायदे / Acharya Manish Ji | 6:33 | 1500 | 2026-11-26 | todo
+aUeente8yME | Healthy Living Tips / Medicinal Plants in Your Kitchen / Dr Amar Singh Azad / Acharya Manish Ji | 12:53 | 1500 | 2022-11-27 | todo
+86gw3oYvu5I | Gut Health Tips / Best Grains to Eat / Dr Amar Singh Azad / Acharya Manish Ji / HiiMS | 11:55 | 1500 | 2022-11-27 | todo
+Vza1nKyUxxk | Top Natural Source of Vitamin D / Dr Awadhesh Pandey / Acharya Manish Ji / HiiMS | 6:30 | 1400 | 2022-11-27 | todo
+xIDkAeBr48s | Never Take Your Health for Granted / Inspirational Story / HiiMS / Acharya Manish Ji | 7:56 | 1200 | 2022-11-27 | todo
+fX-CSJ1wwg8 | Healthy रहने के लिए आयुर्वेद क्यों ज़रूरी? / AI Impact Summit 2026 &TiE Chandigarh / Acharya Manish | 23:44 | 1200 | 2026-02-27 | todo
+SdWq7EqTit8 | How to Stay Healthy? / Simple Habit Changes / Acharya Manish Ji / HiiMS | 4:34 | 1200 | 2022-11-27 | todo
+9-5DDBcZkCI | Gut Health Tips / Importance of Satvic Diet / Acharya Manish Ji / HiiMS Experts | 13:23 | 1200 | 2022-11-27 | todo
+-nPWlfJCU30 | How to Make Alkaline Water / Daily Health Tips / Acharya Manish Ji / HiiMS | 7:23 | 1200 | 2022-11-27 | todo
+y3fcrH3UNfs | Relationships Are Strength, Not Weakness / Inspirational Story / Acharya Manish Ji / HiiMS | 4:41 | 1100 | 2022-11-27 | todo
+WMpB8R5Xre8 | Boost Vitamin D Levels Naturally / Dr Khadar Valli / Acharya Manish Ji / HiiMS | 4:43 | 1100 | 2022-11-27 | todo
+rPlK49y_YbU | How the Body Heals Itself / Ayurvedic Science Explained / Dr Amar Singh Azad / Acharya Manish Ji | 7:03 | 1000 | 2022-11-27 | todo
+ciHEsDA8i_U | Improve Gut Health Naturally / Power of Millets / Dr Amar Singh Azad / Acharya Manish Ji | 8:57 | 1000 | 2022-11-27 | todo
+nUziRH8ct-Y | How to Achieve Your Goal? / Motivational Speech by Acharya Manish Ji | 5:30 | 951 | 2022-11-27 | todo
+VSjWnU2ppUc | Health Tips / What is Veg-Dharan & Its Effects / Acharya Manish Ji / HiiMS | 5:09 | 940 | 2022-11-27 | todo
+Evg2GOYogDU | Gut Health Tips / Benefits of Structured Water / Dr Khadar Valli / Acharya Manish Ji / HiiMS | 6:58 | 904 | 2022-11-27 | todo
+jxEeXxRX3bI | Life Motivation from Bhagavad Gita / Overthinking & Fear Control / Acharya Manish Ji | 4:34 | 885 | 2026-05-27 | todo
+iTW3T4Ft5mU | Improve Your Gut Health / Positive Millets Benefits / Dr Khadar Valli / Acharya Manish Ji / HiiMS | 6:06 | 868 | 2022-11-27 | todo
+_2IJvhjyxAQ | Does Dieting Help in Weight Loss? / Expert Opinion / HiiMS / Acharya Manish Ji | 26:00 | 719 | 2022-11-27 | todo
+cYs_4LkPsuE | Health Tips / How to Plan Your Diet / Dr Amar Singh Azad / Acharya Manish Ji / HiiMS | 8:57 | 718 | 2022-11-27 | todo
+vP1jso5rn10 | What Does True Health Really Mean? / HiiMS Doctors / Acharya Manish Ji | 4:45 | 612 | 2021-11-27 | todo
