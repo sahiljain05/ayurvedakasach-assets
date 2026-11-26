@@ -1633,5 +1633,38 @@
   "qc": "pass",
   "file": "clips/sXp-2F2Q4uQ_c1.mp4",
   "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/sXp-2F2Q4uQ_c1.mp4"
+ },
+ {
+  "id": "zkoqida7faw_c1",
+  "source": "zkoqida7faw.mp4",
+  "start": 324.93,
+  "end": 365.92,
+  "broll": [
+   [
+    324.93,
+    333.95
+   ],
+   [
+    338.7,
+    349.0
+   ],
+   [
+    351.5,
+    365.92
+   ]
+  ],
+  "topic": "white petha (ash gourd / kushmanda) juice: how to make it, traditionally taken on an empty stomach for gut cleansing",
+  "hook": "सफेद पेठे का जूस!",
+  "title": "सफेद पेठा (कूष्मांड) का जूस कैसे बनाएं | आचार्य मनीष जी",
+  "caption": "आगरा के पेठे वाली सब्ज़ी, सफेद पेठा (कूष्मांड) 🍈\nआचार्य मनीष जी बताते हैं: इसके टुकड़े काटकर, थोड़ा पानी डालकर मिक्सी में घुमाओ और जूस बना लो। उनके अनुसार रोज़ सुबह खाली पेट कुछ दिन यह जूस पीना आंतों की सफाई में मदद करता है।\nआयुर्वेदिक परंपरा में कूष्मांड को खास माना जाता है; नवरात्रों और व्रतों में इसका पूजन भी होता है।\n\n#AyurvedaKaSach #AcharyaManishJi #Ayurveda #AshGourd #PethaJuice #GutHealth #आयुर्वेद",
+  "research_short": "",
+  "research": [],
+  "speaker": "Acharya Manish Ji",
+  "credit_line": "🎥 Clip: Acharya Manish Ji (official YouTube) · https://www.youtube.com/watch?v=zkoqida7faw",
+  "pool_id": "zkoqida7faw",
+  "status": "ready",
+  "qc": "pass",
+  "file": "clips/zkoqida7faw_c1.mp4",
+  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/zkoqida7faw_c1.mp4"
  }
 ]
