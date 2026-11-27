@@ -1679,7 +1679,56 @@
     "ig_media_id": "18017661278978811",
     "posted_ig_at": "2026-11-27T07:00:43.572516+00:00",
     "fb_video_id": "29985176577756938",
-    "posted_fb_at": "2026-11-27T07:10:13.272361+00:00"
+    "posted_fb_at": "2026-11-27T07:10:13.272361+00:00",
+    "yt_seo": {
+      "primary": "कच्चा भोजन या पका भोजन",
+      "primary_hinglish": "raw food vs cooked food",
+      "secondary": [
+        "raw food vs cooked food",
+        "raw food cooked food",
+        "salad khane ke fayde",
+        "फल और सलाद कच्चा भोजन"
+      ],
+      "title": "कच्चा भोजन या पका? सलाद तो सूरज में पका है | Acharya Manish Ji",
+      "lead": "कच्चा भोजन या पका भोजन, फल और सलाद को हम कच्चा भोजन क्यों कहते हैं? इस वीडियो में आचार्य मनीष जी बताते हैं कि फल और सलाद कच्चे नहीं हैं, ये सूरज की रोशनी में धरती पर पके हुए हैं।",
+      "points": [
+        "• फल और सलाद को 'कच्चा भोजन' कहना इनकी बेइज्जती करना है।",
+        "• बीज बोया, फिर सूरज की रोशनी में वह पका, खिला और बना, यानी यह धरती का पका हुआ भोजन है।",
+        "• यह नेचुरल भोजन है, फिर भी हम इसे सबसे कम खाते हैं।",
+        "• बाज़ार से एक-एक खीरा, टमाटर, भिंडी, करेला और घिया छांट-छांटकर लाते हैं।",
+        "• और घर लाकर सबको आग पर चढ़ा देते हैं।"
+      ],
+      "hashtags": [
+        "#आयुर्वेद",
+        "#सलाद",
+        "#कच्चाभोजन"
+      ],
+      "playlist": "diet",
+      "en_title": "Raw or cooked food? Salad is already cooked by the sun | Acharya Manish Ji",
+      "en_description": "Acharya Manish Ji explains that fruits and salads are not 'raw food' because they are ripened by sunlight, yet we eat them the least and cook the vegetables we carefully pick.",
+      "comment": "आप रोज़ के खाने में फल और सलाद कितना खाते हैं? 👇",
+      "source_url": "https://www.youtube.com/watch?v=eA-JbXcO7ik"
+    },
+    "yt_title": "कच्चा भोजन या पका? सलाद तो सूरज में पका है | Acharya Manish Ji",
+    "yt_tags": [
+      "कच्चा भोजन या पका भोजन",
+      "raw food vs cooked food",
+      "raw food cooked food",
+      "salad khane ke fayde",
+      "फल और सलाद कच्चा भोजन",
+      "Acharya Manish Ji",
+      "आचार्य मनीष जी",
+      "Ayurveda Ka Sach",
+      "आयुर्वेद"
+    ],
+    "yt_seo_steps": [
+      "captions",
+      "playlist",
+      "comment"
+    ],
+    "yt_seo_done": [],
+    "yt_video_id": "B4q64Y_7nIY",
+    "posted_yt_at": "2026-11-27T07:20:36.952587+00:00"
   },
   {
     "id": "eA-JbXcO7ik_c2",
