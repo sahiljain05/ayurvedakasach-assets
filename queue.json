@@ -1756,7 +1756,59 @@
     "ig_media_id": "18141535318629065",
     "posted_ig_at": "2026-11-27T12:31:10.120009+00:00",
     "fb_video_id": "2121676725124360",
-    "posted_fb_at": "2026-11-27T12:40:10.229907+00:00"
+    "posted_fb_at": "2026-11-27T12:40:10.229907+00:00",
+    "yt_seo": {
+      "primary": "शेल्फ लाइफ क्या है",
+      "primary_hinglish": "shelf life kya hota hai",
+      "secondary": [
+        "shelf life ka matlab kya hota hai",
+        "expiry date kaise dekhe",
+        "एक्सपायरी डेट कैसे देखें",
+        "preservative wala khana",
+        "packet wala khana nuksan"
+      ],
+      "title": "शेल्फ लाइफ क्या है? ज़्यादा शेल्फ लाइफ का सच | आचार्य मनीष जी",
+      "lead": "शेल्फ लाइफ क्या है और पैकेट वाला खाना लेते समय इसे कैसे समझें? इस वीडियो में आचार्य मनीष जी एक आसान फॉर्मूला बताते हैं, जिससे आप शेल्फ लाइफ और सेल्फ लाइफ का रिश्ता समझ पाएंगे।",
+      "points": [
+        "• हम शोरूम से पैकेट वाला खाना लेते हैं और उस पर एक्सपायरी डेट पढ़ते हैं",
+        "• फॉर्मूला: जिसकी जितनी ज़्यादा Shelf life, उसका 'H' हटा दो, उतनी कम Self life",
+        "• जितनी ज़्यादा शेल्फ लाइफ होगी, उतना ज़्यादा उसमें प्रिज़र्वेटिव होगा",
+        "• लंबी शेल्फ लाइफ वाले खाने में केमिकल भी उतना ज़्यादा होगा",
+        "• अगली बार पैकेट फूड खरीदें तो एक्सपायरी डेट के साथ यह बात भी याद रखें"
+      ],
+      "hashtags": [
+        "#आयुर्वेद",
+        "#ShelfLife",
+        "#PackagedFood"
+      ],
+      "playlist": "diet",
+      "en_title": "What is shelf life? The truth about long shelf life | Acharya Manish Ji",
+      "en_description": "Acharya Manish Ji shares a simple formula: the longer a packaged food's shelf life, the more preservatives and chemicals it contains, and the shorter your 'self life'.",
+      "comment": "आप पैकेट वाला खाना खरीदते समय उसकी एक्सपायरी डेट देखते हैं या नहीं? 👇",
+      "source_url": "https://www.youtube.com/watch?v=eA-JbXcO7ik"
+    },
+    "yt_title": "शेल्फ लाइफ क्या है? ज़्यादा शेल्फ लाइफ का सच | आचार्य मनीष जी",
+    "yt_tags": [
+      "शेल्फ लाइफ क्या है",
+      "shelf life kya hota hai",
+      "shelf life ka matlab kya hota hai",
+      "expiry date kaise dekhe",
+      "एक्सपायरी डेट कैसे देखें",
+      "preservative wala khana",
+      "packet wala khana nuksan",
+      "Acharya Manish Ji",
+      "आचार्य मनीष जी",
+      "Ayurveda Ka Sach",
+      "आयुर्वेद"
+    ],
+    "yt_seo_steps": [
+      "captions",
+      "playlist",
+      "comment"
+    ],
+    "yt_seo_done": [],
+    "yt_video_id": "3U6vEQJjfZM",
+    "posted_yt_at": "2026-11-27T12:50:34.323635+00:00"
   },
   {
     "id": "Wd2ia1AycRY_c1",
