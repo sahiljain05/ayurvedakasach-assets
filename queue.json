@@ -2072,5 +2072,70 @@
   "qc": "pass",
   "file": "clips/7C7jG6kmwZY_c1.mp4",
   "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/7C7jG6kmwZY_c1.mp4"
+ },
+ {
+  "id": "7C7jG6kmwZY_c2",
+  "source": "7C7jG6kmwZY.mp4",
+  "start": 224.29,
+  "end": 300.32,
+  "cut": [
+   [
+    264.9,
+    274.1
+   ],
+   [
+    278.7,
+    282.8
+   ]
+  ],
+  "topic": "calves hold about 3x more blood than the brain ('akal ghutnon mein' saying) and how to do Ukdu Namaskar asana every morning",
+  "hook": "दिमाग से 3 गुना खून यहाँ!",
+  "title": "दिमाग से 3 गुना खून पिंडलियों में! उकडू नमस्कार आसन | आचार्य मनीष जी",
+  "caption": "दिमाग से 3 गुना खून आपकी पिंडलियों में! 🦵\nआचार्य मनीष जी के अनुसार दिमाग में लगभग 150 ग्राम खून रहता है और एक पिंडली में करीब 250 ग्राम, इसीलिए पुरखों की कहावत है: \"अकल घुटनों में है\"।\nउनकी सलाह: रोज़ सुबह उठते ही, खाली पेट, 5 मिनट उकडू नमस्कार आसन में बैठें: एड़ी और पंजे जुड़े, हाथ घुटनों के बीच जोड़कर नमस्कार।\n\n#AyurvedaKaSach #AcharyaManishJi #Yoga #UkduNamaskar #MorningRoutine #दिनचर्या #आयुर्वेद",
+  "research_short": "",
+  "research": [],
+  "speaker": "Acharya Manish Ji",
+  "credit_line": "🎥 Clip: Acharya Manish Ji (official YouTube) · https://www.youtube.com/watch?v=7C7jG6kmwZY",
+  "pool_id": "7C7jG6kmwZY",
+  "tightened": {
+   "orig_source": "7C7jG6kmwZY.mp4",
+   "orig_start": 224.29,
+   "orig_end": 300.32,
+   "cuts": [
+    [
+     232.04,
+     232.96
+    ],
+    [
+     238.72,
+     239.44
+    ],
+    [
+     247.64,
+     248.52
+    ],
+    [
+     253.48,
+     254.36
+    ],
+    [
+     264.9,
+     274.1
+    ],
+    [
+     277.0,
+     282.8
+    ],
+    [
+     292.76,
+     294.52
+    ]
+   ],
+   "removed_s": 20.16
+  },
+  "status": "ready",
+  "qc": "pass",
+  "file": "clips/7C7jG6kmwZY_c2.mp4",
+  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/7C7jG6kmwZY_c2.mp4"
  }
 ]
