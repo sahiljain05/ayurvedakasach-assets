@@ -1593,7 +1593,59 @@
     "ig_media_id": "17959899099321668",
     "posted_ig_at": "2026-11-27T05:01:03.490751+00:00",
     "fb_video_id": "1152926974183148",
-    "posted_fb_at": "2026-11-27T05:10:12.582500+00:00"
+    "posted_fb_at": "2026-11-27T05:10:12.582500+00:00",
+    "yt_seo": {
+      "primary": "ज़्यादा खाना खाने से क्या होता है",
+      "primary_hinglish": "jyada khana khane se kya hota hai",
+      "secondary": [
+        "jyada khana khane se kya hota hai sharir mein",
+        "raat ko jyada khana khane se kya hota hai",
+        "jyada khana khane se kya nuksan hota hai",
+        "overeating ke nuksan",
+        "पार्टी का खाना"
+      ],
+      "title": "ज़्यादा खाना खाने से क्या होता है? पार्टी के थैले से समझिए",
+      "lead": "ज़्यादा खाना खाने से क्या होता है, इसे आचार्य मनीष जी एक आसान प्रयोग से समझाते हैं: पार्टी में आपने जितना खाया, उतना ही खाना एक थैले में भर लीजिए। फिर रात भर रखकर सुबह उस थैले की हालत देखिए।",
+      "points": [
+        "• पार्टी में जितना खाया, उतना खाना थैले में भरकर उसकी फोटो खींचिए, तब दिखेगा कि आपने कितना खाया।",
+        "• जितना थैले में दिख रहा है, उतना ही आपके अंदर भी है।",
+        "• रात भर लीवर, किडनी और हार्ट उस खाने को हजम करने में लगे रहते हैं।",
+        "• सुबह थैले से सड़ी हुई गंध आएगी, सामान सड़ने लगेगा, और कॉकरोच, मच्छर या कीड़े भी आ सकते हैं।",
+        "• आचार्य जी कहते हैं कि थैले को एक दिन और पड़ा रहने दीजिए, तब समझ आएगा कि आपकी बॉडी में होता क्या है।"
+      ],
+      "hashtags": [
+        "#आयुर्वेद",
+        "#ज़्यादाखाना",
+        "#Overeating"
+      ],
+      "playlist": "digestion",
+      "en_title": "What happens when you overeat? Understand it with a party food bag",
+      "en_description": "Acharya Manish Ji asks you to fill a bag with everything you ate at a party and look at how it has rotted by the next morning, to show what overeating puts inside your body.",
+      "comment": "आप पार्टी या शादी में भूख से ज़्यादा खा लेते हैं या कंट्रोल कर पाते हैं? 👇",
+      "source_url": "https://www.youtube.com/watch?v=4doMaMRmgSs"
+    },
+    "yt_title": "ज़्यादा खाना खाने से क्या होता है? पार्टी के थैले से समझिए",
+    "yt_tags": [
+      "ज़्यादा खाना खाने से क्या होता है",
+      "jyada khana khane se kya hota hai",
+      "jyada khana khane se kya hota hai sharir mein",
+      "raat ko jyada khana khane se kya hota hai",
+      "jyada khana khane se kya nuksan hota hai",
+      "overeating ke nuksan",
+      "पार्टी का खाना",
+      "Acharya Manish Ji",
+      "आचार्य मनीष जी",
+      "Ayurveda Ka Sach",
+      "आयुर्वेद"
+    ],
+    "yt_seo_steps": [
+      "captions",
+      "playlist",
+      "comment"
+    ],
+    "yt_seo_done": [],
+    "yt_video_id": "5uv-T3Gy0mw",
+    "posted_yt_at": "2026-11-27T05:20:35.300195+00:00"
   },
   {
     "id": "eA-JbXcO7ik_c1",
