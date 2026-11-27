@@ -1510,7 +1510,56 @@
     "ig_media_id": "18221371768351556",
     "posted_ig_at": "2026-11-27T02:30:51.649304+00:00",
     "fb_video_id": "4770459899901923",
-    "posted_fb_at": "2026-11-27T02:40:13.410676+00:00"
+    "posted_fb_at": "2026-11-27T02:40:13.410676+00:00",
+    "yt_seo": {
+      "primary": "शादी का खाना",
+      "primary_hinglish": "shadi ka khana",
+      "secondary": [
+        "शादी में खाना कितना खाएं",
+        "पार्टी में ज्यादा खाना",
+        "shaadi party mein kitna khayein",
+        "shadi me kitna khana khate hai"
+      ],
+      "title": "शादी का खाना: जितना खाओ, उतना थैले में डालो | Acharya Manish Ji",
+      "lead": "शादी का खाना खाते समय हम कितना कुछ खा जाते हैं, इसका अंदाज़ा ही नहीं रहता। इस क्लिप में आचार्य मनीष जी एक अनोखा तरीका बताते हैं: अगली शादी या पार्टी में एक बड़ा थैला साथ ले जाइए।",
+      "points": [
+        "• शादी, पार्टी, लंच या डिनर पर एक बड़ा कैरी बैग हाथ में लेकर जाएं",
+        "• हर स्टॉल पर जो खाएं, ठीक उतना ही थैले में भी डालें, जैसे दो गोलगप्पे खाए तो दो गोलगप्पे थैले में",
+        "• टिक्की, भल्ले, पापड़ी, सब कुछ वैसे का वैसा बैग में भरते जाएं",
+        "• बैठकर टिक्के, कटलेट या चिली का एक टुकड़ा लिया, तो एक टुकड़ा थैले में भी डाल दें"
+      ],
+      "hashtags": [
+        "#आयुर्वेद",
+        "#शादीकाखाना",
+        "#खानपान"
+      ],
+      "playlist": "diet",
+      "en_title": "Wedding food: put in a bag exactly what you eat | Acharya Manish Ji",
+      "en_description": "Acharya Manish Ji suggests carrying a big bag to weddings and parties and putting in it the same amount of every item you eat.",
+      "comment": "आपने पिछली शादी में कितनी चीज़ें खाई थीं, याद है? 👇",
+      "source_url": "https://www.youtube.com/watch?v=4doMaMRmgSs"
+    },
+    "yt_title": "शादी का खाना: जितना खाओ, उतना थैले में डालो | Acharya Manish Ji",
+    "yt_tags": [
+      "शादी का खाना",
+      "shadi ka khana",
+      "शादी में खाना कितना खाएं",
+      "पार्टी में ज्यादा खाना",
+      "shaadi party mein kitna khayein",
+      "shadi me kitna khana khate hai",
+      "Acharya Manish Ji",
+      "आचार्य मनीष जी",
+      "Ayurveda Ka Sach",
+      "आयुर्वेद"
+    ],
+    "yt_seo_steps": [
+      "captions",
+      "playlist",
+      "comment"
+    ],
+    "yt_seo_done": [],
+    "yt_video_id": "NgjNml3fZfc",
+    "posted_yt_at": "2026-11-27T02:50:33.450547+00:00"
   },
   {
     "id": "4doMaMRmgSs_c2",
