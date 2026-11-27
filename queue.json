@@ -1916,7 +1916,57 @@
     "ig_media_id": "18110755370579057",
     "posted_ig_at": "2026-11-27T16:30:52.909507+00:00",
     "fb_video_id": "1681418750362178",
-    "posted_fb_at": "2026-11-27T16:40:10.805982+00:00"
+    "posted_fb_at": "2026-11-27T16:40:10.805982+00:00",
+    "yt_seo": {
+      "primary": "सुबह उठते ही क्या करना चाहिए",
+      "primary_hinglish": "subah uthte hi kya karna chahiye",
+      "secondary": [
+        "सुबह उठते ही पहले क्या करना चाहिए",
+        "subah uthte hi pet saaf karne ka tarika",
+        "khali pet kadi patta chabane ke fayde",
+        "subah pet saaf karne ka aasan tarika"
+      ],
+      "title": "सुबह उठते ही क्या करें? हल्दी, अदरक, कड़ी पत्ता | आचार्य मनीष जी",
+      "lead": "सुबह उठते ही क्या करना चाहिए? इस वीडियो में आचार्य मनीष जी बताते हैं कि बिना कुल्ला और ब्रश किए, उकड़ू बैठकर हल्दी, अदरक और कड़ी पत्ता चबाने और फिर गरम पानी पीने से पेट को सुबह ठीक से साफ होने में मदद मिलती है।",
+      "points": [
+        "• रात को अच्छे से कुल्ला करके सोएं, सुबह उठकर बिना कुल्ला-ब्रश किए शुरुआत करें",
+        "• उकड़ू बैठकर हल्दी का एक टुकड़ा, अदरक का छोटा टुकड़ा और 10 कड़ी पत्ते खाली पेट चबाएं",
+        "• इसके बाद उकड़ू बैठे-बैठे ही गरम-गरम पानी पिएं",
+        "• उनके अनुसार पहले 5 मिनट में ही पेट साफ होने लगता है",
+        "• आयुर्वेद कहता है कि सबसे पहला काम है पेट का सेट होना"
+      ],
+      "hashtags": [
+        "#आयुर्वेद",
+        "#सुबहकीदिनचर्या",
+        "#पेटसाफ"
+      ],
+      "playlist": "routine",
+      "en_title": "What to do right after waking up? Turmeric, ginger, curry leaves | Acharya Manish Ji",
+      "en_description": "Acharya Manish Ji explains a morning routine: before brushing, squat and chew turmeric, ginger and curry leaves, then sip warm water while still squatting to help the stomach clear.",
+      "comment": "क्या आप सुबह उठकर सबसे पहले गरम पानी पीते हैं? 👇",
+      "source_url": "https://www.youtube.com/watch?v=Wd2ia1AycRY"
+    },
+    "yt_title": "सुबह उठते ही क्या करें? हल्दी, अदरक, कड़ी पत्ता | आचार्य मनीष जी",
+    "yt_tags": [
+      "सुबह उठते ही क्या करना चाहिए",
+      "subah uthte hi kya karna chahiye",
+      "सुबह उठते ही पहले क्या करना चाहिए",
+      "subah uthte hi pet saaf karne ka tarika",
+      "khali pet kadi patta chabane ke fayde",
+      "subah pet saaf karne ka aasan tarika",
+      "Acharya Manish Ji",
+      "आचार्य मनीष जी",
+      "Ayurveda Ka Sach",
+      "आयुर्वेद"
+    ],
+    "yt_seo_steps": [
+      "captions",
+      "playlist",
+      "comment"
+    ],
+    "yt_seo_done": [],
+    "yt_video_id": "HuWNtSaYaYY",
+    "posted_yt_at": "2026-11-27T16:50:29.635278+00:00"
   },
   {
     "id": "sXp-2F2Q4uQ_c1",
