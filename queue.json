@@ -2137,5 +2137,74 @@
   "qc": "pass",
   "file": "clips/7C7jG6kmwZY_c2.mp4",
   "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/7C7jG6kmwZY_c2.mp4"
+ },
+ {
+  "id": "tY7xuUfddKY_c1",
+  "source": "tY7xuUfddKY.mp4",
+  "start": 24.37,
+  "end": 234.88,
+  "cut": [
+   [
+    45.4,
+    62.6
+   ],
+   [
+    75.55,
+    82.5
+   ],
+   [
+    108.75,
+    113.25
+   ],
+   [
+    160.5,
+    170.0
+   ],
+   [
+    185.0,
+    191.4
+   ]
+  ],
+  "topic": "story: a lazy rich seth whose body became weak; a sadhu makes him walk to the ashram daily for two months; 'pehla sukh nirogi kaya'",
+  "hook": "आलसी सेठ और साधु की सीख",
+  "title": "आलसी सेठ को साधु ने कैसे सिखाया? पहला सुख निरोगी काया | आचार्य मनीष जी",
+  "caption": "पहला सुख निरोगी काया, दूसरा सुख जेब में माया 🙏\nआचार्य मनीष जी की एक छोटी सी कहानी: एक धनी सेठ इतना आलसी हो गया कि हाथ-पैर हिलाना भी मुश्किल हो गया। एक साधु ने उसे रोज़ अपने आश्रम तक पैदल बुलाया... और दो महीने में सेठ को समझ आ गया कि साधु उसे रोज़ क्यों बुला रहे थे।\nसीख: शरीर को चलाते रहिए, पैसे से सुविधाएं खरीदी जा सकती हैं, सेहत नहीं।\n\n#AyurvedaKaSach #AcharyaManishJi #MotivationalStory #NirogiKaya #Walking #HealthyLifestyle #आयुर्वेद",
+  "research_short": "",
+  "research": [],
+  "speaker": "Acharya Manish Ji",
+  "credit_line": "🎥 Clip: Acharya Manish Ji (official YouTube) · https://www.youtube.com/watch?v=tY7xuUfddKY",
+  "pool_id": "tY7xuUfddKY",
+  "tightened": {
+   "orig_source": "tY7xuUfddKY.mp4",
+   "orig_start": 24.37,
+   "orig_end": 234.88,
+   "cuts": [
+    [
+     45.4,
+     62.68
+    ],
+    [
+     75.55,
+     82.5
+    ],
+    [
+     108.75,
+     113.25
+    ],
+    [
+     160.4,
+     170.0
+    ],
+    [
+     185.0,
+     191.48
+    ]
+   ],
+   "removed_s": 44.81
+  },
+  "status": "ready",
+  "qc": "pass",
+  "file": "clips/tY7xuUfddKY_c1.mp4",
+  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/tY7xuUfddKY_c1.mp4"
  }
 ]
