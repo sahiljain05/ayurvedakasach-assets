@@ -1964,9 +1964,14 @@
       "playlist",
       "comment"
     ],
-    "yt_seo_done": [],
+    "yt_seo_done": [
+      "captions",
+      "playlist",
+      "comment"
+    ],
     "yt_video_id": "HuWNtSaYaYY",
-    "posted_yt_at": "2026-11-27T16:50:29.635278+00:00"
+    "posted_yt_at": "2026-11-27T16:50:29.635278+00:00",
+    "yt_seo_status": "done"
   },
   {
     "id": "sXp-2F2Q4uQ_c1",
