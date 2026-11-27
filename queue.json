@@ -2226,5 +2226,74 @@
   "qc": "pass",
   "file": "clips/KWCfzdHmTUk_c1.mp4",
   "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/KWCfzdHmTUk_c1.mp4"
+ },
+ {
+  "id": "JY8TSvbsrpc_c1",
+  "source": "JY8TSvbsrpc.mp4",
+  "start": 37.77,
+  "end": 147.4,
+  "cut": [
+   [
+    114.8,
+    131.2
+   ]
+  ],
+  "topic": "night and morning routine: sleep with head to east/south on the left side; on waking, shake the whole body in bed before getting up because blood pools in the abdomen during sleep",
+  "hook": "सुबह उठते ही ये गलती मत करना",
+  "title": "सुबह उठते ही सीधे खड़े मत हो जाइए! | आचार्य मनीष जी",
+  "caption": "सुबह आंख खुलते ही झटके से खड़े हो जाते हैं? ⏰\nआचार्य मनीष जी के अनुसार सोते समय शरीर का काफी खून पेट के आसपास घूमता रहता है, घुटनों, एड़ी और रीढ़ में कम रहता है।\nउनकी सलाह: रात को ब्रश करके, सिर पूर्व या दक्षिण में रखकर, बाईं करवट सोएं। सुबह बिस्तर पर लेटे-लेटे बच्चे की तरह पूरे हाथ-पैर हिलाएं, फिर बाईं करवट लेकर उठें।\n\n#AyurvedaKaSach #AcharyaManishJi #Dinacharya #MorningRoutine #दिनचर्या #SleepHabits #आयुर्वेद",
+  "research_short": "",
+  "research": [],
+  "speaker": "Acharya Manish Ji",
+  "credit_line": "🎥 Clip: Acharya Manish Ji (official YouTube) · https://www.youtube.com/watch?v=JY8TSvbsrpc",
+  "pool_id": "JY8TSvbsrpc",
+  "tightened": {
+   "orig_source": "JY8TSvbsrpc.mp4",
+   "orig_start": 37.77,
+   "orig_end": 147.4,
+   "cuts": [
+    [
+     47.52,
+     48.44
+    ],
+    [
+     50.24,
+     50.88
+    ],
+    [
+     54.56,
+     55.76
+    ],
+    [
+     61.44,
+     62.52
+    ],
+    [
+     63.52,
+     64.36
+    ],
+    [
+     79.68,
+     80.56
+    ],
+    [
+     84.96,
+     85.72
+    ],
+    [
+     114.8,
+     131.2
+    ],
+    [
+     137.64,
+     138.44
+    ]
+   ],
+   "removed_s": 23.52
+  },
+  "status": "ready",
+  "qc": "pass",
+  "file": "clips/JY8TSvbsrpc_c1.mp4",
+  "raw_url": "https://raw.githubusercontent.com/sahiljain05/ayurvedakasach-assets/main/clips/JY8TSvbsrpc_c1.mp4"
  }
 ]
