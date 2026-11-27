@@ -6,6 +6,15 @@
     "yt_video_id": "HxCy2IOcLpQ",
     "url": "https://www.youtube.com/watch?v=HxCy2IOcLpQ",
     "posted_at": "2026-11-27T13:30:08.829438+00:00",
-    "done": []
+    "done": [
+      "thumbnail",
+      "captions",
+      "playlist",
+      "comment"
+    ],
+    "errors": {
+      "thumbnail": "403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n        \"domain\": "
+    },
+    "thumbnail_note": "channel not verified for custom thumbnails: skipped"
   }
 ]
