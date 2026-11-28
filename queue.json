@@ -2042,9 +2042,14 @@
       "playlist",
       "comment"
     ],
-    "yt_seo_done": [],
+    "yt_seo_done": [
+      "captions",
+      "playlist",
+      "comment"
+    ],
     "yt_video_id": "LfbEs0c5nOQ",
-    "posted_yt_at": "2026-11-28T02:50:39.502096+00:00"
+    "posted_yt_at": "2026-11-28T02:50:39.502096+00:00",
+    "yt_seo_status": "done"
   },
   {
     "id": "zkoqida7faw_c1",
