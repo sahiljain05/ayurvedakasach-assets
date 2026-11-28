@@ -2194,7 +2194,57 @@
     "ig_media_id": "17914554921308991",
     "posted_ig_at": "2026-11-28T07:01:03.337762+00:00",
     "fb_video_id": "4113749228922073",
-    "posted_fb_at": "2026-11-28T07:10:08.982386+00:00"
+    "posted_fb_at": "2026-11-28T07:10:08.982386+00:00",
+    "yt_seo": {
+      "primary": "दिल 1 मिनट में कितनी बार धड़कता है",
+      "primary_hinglish": "ek minute me dil kitni baar dhadakta hai",
+      "secondary": [
+        "dil kitni baar dhadakta hai",
+        "sharir mein kitna khoon hota hai",
+        "insan ki naso ki lambai kitni hoti hai",
+        "kachua ki umar kitni hoti hai"
+      ],
+      "title": "दिल 1 मिनट में कितनी बार धड़कता है? कछुए की लंबी उम्र का राज",
+      "lead": "दिल 1 मिनट में कितनी बार धड़कता है, और कछुआ इतनी लंबी उम्र क्यों जीता है? इस क्लिप में आचार्य मनीष जी दिल की धड़कन, शरीर में खून की मात्रा और नसों की लंबाई का आसान हिसाब समझाते हैं।",
+      "points": [
+        "• आचार्य जी के अनुसार कछुए का दिल 1 मिनट में सिर्फ 12 बार पंप करता है, जबकि हमारा लगभग 72 बार",
+        "• हमारे शरीर में लगभग 5 से 5.5 लीटर खून होता है, जो हाइट के हिसाब से थोड़ा कम-ज़्यादा हो सकता है",
+        "• हर धड़कन में करीब 70 ml खून निकलता है, यानी 70 × 72 से 1 मिनट में लगभग 5 लीटर",
+        "• मतलब लगभग 1 मिनट में पूरे शरीर का खून हर कोशिका तक पहुँचकर वापस लौट आता है",
+        "• उनके अनुसार सारी आर्टरीज़, वेन्स और कैपिलरीज़ जोड़ें तो लंबाई पृथ्वी के लगभग 1.5 चक्कर जितनी है"
+      ],
+      "hashtags": [
+        "#आयुर्वेद",
+        "#दिल",
+        "#कछुआ"
+      ],
+      "playlist": "general",
+      "en_title": "How Many Times Does the Heart Beat in 1 Minute? The Tortoise's Long Life Secret",
+      "en_description": "Acharya Manish Ji explains why the tortoise lives so long by comparing heartbeats per minute, and how the heart moves about 5 litres of blood through the whole body in roughly one minute.",
+      "comment": "क्या आप जानते थे कि हमारा दिल लगभग 1 मिनट में पूरे शरीर का खून घुमा देता है? 👇",
+      "source_url": "https://www.youtube.com/watch?v=7C7jG6kmwZY"
+    },
+    "yt_title": "दिल 1 मिनट में कितनी बार धड़कता है? कछुए की लंबी उम्र का राज",
+    "yt_tags": [
+      "दिल 1 मिनट में कितनी बार धड़कता है",
+      "ek minute me dil kitni baar dhadakta hai",
+      "dil kitni baar dhadakta hai",
+      "sharir mein kitna khoon hota hai",
+      "insan ki naso ki lambai kitni hoti hai",
+      "kachua ki umar kitni hoti hai",
+      "Acharya Manish Ji",
+      "आचार्य मनीष जी",
+      "Ayurveda Ka Sach",
+      "आयुर्वेद"
+    ],
+    "yt_seo_steps": [
+      "captions",
+      "playlist",
+      "comment"
+    ],
+    "yt_seo_done": [],
+    "yt_video_id": "qQsI3MGZZPA",
+    "posted_yt_at": "2026-11-28T07:20:34.754357+00:00"
   },
   {
     "id": "7C7jG6kmwZY_c2",
