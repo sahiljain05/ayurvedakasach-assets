@@ -1994,7 +1994,57 @@
     "ig_media_id": "18111509123307664",
     "posted_ig_at": "2026-11-28T02:30:52.346918+00:00",
     "fb_video_id": "2401832273906931",
-    "posted_fb_at": "2026-11-28T02:40:11.751809+00:00"
+    "posted_fb_at": "2026-11-28T02:40:11.751809+00:00",
+    "yt_seo": {
+      "primary": "वेजिटेरियन प्रोटीन के लिए क्या खाएं",
+      "primary_hinglish": "vegetarian protein ke liye kya khaye",
+      "secondary": [
+        "chana protein source",
+        "bhigi mungfali aur chana khane ke fayde",
+        "moong dal chilla protein",
+        "khali pet kya nahi khana chahiye"
+      ],
+      "title": "वेजिटेरियन प्रोटीन के लिए क्या खाएं? चना, मूंगफली | संग्राम सिंह",
+      "lead": "वेजिटेरियन प्रोटीन के लिए क्या खाएं, क्या इसके लिए अंडा या नॉनवेज ज़रूरी है? पहलवान संग्राम सिंह आसान घरेलू चीज़ें बताते हैं और समझाते हैं कि खाली पेट क्या नहीं खाना चाहिए।",
+      "points": [
+        "• दो रोटी, थोड़ी दाल या चावल से आम इंसान को कार्बोहाइड्रेट और प्रोटीन मिल जाता है",
+        "• और ज़्यादा प्रोटीन चाहिए तो चना खाएं, यह प्रोटीन का बढ़िया स्रोत है",
+        "• रात को मूंगफली के दाने और चने भिगोकर रख दें",
+        "• खाली पेट दूध, चना, मूंगफली जैसी भारी चीज़ें या केला न खाएं, इनसे एसिडिटी बन सकती है; पहले कुछ हल्का खा लें",
+        "• इसके बाद मूंग दाल या बेसन का चीला भी खा सकते हैं"
+      ],
+      "hashtags": [
+        "#आयुर्वेद",
+        "#प्रोटीन",
+        "#शाकाहारी"
+      ],
+      "playlist": "diet",
+      "en_title": "What to Eat for Vegetarian Protein? Chana, Peanuts | Sangram Singh",
+      "en_description": "Wrestler Sangram Singh lists simple vegetarian protein sources like roti-dal, chana, soaked peanuts and moong or besan chilla, and says not to eat heavy foods or bananas on an empty stomach.",
+      "comment": "आप प्रोटीन के लिए रोज़ क्या खाते हैं: चना, मूंगफली या चीला? 👇",
+      "source_url": "https://www.youtube.com/watch?v=sXp-2F2Q4uQ"
+    },
+    "yt_title": "वेजिटेरियन प्रोटीन के लिए क्या खाएं? चना, मूंगफली | संग्राम सिंह",
+    "yt_tags": [
+      "वेजिटेरियन प्रोटीन के लिए क्या खाएं",
+      "vegetarian protein ke liye kya khaye",
+      "chana protein source",
+      "bhigi mungfali aur chana khane ke fayde",
+      "moong dal chilla protein",
+      "khali pet kya nahi khana chahiye",
+      "Acharya Manish Ji",
+      "आचार्य मनीष जी",
+      "Ayurveda Ka Sach",
+      "आयुर्वेद"
+    ],
+    "yt_seo_steps": [
+      "captions",
+      "playlist",
+      "comment"
+    ],
+    "yt_seo_done": [],
+    "yt_video_id": "LfbEs0c5nOQ",
+    "posted_yt_at": "2026-11-28T02:50:39.502096+00:00"
   },
   {
     "id": "zkoqida7faw_c1",
