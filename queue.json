@@ -2577,9 +2577,14 @@
       "playlist",
       "comment"
     ],
-    "yt_seo_done": [],
+    "yt_seo_done": [
+      "captions",
+      "playlist",
+      "comment"
+    ],
     "yt_video_id": "sh5mzjm7nW8",
-    "posted_yt_at": "2026-11-28T16:50:48.105409+00:00"
+    "posted_yt_at": "2026-11-28T16:50:48.105409+00:00",
+    "yt_seo_status": "done"
   },
   {
     "id": "JY8TSvbsrpc_c1",
